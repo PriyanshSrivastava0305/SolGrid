@@ -1,11 +1,7 @@
 import requests
-
 import os
-os.system("pip install --upgrade faiss-cpu langchain-community")
-
 from langchain_community.vectorstores import FAISS
 from langchain.embeddings import HuggingFaceEmbeddings
-from langchain.chains import RetrievalQA
 
 GROQ_API_KEY = os.getenv("GROQ_API_KEY", "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") 
 MODEL_ID = "llama-3.1-8b-instant" 
@@ -47,3 +43,22 @@ def generate_answer(query):
     prompt = f"Answer the question based on the context below:\n\nContext:\n{context}\n\nQuestion: {query}\nAnswer:"
     
     return query_groq_llm(prompt)
+
+
+# Terminal-based Q&A loop
+def terminal_qna():
+    """Run the Q&A process in the terminal."""
+    print("Welcome to the Q&A system! Type 'exit' to quit.")
+    while True:
+        query = input("Enter your question: ")
+        
+        if query.lower() == 'exit':
+            print("Goodbye!")
+            break
+        
+        answer = generate_answer(query)
+        print("\nAnswer:", answer)
+
+# Start the terminal Q&A loop
+if __name__ == "__main__":
+    terminal_qna()
