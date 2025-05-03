@@ -1,0 +1,7 @@
+beautifulsoup4
+requests
+mysql-connector-python
+sqlalchemy
+dash
+plotly
+pandas
