@@ -3,28 +3,39 @@ Configuration settings for the Solar Detective project.
 """
 import os
 from pathlib import Path
+from dotenv import load_dotenv
 
-# Base directory of the project
-BASE_DIR = Path(__file__).parent.absolute()
+# Load environment variables from .env file
+load_dotenv()
+
+# Base paths
+BASE_DIR = Path(__file__).parent
+DATA_DIR = BASE_DIR / 'data'
+LOG_DIR = BASE_DIR / 'logs'
 
 # Database configuration
-DATABASE_PATH = os.environ.get('SOLAR_DETECTIVE_DB_PATH', os.path.join(BASE_DIR, 'data', 'solar_detective.db'))
-DATABASE_URL = f"sqlite:///{DATABASE_PATH}"
+DATABASE_PATH = str(DATA_DIR / 'solar_detective.db')
+DATABASE_URL = f'sqlite:///{DATABASE_PATH}'
+
+# Mapbox configuration
+MAPBOX_TOKEN = os.getenv('MAPBOX_TOKEN', '')  # Get token from environment variable
+if not MAPBOX_TOKEN:
+    print("Warning: No Mapbox token found. Set the MAPBOX_TOKEN environment variable for full map functionality.")
 
 # Ensure data directory exists
-os.makedirs(os.path.dirname(DATABASE_PATH), exist_ok=True)
+os.makedirs(DATA_DIR, exist_ok=True)
 
 # Data scraping configuration
-SCRAPER_CACHE_DIR = os.path.join(BASE_DIR, 'data', 'cache')
-PDF_STORAGE_DIR = os.path.join(BASE_DIR, 'data', 'pdfs')
-SATELLITE_DATA_DIR = os.path.join(BASE_DIR, 'data', 'satellite')
+SCRAPER_CACHE_DIR = DATA_DIR / 'cache'
+PDF_STORAGE_DIR = DATA_DIR / 'pdfs'
+SATELLITE_DATA_DIR = DATA_DIR / 'satellite'
 
 # Ensure cache directories exist
 for directory in [SCRAPER_CACHE_DIR, PDF_STORAGE_DIR, SATELLITE_DATA_DIR]:
     os.makedirs(directory, exist_ok=True)
 
 # Data directories
-RAW_DATA_DIR = Path(BASE_DIR) / 'data' / 'raw'
+RAW_DATA_DIR = DATA_DIR / 'raw'
 os.makedirs(RAW_DATA_DIR, exist_ok=True)
 
 # API configuration
@@ -97,7 +108,7 @@ HEADERS = {
 
 # Logging configuration
 LOG_LEVEL = os.environ.get('SOLAR_DETECTIVE_LOG_LEVEL', 'INFO')
-LOG_FILE = os.path.join(BASE_DIR, 'logs', 'solar_detective.log')
+LOG_FILE = LOG_DIR / 'solar_detective.log'
 
 # Ensure log directory exists
-os.makedirs(os.path.dirname(LOG_FILE), exist_ok=True)
+os.makedirs(LOG_DIR, exist_ok=True)

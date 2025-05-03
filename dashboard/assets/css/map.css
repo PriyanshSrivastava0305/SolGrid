@@ -179,14 +179,39 @@
   /* Responsive Map */
   @media (max-width: 768px) {
     .map-container {
-      height: 50vh;
+      height: 60vh; /* Slightly taller on mobile */
     }
     
     .map-controls,
     .map-legend,
     .layer-controls {
-      position: static;
-      margin-top: var(--spacing-md);
-      max-width: 100%;
+      position: relative; /* Changed from static for better stacking */
+      margin: var(--spacing-md) auto;
+      max-width: 95%;
+      background-color: rgba(255, 255, 255, 0.95); /* Increased opacity for better readability */
+      z-index: 1001; /* Ensure controls stay on top */
+    }
+
+    .layer-controls {
+      order: 1; /* Show layer controls first */
+    }
+
+    .map-legend {
+      order: 2;
+    }
+
+    .map-controls {
+      order: 3;
+    }
+  }
+
+  /* Additional mobile optimizations */
+  @media (max-width: 480px) {
+    .map-container {
+      height: 50vh;
+    }
+
+    .popup-content {
+      max-width: 280px;
     }
   }
