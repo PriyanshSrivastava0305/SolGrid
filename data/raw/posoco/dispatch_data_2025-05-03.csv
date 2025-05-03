@@ -1,0 +1,6 @@
+date,state,installed_capacity_mw,peak_generation_mw,energy_generated_mwh,grid_availability_percent
+2025-05-03,Rajasthan,13300,10500,85000,98.5
+2025-05-03,Gujarat,8800,6900,55000,99.2
+2025-05-03,Tamil Nadu,5500,4200,32000,97.8
+2025-05-03,Karnataka,7400,5800,45000,98.9
+2025-05-03,Andhra Pradesh,4900,3700,29000,96.5

@@ -1,0 +1,30 @@
+<svg viewBox="0 0 100 100" xmlns="http://www.w3.org/2000/svg">
+  <!-- Tower -->
+  <path d="M48,95 L52,95 L55,35 L45,35 Z" fill="#6c757d" />
+  
+  <!-- Hub -->
+  <circle cx="50" cy="35" r="5" fill="#495057" />
+  
+  <!-- Blades -->
+  <g transform="translate(50, 35)">
+    <!-- Blade 1 -->
+    <path d="M0,0 C1,-2 0,-40 -6,-45 C-8,-47 -10,-48 -12,-43 C-14,-38 -5,-5 0,0 Z" fill="#0091ad" />
+    
+    <!-- Blade 2 -->
+    <path d="M0,0 C2,1 35,-20 38,-27 C39,-30 39,-33 34,-33 C29,-33 5,-5 0,0 Z" fill="#0091ad" transform="rotate(120)" />
+    
+    <!-- Blade 3 -->
+    <path d="M0,0 C2,1 35,-20 38,-27 C39,-30 39,-33 34,-33 C29,-33 5,-5 0,0 Z" fill="#0091ad" transform="rotate(240)" />
+  </g>
+  
+  <!-- Base -->
+  <rect x="45" y="95" width="10" height="5" fill="#343a40" />
+  
+  <!-- Optional clouds in background -->
+  <g fill="#e9ecef" opacity="0.7">
+    <ellipse cx="15" cy="20" rx="10" ry="6" />
+    <ellipse cx="22" cy="18" rx="8" ry="5" />
+    <ellipse cx="80" cy="15" rx="12" ry="7" />
+    <ellipse cx="90" cy="18" rx="7" ry="4" />
+  </g>
+</svg>

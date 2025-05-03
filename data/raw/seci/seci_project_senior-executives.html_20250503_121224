@@ -1,0 +1,2244 @@
+
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta charset="utf-8" /><meta name="viewport" content="width=device-width, initial-scale=1" /><meta http-equiv="x-dns-prefetch-control" content="on" /><title>
+	Solar Energy Corporation of India Limited(SECI), A Government of
+        India Enterprise, Under Ministry of New and Renewable Energy
+</title>
+
+    <link rel="SHORTCUT ICON" href="https://seci.co.in/images/favicon.ico">
+    <!-- Bootstrap core CSS -->
+    <link href="https://seci.co.in/css/bootstrap.css" rel="stylesheet">
+    <!-- ICONS CSS -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css" /><link href="https://cdnjs.cloudflare.com/ajax/libs/OwlCarousel2/2.3.4/assets/owl.carousel.min.css" rel="stylesheet" />
+    <link href="https://seci.co.in/css/style.css" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css?family=Rubik:400,500&amp;display=swap" rel="stylesheet" />
+
+    <style>
+        .rptanchorcss:hover {
+            text-decoration: none;
+        }
+
+        section#main .row .col-md-8 div, section#main .row .col-md-8 p {
+            text-align: justify;
+        }
+
+        .nav > li > a {
+            display: inline-block;
+            padding: 10px 0px 10px 0px;
+            margin-right: 0px;
+            transition: 150ms;
+        }
+
+        .mnev li {
+            margin-right: 18px
+        }
+
+        .mnev_hindi li {
+            margin-right: 18px
+        }
+
+            .mnev_hindi li a {
+                font-weight: bold !important;
+            }
+
+            .mnev li:last-child, .mnev_hindi li:last-child {
+                margin-right: 0px
+            }
+
+            .mnev li li, .mnev_hindi li li {
+                margin-right: 0px;
+            }
+
+        @media(min-width:768px) {
+            .mnev .show, .mnev_hindi .show {
+                display: inline-block !important;
+            }
+        }
+
+        @media(max-width:767px) {
+            #srch {
+                display: none;
+            }
+        }
+
+        @media(max-width:991px) {
+            .nav > li > a {
+                display: inline-block;
+                padding: 10px 0px 10px 20px;
+                margin-right: 0px;
+            }
+
+            .pdmob {
+                padding: 8px 10px;
+            }
+        }
+
+        @media(min-width:992px)and (max-width:1199px) {
+            .nav > li > a {
+                padding: 10px 0px 10px 0px;
+                margin-right: 0px;
+            }
+        }
+
+        @media(min-width:1200px) {
+            .mnev, .mnev_hindi {
+                justify-content: space-between;
+                flex: 1;
+                margin: auto !important;
+                display: flex;
+            }
+        }
+
+        p.f-10, .f-10 a {
+            font-size: 10px !important;
+            padding-top: 2px;
+            text-align: right;
+        }
+
+        p.f-10-L, .f-10-L a {
+            font-size: 10px !important;
+            padding-top: 2px;
+            text-align: left;
+        }
+    </style>
+    
+    <style>
+        .main-title {
+            font-size: 25px !important;
+            color: #000;
+            margin-bottom: 18px;
+            font-weight: 500;
+        }
+
+        .cmp-box {
+            margin-top: 80px;
+        }
+
+        .mandatory {
+            float: right;
+            color: red;
+        }
+
+        .contact-form2 {
+            clear: both;
+            margin-top: 50px;
+        }
+
+        .req {
+            font-size: 22px !important;
+            display: inline-block;
+            color: red;
+        }
+
+        .contact-form2 .required::after {
+            content: '*';
+            color: red;
+            margin-left: 5px;
+        }
+
+        .contact-form2 .required {
+            position: relative;
+        }
+
+        .vig_wrapper label {
+            text-align: left;
+        }
+
+        .vig_wrapper .vig_inner {
+            display: flex;
+            justify-content: center;
+        }
+
+        .disabled {
+            pointer-events: none;
+        }
+
+        .maxwidth945 {
+            max-width: 945px;
+        }
+
+        .fields_error {
+            max-width: 945px;
+        }
+
+            .fields_error .alert-danger {
+                max-width: 945px;
+            }
+
+        .mw-235 {
+            min-width: 235px;
+        }
+
+        .mail_otp,
+        .mob_otp {
+            width: 400px;
+        }
+
+        .captcha_row {
+            display: flex;
+            align-items: center;
+            gap: 14px;
+        }
+
+        .fw400 {
+            font-weight: 400;
+        }
+    </style>
+     <style>
+        .bod-table tr td:first-child {
+    width: 190px !important;
+}
+
+        .img-responsive {
+    display: block;
+    max-width: none;
+    height: auto;
+}
+    </style>
+
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+
+</head>
+<body>
+    <form name="aspnetForm" method="post" action="./senior-executives" id="aspnetForm" enctype="multipart/form-data">
+<div>
+<input type="hidden" name="__EVENTTARGET" id="__EVENTTARGET" value="" />
+<input type="hidden" name="__EVENTARGUMENT" id="__EVENTARGUMENT" value="" />
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="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" />
+</div>
+
+<script type="text/javascript">
+//<![CDATA[
+var theForm = document.forms['aspnetForm'];
+if (!theForm) {
+    theForm = document.aspnetForm;
+}
+function __doPostBack(eventTarget, eventArgument) {
+    if (!theForm.onsubmit || (theForm.onsubmit() != false)) {
+        theForm.__EVENTTARGET.value = eventTarget;
+        theForm.__EVENTARGUMENT.value = eventArgument;
+        theForm.submit();
+    }
+}
+//]]>
+</script>
+
+
+<div>
+
+	<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="805B0152" />
+	<input type="hidden" name="__VIEWSTATEENCRYPTED" id="__VIEWSTATEENCRYPTED" value="" />
+	<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="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" />
+</div>
+        <div>
+            <header class="banner">
+                <div class="top-bar">
+                    <div class="container">
+                        <div class="row">
+                            <div class="col-md-6 col-sm-4 col-xs-7 no-padding-md">
+                                <div class="tb-link">
+                                    
+                                    <a href="https://www.facebook.com/SeciLimited/" target="_blank" title="Facebook"><i
+                                        class="fa fa-facebook sbtn s-fb"></i></a>
+                                    
+                                    <a href="https://twitter.com/seci_ltd" target="_blank" title="Twitter"><i class="fa fa-twitter sbtn s-tw"></i></a>
+                                    
+                                    <a href="https://www.linkedin.com/company/solar-energy-corporation-of-india" target="_blank" title="Linkedin"><i class="fa fa-linkedin sbtn s-ln"></i></a>
+                                    
+                                    <a href="https://www.youtube.com/channel/UCZG2Q72sTiocplOo8Bdqp6A" target="_blank" title="Youtube"><i class="fa fa-youtube sbtn s-yt"></i></a>
+                                    
+                                    <a href="https://www.bharat-electronictender.com" target="_blank" title="E-Tender"><i class="fa fa-folder sbtn s-fl"></i></a>
+                                    
+                                    <a href="https://email.gov.in/" target="_blank" title="Mail"><i class="fa fa-envelope sbtn s-mail"></i></a>
+                                    
+                                </div>
+                            </div>
+                            <div class="col-md-6 col-sm-8 col-xs-5 no-padding-md">
+                                <div class="pull-right">
+                                    <div class="tb-link hidden-xs">
+                                        <a href="#main"><i class="fa fa-level-down"></i>Skip to main content</a>
+                                    </div>
+                                    <div class="tb-link hidden-xs">
+                                        <a href="#" title="SiteMap"><i class="fa fa-sitemap"></i></a>
+                                    </div>
+                                    <div class="tb-link hidden-xs">
+                                        <a href="javascript:;" id="sizeDown" title="Smaller Font">
+                                            <img src="https://seci.co.in/images/a-min.png" class="size-font" alt="Smaller Font" /></a>
+                                        <a href="javascript:;" id="normal" title="Orignal Font">
+                                            <img src="https://seci.co.in/images/a-nor.png" class="size-font" alt="Orignal Font" /></a>
+                                        <a href="javascript:;" id="sizeUp" title="Larger Font">
+                                            <img src="https://seci.co.in/images/a-max.png" class="size-font" alt="Larger Font" /></a>
+                                    </div>
+                                    <div class="tb-link">
+                                        <span id="theme-dark"></span><span id="theme-default"></span>
+                                    </div>
+                                    <div class="tb-link">
+                                        
+                                                <a onclick="javascript:return _langalert(this.id);" id="ctl00_rptlanguage_ctl00_lnklang" class="rptanchorcss" href="javascript:__doPostBack(&#39;ctl00$rptlanguage$ctl00$lnklang&#39;,&#39;&#39;)">English |</a>
+                                                <input type="hidden" name="ctl00$rptlanguage$ctl00$hdlanid" id="ctl00_rptlanguage_ctl00_hdlanid" value="1" />
+                                                <input type="hidden" name="ctl00$rptlanguage$ctl00$hdlangcode" id="ctl00_rptlanguage_ctl00_hdlangcode" value="en" />
+                                            
+                                                <a onclick="javascript:return _langalert(this.id);" id="ctl00_rptlanguage_ctl01_lnklang" class="rptanchorcss" href="javascript:__doPostBack(&#39;ctl00$rptlanguage$ctl01$lnklang&#39;,&#39;&#39;)">हिंदी |</a>
+                                                <input type="hidden" name="ctl00$rptlanguage$ctl01$hdlanid" id="ctl00_rptlanguage_ctl01_hdlanid" value="2" />
+                                                <input type="hidden" name="ctl00$rptlanguage$ctl01$hdlangcode" id="ctl00_rptlanguage_ctl01_hdlangcode" value="hi" />
+                                            
+                                        
+                                        
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="container">
+                    <div class="row logo-bar">
+                        <div class="col-md-2 col-sm-3 hidden-xs">
+                            
+                        </div>
+                        <div class="col-md-8 col-sm-6 col-xs-12">
+                            <a href="https://seci.co.in/">
+                                <img src="https://seci.co.in/Upload/Main/638606419379092967.jpg" alt="solor_logo"
+                                    class="img-responsive" />
+                            </a>
+                        </div>
+                        <div class="col-md-2 col-sm-3 hidden-xs">
+                            
+                        </div>
+                    </div>
+                </div>
+                <div class="navbar-bg relative">
+                    <div class="container">
+                        <div class="row">
+                            <div class="col-md-12 no-padding">
+                                <!-- nav start -->
+                                <nav class="navbar navbar-default">
+                                    <div class="navbar-header">
+                                        <div class="input-group search hidden-md hidden-lg">
+                                            <input type="search" class="form-control" placeholder="Keyword ...">
+                                            <a href="" class="input-group-addon "><i class="fa fa-search"></i></a>
+                                        </div>
+                                        <button type="button" class="navbar-toggle hidden-sm" data-toggle="collapse" data-target="#myNavbar">
+                                            <span class="icon-bar"></span><span class="icon-bar"></span><span class="icon-bar"></span>
+                                        </button>
+                                    </div>
+                                    <div class="collapse navbar-collapse" id="myNavbar">
+                                        <ul class="nav navbar-nav mnev"><li class="active"><a href="https://seci.co.in/">Home</a></li><li class="dropdown"><a class="dropdown-toggle" role="button" aria-haspopup="true" aria-expanded="false" href="https://seci.co.in/about/introduction">About Us </a><span class="fa fa-caret-down pdmob" data-toggle="dropdown"></span><ul class="dropdown-menu"><li><a href="https://seci.co.in/about/introduction">About SECI</a></li><li><a href="https://seci.co.in/about/vision-and-mission">Vision And Mission</a></li><li><a href="https://seci.co.in/about/board-of-directors">Board of Directors & CVO</a></li><li><a href="https://seci.co.in/about/organizational-structure">Senior Executives</a></li><li><a href="https://seci.co.in/about/senior-executives">Contact Details of Senior Executives</a></li><li><a href="https://seci.co.in/about/code-of-conduct">Code of Conduct</a></li><li><a href="https://seci.co.in/about/csr-and-sustainability-policy-of-seci">SECI CSR</a></li><li><a href="https://seci.co.in/about/committees-of-the-board">Committees of the Board</a></li><li><a href="https://seci.co.in/about/secis-qehs-policy-and-objectives">SECI’s QEHS Policy and Objectives</a></li>  </ul>  </li>   <li class="dropdown"><a class="dropdown-toggle" href="https://seci.co.in/jnnsm/solar">Govt Schemes/Tenders  </a><span class="fa fa-caret-down pdmob" data-toggle="dropdown"></span>   <ul class="dropdown-menu"><li><a href="https://seci.co.in/jnnsm/solar">SOLAR</a></li><li><a href="https://seci.co.in/jnnsm/wind">WIND</a></li><li><a href="https://seci.co.in/jnnsm/hybrid">HYBRID</a></li><li><a href="https://seci.co.in/jnnsm/solar-park">Solar Park</a></li><li><a href="https://seci.co.in/jnnsm/green-hydrogen-and-green-ammonia">Green Hydrogen and Green Ammonia</a></li><li><a href="https://seci.co.in/jnnsm/energy-storage-systems-ess">Energy Storage Systems (ESS)</a></li><li><a href="https://seci.co.in/jnnsm/pli-scheme">PLI SCHEME</a></li><li><a href="https://seci.co.in/jnnsm/standard-bidding-guidelines">Standard Bidding Guidelines</a></li><li><a href="https://seci.co.in/jnnsm/statutory-requirements">Statutory Requirements</a></li><li><a href="https://seci.co.in/jnnsm/mission-document">Mission Document</a></li><li><a href="https://seci.co.in/jnnsm/phase-ii-batch-i">Phase-II, Batch-I</a></li><li><a href="https://seci.co.in/jnnsm/phase-ii-batch-iii">Phase-II, Batch-III</a></li><li><a href="https://seci.co.in/jnnsm/phase-ii-batch-iv">Phase-II, Batch- IV</a></li>  </ul>   </li>   <li class="dropdown"><a class="dropdown-toggle" href="https://seci.co.in/business/solar-thermal">Business   </a><span class="fa fa-caret-down pdmob" data-toggle="dropdown"></span>  <ul class="dropdown-menu"><li><a href="https://seci.co.in/business/power-trading">Power Trading</a></li><li><a href="https://seci.co.in/business/own-projects">Own Projects </a></li><li><a href="https://seci.co.in/business/project-management-consultancy">Project Management Consultancy</a></li><li><a href="https://seci.co.in/business/solar-photovoltaic">Solar Photovoltaic</a></li><li><a href="https://seci.co.in/business/solar-thermal">Solar Thermal</a></li><li><a href="https://seci.co.in/business/solarization-of-ports">Solarization of Ports</a></li><li><a href="https://seci.co.in/business/consultancy-services">Consultancy Services</a></li><li><a href="https://seci.co.in/business/r-and-d">R & D</a></li> </ul> </li>  <li class="dropdown"><a class="dropdown-toggle" href="https://seci.co.in/document/documents-faq">Documents/FAQ  </a><span class="fa fa-caret-down pdmob" data-toggle="dropdown"></span>  <ul class="dropdown-menu"><li><a href="https://seci.co.in/document/documents-faq">Documents/FAQ</a></li><li><a href="https://seci.co.in/document/publications">Publications</a></li><li><a href="https://seci.co.in/document/faq">FAQ</a></li><li><a href="https://seci.co.in/document/mou">MoU</a></li> </ul> </li>  <li class="dropdown"><a class="dropdown-toggle" href="https://seci.co.in/financial/digital-payment-modes">Financials  </a><span class="fa fa-caret-down pdmob" data-toggle="dropdown"></span>  <ul class="dropdown-menu"><li><a href="https://seci.co.in/financial/digital-payment-modes">Payment Modes</a></li><li><a href="https://seci.co.in/financial/monthly-payment">Monthly Payment</a></li><li><a href="https://seci.co.in/financial/annual-reports">Annual/ Periodic Financial Reports</a></li><li><a href="https://seci.co.in/financial/treds">TReDS</a></li><li><a href="https://seci.co.in/financial/tcs-reports">TCS Reports</a></li><li><a href="https://seci.co.in/financial/psm">PSM </a></li><li><a href="https://seci.co.in/financial/annual-return">Annual Return</a></li><li><a href="https://seci.co.in/financial/vendor-portal">Vendor Payment Status</a></li> </ul> </li>  <li><a href="https://seci.co.in/rti/seci_rti/particulars-of-pios">RTI</a></li>  <li class="dropdown"><a class="dropdown-toggle" href="https://seci.co.in/ists/solar">Projects under NSM    </a> <span class="fa fa-caret-down pdmob" data-toggle="dropdown"></span>   <ul class="dropdown-menu">      <li><a href="https://seci.co.in/ists/solar">Solar</a></li>      <li><a href="https://seci.co.in/ists/wind">Wind</a></li>      <li><a href="https://seci.co.in/ists/hybrid">Hybrid</a></li>      <li><a href="https://seci.co.in/ists/drc">DRC</a></li>      <li><a href="https://seci.co.in/ists/others">Others</a></li>  </ul>  </li><li class="dropdown"><a class="dropdown-toggle" role="button" aria-haspopup="true" aria-expanded="false" href="https://seci.co.in/vigilance/vigilance-at-seci">Vigilance</a><span class="fa fa-caret-down pdmob" data-toggle="dropdown"></span><ul class="dropdown-menu"><li><a href="https://seci.co.in/vigilance/vigilance-at-seci">Vigilance at SECI</a></li><li><a href="https://seci.co.in/vigilance/profile-of-cvo-seci">Profile of CVO, SECI</a></li><li><a href="https://seci.co.in/vigilance/contact-details-–-vigilance">Contact Details – Vigilance</a></li><li><a href="https://seci.co.in/vigilance/manuals-and-policies">Manuals & Guidelines </a></li><li><a href="https://seci.co.in/vigilance/intensive-examinations">Intensive Examinations</a></li><li><a href="https://seci.co.in/vigilance/seci-whistle-blower-policy">SECI Whistle Blower Policy</a></li><li><a href="https://seci.co.in/vigilance/pidpi">PIDPI</a></li><li><a href="https://seci.co.in/vigilance/complaint-handling-policy">Complaint Handling Policy</a></li><li><a href="https://seci.co.in/vigilance/vigilance-complaint-form">Vigilance Complaint Form</a></li><li><a href="https://seci.co.in/vigilance/vigilance-journal">Vigilance Journal </a></li><li><a href="https://seci.co.in/vigilance/vigilance-awareness-campaign-2024">Vigilance Awareness Campaign 2024</a></li>  </ul>  </li>  <li class="dropdown"><a class="dropdown-toggle" href="https://seci.co.in/page/careers">Careers    </a> <span class="fa fa-caret-down pdmob" data-toggle="dropdown"></span>   <ul class="dropdown-menu">      <li><a href="https://seci.co.in/page/careers">Jobs at SECI</a></li>      <li><a href="https://seci.co.in/page/seci-internship">SECI Internship</a></li>  </ul>  </li>  <li><a href="https://seci.co.in/contactus">Contact</a></li>  <li><a id="srch" style="padding:10px;"><i class="fa fa-search"></i></a></li></ul>
+                                    </div>
+                                </nav>
+                                <!-- nav end -->
+                            </div>
+                        </div>
+                        <div class="row hidden-xs hidden-sm" id="show-srch">
+                            <div class="col-md-12">
+                                <div class="input-group search">
+                                    <input name="ctl00$txtsearch" type="text" id="ctl00_txtsearch" class="form-control" placeholder="Keyword ..." />
+                                    <a onclick="javascript: _search('txtsearch');" class="input-group-addon"><i class="fa fa-arrow-right"></i></a>
+                                </div>
+                            </div>
+                        </div>
+                        <input type="hidden" name="ctl00$hdurl" id="ctl00_hdurl" value="https://seci.co.in/" />
+                    </div>
+                </div>
+            </header>
+            <div class="marquee_position">
+                <marquee class="marquee_text" behavior="scroll" direction="left" scrolldelay="70" scrollamount="4"
+                    onmouseover="this.stop();" onmouseout="this.start();">
+                    &nbsp;
+                  <i class="fa fa-star"></i> <a color="red"  href="https://www.seci.co.in/financial/digital-payment-modes" target="_blank">Payment Modes</a><i class="fa fa-star"></i> <a color="red"  href="https://pledge.cvc.nic.in/" target="_blank">Integrity Pledge</a><i class="fa fa-star"></i> <a color="red"  href="https://www.seci.co.in/financial/vendor-portal" target="_blank">Vendor Payment Status</a><i class="fa fa-star"></i> <a color="red"  href="/upload/static/files/CVC%20CIRCULAR%20DATED%2001082024.pdf" target="_blank">Vigilance Awareness Week 2024</a><i class="fa fa-star"></i> <a color="red"  href="https://cvc.gov.in/files/vigilance-awareness-week-pdf/VAW-2024-06_Audio.mpeg" target="_blank">Audio Jingles for Vigilance Awareness Week 2024</a><i class="fa fa-star"></i> <a color="red"  href="/upload/static/files/Unique%20Business%20Model%20of%20SECI%20Ltd.pdf" target="_blank">Unique Business Model of SECI Ltd</a>
+
+                </marquee>
+            </div>
+            
+    <div id="ctl00_main_div_homeshow" class="breadcrumb-bg">
+        <div class="container">
+            <div class="row">
+                <div class="col-sm-12">
+                    <ul>
+                        <li><a href="https://seci.co.in/">Home</a></li>
+                        <li><i class="fa fa-chevron-right"></i></li>
+                        <li>Contact Details of Senior Executives</li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+    </div>
+    <!-- Main Content Start -->
+    <section id="main" class="vig_wrapper">
+        <div class="container">
+            <div class="row">
+                <div id="ctl00_main_div_non_Complaint" class="col-md-4 col-sm-4 col-xs-12 mb-20">
+                    <p class="sidebar-heading">About Us </p>
+                    <ul class="page-sidebar">
+                        <li><a href="https://seci.co.in/about/introduction">About SECI</a></li><li><a href="https://seci.co.in/about/vision-and-mission">Vision And Mission</a></li><li><a href="https://seci.co.in/about/board-of-directors">Board of Directors & CVO</a></li><li><a href="https://seci.co.in/about/organizational-structure">Senior Executives</a></li><li class="active"><a href="https://seci.co.in/about/senior-executives">Contact Details of Senior Executives</a></li><li><a href="https://seci.co.in/about/code-of-conduct">Code of Conduct</a></li><li><a href="https://seci.co.in/about/csr-and-sustainability-policy-of-seci">SECI CSR</a></li><li><a href="https://seci.co.in/about/committees-of-the-board">Committees of the Board</a></li><li><a href="https://seci.co.in/about/secis-qehs-policy-and-objectives">SECI’s QEHS Policy and Objectives</a></li>
+                    </ul>
+                </div>
+
+                <div class="col-md-8 col-sm-8 col-xs-12 mb-20">
+                    <h1 id="ctl00_main_h1_show" class="inner-page-heading">Contact Details of Senior Executives</h1>
+                    <p>
+                        <table border="1" cellspacing="0" class="table table-bordered table-hover table-striped" style="background-color:transparent; border-collapse:collapse; border-spacing:0px; border:1px solid #dddddd; box-sizing:border-box; color:#8a6d3b; font-family:montserrat,helvetica neue,helvetica,arial,sans-serif; font-size:14px; margin-bottom:20px; max-width:100%; width:673px">
+	<tbody style="box-sizing: border-box;">
+		<tr style="box-sizing:border-box">
+			<th style="box-sizing: border-box; padding: 8px; text-align: left; line-height: 1.42857; vertical-align: top; border: 1px solid rgb(221, 221, 221); background-color: rgb(249, 249, 249);">#</th>
+			<th style="box-sizing: border-box; padding: 8px; text-align: left; line-height: 1.42857; vertical-align: top; border: 1px solid rgb(221, 221, 221); background-color: rgb(249, 249, 249);">Name</th>
+			<th style="box-sizing: border-box; padding: 8px; text-align: left; line-height: 1.42857; vertical-align: top; border: 1px solid rgb(221, 221, 221); background-color: rgb(249, 249, 249);">Designation</th>
+			<th style="box-sizing: border-box; padding: 8px; text-align: center; line-height: 1.42857; vertical-align: top; border: 1px solid rgb(221, 221, 221); background-color: rgb(249, 249, 249);">Phone No.</th>
+			<th style="box-sizing: border-box; padding: 8px; text-align: left; line-height: 1.42857; vertical-align: top; border: 1px solid rgb(221, 221, 221); background-color: rgb(249, 249, 249);">e-Mail id</th>
+		</tr>
+		<tr style="box-sizing:border-box">
+			<td style="background-color:#f9f9f9; border-color:#dddddd; border-style:solid; border-width:1px; box-sizing:border-box; line-height:1.42857; padding:8px; vertical-align:top">1</td>
+			<td style="background-color:#f9f9f9; border-color:#dddddd; border-style:solid; border-width:1px; box-sizing:border-box; line-height:1.42857; padding:8px; vertical-align:top">Sh. S. K. Gupta</td>
+			<td style="background-color:#f9f9f9; border-color:#dddddd; border-style:solid; border-width:1px; box-sizing:border-box; line-height:1.42857; padding:8px; vertical-align:top">Executive Director (Finance &amp; IT)&nbsp;</td>
+			<td style="background-color:#f9f9f9; border-color:#dddddd; border-style:solid; border-width:1px; box-sizing:border-box; line-height:1.42857; padding:8px; text-align:center; vertical-align:top">011-24666214</td>
+			<td style="background-color:#f9f9f9; border-color:#dddddd; border-style:solid; border-width:1px; box-sizing:border-box; line-height:1.42857; padding:8px; vertical-align:top">shaileshgupta[at]seci[dot]co[dot]in</td>
+		</tr>
+		<tr style="box-sizing:border-box">
+			<td style="border-color:#dddddd; border-style:solid; border-width:1px; box-sizing:border-box; line-height:1.42857; padding:8px; vertical-align:top">2</td>
+			<td style="border-color:#dddddd; border-style:solid; border-width:1px; box-sizing:border-box; line-height:1.42857; padding:8px; vertical-align:top">Sh. A. K. Naik</td>
+			<td style="border-color:#dddddd; border-style:solid; border-width:1px; box-sizing:border-box; line-height:1.42857; padding:8px; vertical-align:top">Executive Director&nbsp;(EMD, C&amp;P)</td>
+			<td style="border-color:#dddddd; border-style:solid; border-width:1px; box-sizing:border-box; line-height:1.42857; padding:8px; text-align:center; vertical-align:top">011-24666215</td>
+			<td style="border-color:#dddddd; border-style:solid; border-width:1px; box-sizing:border-box; line-height:1.42857; padding:8px; vertical-align:top">aknaik[at]seci[dot]co[dot]in</td>
+		</tr>
+		<tr style="box-sizing:border-box">
+			<td style="border-color:#dddddd; border-style:solid; border-width:1px; box-sizing:border-box; line-height:1.42857; padding:8px; vertical-align:top">3</td>
+			<td style="border-color:#dddddd; border-style:solid; border-width:1px; box-sizing:border-box; line-height:1.42857; padding:8px; vertical-align:top">Sh. Ajay Kumar Sinha</td>
+			<td style="border-color:#dddddd; border-style:solid; border-width:1px; box-sizing:border-box; line-height:1.42857; padding:8px; vertical-align:top">General Manager (HR/Admin, CP)</td>
+			<td style="border-color:#dddddd; border-style:solid; border-width:1px; box-sizing:border-box; line-height:1.42857; padding:8px; text-align:center; vertical-align:top">011-24666220</td>
+			<td style="border-color:#dddddd; border-style:solid; border-width:1px; box-sizing:border-box; line-height:1.42857; padding:8px; vertical-align:top">ajay[dot]k[dot]sinha[at]seci[dot]co[dot]in</td>
+		</tr>
+		<tr style="box-sizing:border-box">
+			<td style="background-color:#f9f9f9; border-color:#dddddd; border-style:solid; border-width:1px; box-sizing:border-box; line-height:1.42857; padding:8px; vertical-align:top">4</td>
+			<td style="background-color:#f9f9f9; border-color:#dddddd; border-style:solid; border-width:1px; box-sizing:border-box; line-height:1.42857; padding:8px; vertical-align:top">Sh. Shreedhar Singh</td>
+			<td style="background-color:#f9f9f9; border-color:#dddddd; border-style:solid; border-width:1px; box-sizing:border-box; line-height:1.42857; padding:8px; vertical-align:top">Addl. General Manager (Projects)</td>
+			<td style="background-color:#f9f9f9; border-color:#dddddd; border-style:solid; border-width:1px; box-sizing:border-box; line-height:1.42857; padding:8px; text-align:center; vertical-align:top">011-24666221</td>
+			<td style="background-color:#f9f9f9; border-color:#dddddd; border-style:solid; border-width:1px; box-sizing:border-box; line-height:1.42857; padding:8px; vertical-align:top">shreedhar[dot]singh[at]seci[dot]co[dot]in</td>
+		</tr>
+		<tr style="box-sizing:border-box">
+			<td style="background-color:#f9f9f9; border-color:#dddddd; border-style:solid; border-width:1px; box-sizing:border-box; line-height:1.42857; padding:8px; vertical-align:top">5</td>
+			<td style="background-color:#f9f9f9; border-color:#dddddd; border-style:solid; border-width:1px; box-sizing:border-box; line-height:1.42857; padding:8px; vertical-align:top">Sh. Ishwar Madiwal</td>
+			<td style="background-color:#f9f9f9; border-color:#dddddd; border-style:solid; border-width:1px; box-sizing:border-box; line-height:1.42857; padding:8px; vertical-align:top">Addl. General Manager (Finance)&nbsp;</td>
+			<td style="background-color:#f9f9f9; border-color:#dddddd; border-style:solid; border-width:1px; box-sizing:border-box; line-height:1.42857; padding:8px; text-align:center; vertical-align:top">011-24666219</td>
+			<td style="background-color:#f9f9f9; border-color:#dddddd; border-style:solid; border-width:1px; box-sizing:border-box; line-height:1.42857; padding:8px; vertical-align:top">ishwar[at]seci[dot]co[dot]in</td>
+		</tr>
+		<tr>
+			<td style="background-color:#f9f9f9; border-color:#dddddd; border-style:solid; border-width:1px; box-sizing:border-box; line-height:1.42857; padding:8px; vertical-align:top">6</td>
+			<td style="background-color:#f9f9f9; border-color:#dddddd; border-style:solid; border-width:1px; box-sizing:border-box; line-height:1.42857; padding:8px; vertical-align:top">Sh. Kishan Singh</td>
+			<td style="background-color:#f9f9f9; border-color:#dddddd; border-style:solid; border-width:1px; box-sizing:border-box; line-height:1.42857; padding:8px; vertical-align:top">Addl. General Manager (Finance)&nbsp;</td>
+			<td style="background-color:#f9f9f9; border-color:#dddddd; border-style:solid; border-width:1px; box-sizing:border-box; line-height:1.42857; padding:8px; text-align:center; vertical-align:top">&nbsp;</td>
+			<td style="background-color:#f9f9f9; border-color:#dddddd; border-style:solid; border-width:1px; box-sizing:border-box; line-height:1.42857; padding:8px; vertical-align:top">&nbsp;</td>
+		</tr>
+		<tr style="box-sizing:border-box">
+			<td style="background-color:#f9f9f9; border-color:#dddddd; border-style:solid; border-width:1px; box-sizing:border-box; line-height:1.42857; padding:8px; vertical-align:top">7</td>
+			<td style="background-color:#f9f9f9; border-color:#dddddd; border-style:solid; border-width:1px; box-sizing:border-box; line-height:1.42857; padding:8px; vertical-align:top">Sh. Shibasish Das</td>
+			<td style="background-color:#f9f9f9; border-color:#dddddd; border-style:solid; border-width:1px; box-sizing:border-box; line-height:1.42857; padding:8px; vertical-align:top">Dep. General Manager (EMD)&nbsp;</td>
+			<td style="background-color:#f9f9f9; border-color:#dddddd; border-style:solid; border-width:1px; box-sizing:border-box; line-height:1.42857; padding:8px; text-align:center; vertical-align:top">011-24666226</td>
+			<td style="background-color:#f9f9f9; border-color:#dddddd; border-style:solid; border-width:1px; box-sizing:border-box; line-height:1.42857; padding:8px; vertical-align:top">shibashish[at]seci[dot]co[dot]in</td>
+		</tr>
+		<tr style="box-sizing:border-box">
+			<td style="background-color:#f9f9f9; border-color:#dddddd; border-style:solid; border-width:1px; box-sizing:border-box; line-height:1.42857; padding:8px; vertical-align:top">8</td>
+			<td style="background-color:#f9f9f9; border-color:#dddddd; border-style:solid; border-width:1px; box-sizing:border-box; line-height:1.42857; padding:8px; vertical-align:top">Sh. Saurabh Maheshwari</td>
+			<td style="background-color:#f9f9f9; border-color:#dddddd; border-style:solid; border-width:1px; box-sizing:border-box; line-height:1.42857; padding:8px; vertical-align:top">Dep. General Manager (Finance)&nbsp;</td>
+			<td style="background-color:#f9f9f9; border-color:#dddddd; border-style:solid; border-width:1px; box-sizing:border-box; line-height:1.42857; padding:8px; text-align:center; vertical-align:top">011-24666227</td>
+			<td style="background-color:#f9f9f9; border-color:#dddddd; border-style:solid; border-width:1px; box-sizing:border-box; line-height:1.42857; padding:8px; vertical-align:top">saurabh[at]seci[dot]co[dot]in</td>
+		</tr>
+		<tr style="box-sizing:border-box">
+			<td style="background-color:#f9f9f9; border-color:#dddddd; border-style:solid; border-width:1px; box-sizing:border-box; line-height:1.42857; padding:8px; vertical-align:top">9</td>
+			<td style="background-color:#f9f9f9; border-color:#dddddd; border-style:solid; border-width:1px; box-sizing:border-box; line-height:1.42857; padding:8px; vertical-align:top">Sh. Avnish Parasha</td>
+			<td style="background-color:#f9f9f9; border-color:#dddddd; border-style:solid; border-width:1px; box-sizing:border-box; line-height:1.42857; padding:8px; vertical-align:top">Dep. General Manager (CP)&nbsp;</td>
+			<td style="background-color:#f9f9f9; border-color:#dddddd; border-style:solid; border-width:1px; box-sizing:border-box; line-height:1.42857; padding:8px; text-align:center; vertical-align:top">011-24666225</td>
+			<td style="background-color:#f9f9f9; border-color:#dddddd; border-style:solid; border-width:1px; box-sizing:border-box; line-height:1.42857; padding:8px; vertical-align:top">avnish[dot]parashar[at]seci[dot]co[dot]in</td>
+		</tr>
+		<tr style="box-sizing:border-box">
+			<td style="background-color:#f9f9f9; border-color:#dddddd; border-style:solid; border-width:1px; box-sizing:border-box; line-height:1.42857; padding:8px; vertical-align:top">10</td>
+			<td style="background-color:#f9f9f9; border-color:#dddddd; border-style:solid; border-width:1px; box-sizing:border-box; line-height:1.42857; padding:8px; vertical-align:top">Smt. Anita Mohan Goel</td>
+			<td style="background-color:#f9f9f9; border-color:#dddddd; border-style:solid; border-width:1px; box-sizing:border-box; line-height:1.42857; padding:8px; vertical-align:top">Dep. General Manager (Projects)&nbsp;</td>
+			<td style="background-color:#f9f9f9; border-color:#dddddd; border-style:solid; border-width:1px; box-sizing:border-box; line-height:1.42857; padding:8px; text-align:center; vertical-align:top">011-24666224</td>
+			<td style="background-color:#f9f9f9; border-color:#dddddd; border-style:solid; border-width:1px; box-sizing:border-box; line-height:1.42857; padding:8px; vertical-align:top">anitaag[at]seci[dot]co[dot]in</td>
+		</tr>
+		<tr style="box-sizing:border-box">
+			<td style="background-color:#f9f9f9; border-color:#dddddd; border-style:solid; border-width:1px; box-sizing:border-box; line-height:1.42857; padding:8px; vertical-align:top">11</td>
+			<td style="background-color:#f9f9f9; border-color:#dddddd; border-style:solid; border-width:1px; box-sizing:border-box; line-height:1.42857; padding:8px; vertical-align:top">Sh. P. Venkatesan</td>
+			<td style="background-color:#f9f9f9; border-color:#dddddd; border-style:solid; border-width:1px; box-sizing:border-box; line-height:1.42857; padding:8px; vertical-align:top">Dep. General Manager (Projects)&nbsp;</td>
+			<td style="background-color:#f9f9f9; border-color:#dddddd; border-style:solid; border-width:1px; box-sizing:border-box; line-height:1.42857; padding:8px; text-align:center; vertical-align:top">011-24666232</td>
+			<td style="background-color:#f9f9f9; border-color:#dddddd; border-style:solid; border-width:1px; box-sizing:border-box; line-height:1.42857; padding:8px; vertical-align:top">venkatesan[at]seci[dot]co[dot]in</td>
+		</tr>
+		<tr style="box-sizing:border-box">
+			<td style="background-color:#f9f9f9; border-color:#dddddd; border-style:solid; border-width:1px; box-sizing:border-box; line-height:1.42857; padding:8px; vertical-align:top">12</td>
+			<td style="background-color:#f9f9f9; border-color:#dddddd; border-style:solid; border-width:1px; box-sizing:border-box; line-height:1.42857; padding:8px; vertical-align:top">Sh. Debjyoti Baradoli</td>
+			<td style="background-color:#f9f9f9; border-color:#dddddd; border-style:solid; border-width:1px; box-sizing:border-box; line-height:1.42857; padding:8px; vertical-align:top">Dep. General Manager (Projects)&nbsp;</td>
+			<td style="background-color:#f9f9f9; border-color:#dddddd; border-style:solid; border-width:1px; box-sizing:border-box; line-height:1.42857; padding:8px; text-align:center; vertical-align:top">011-24666228</td>
+			<td style="background-color:#f9f9f9; border-color:#dddddd; border-style:solid; border-width:1px; box-sizing:border-box; line-height:1.42857; padding:8px; vertical-align:top">debjyoti[dot]b[at]seci[dot]co[dot]in</td>
+		</tr>
+		<tr style="box-sizing:border-box">
+			<td style="background-color:#f9f9f9; border-color:#dddddd; border-style:solid; border-width:1px; box-sizing:border-box; line-height:1.42857; padding:8px; vertical-align:top">13</td>
+			<td style="background-color:#f9f9f9; border-color:#dddddd; border-style:solid; border-width:1px; box-sizing:border-box; line-height:1.42857; padding:8px; vertical-align:top">Sh. Manas Ranjan Mishra</td>
+			<td style="background-color:#f9f9f9; border-color:#dddddd; border-style:solid; border-width:1px; box-sizing:border-box; line-height:1.42857; padding:8px; vertical-align:top">Dep. General Manager (Solar)&nbsp;</td>
+			<td style="background-color:#f9f9f9; border-color:#dddddd; border-style:solid; border-width:1px; box-sizing:border-box; line-height:1.42857; padding:8px; text-align:center; vertical-align:top">011-24666229</td>
+			<td style="background-color:#f9f9f9; border-color:#dddddd; border-style:solid; border-width:1px; box-sizing:border-box; line-height:1.42857; padding:8px; vertical-align:top">manas[at]seci[dot]co[dot]in</td>
+		</tr>
+		<tr style="box-sizing:border-box">
+			<td style="background-color:#f9f9f9; border-color:#dddddd; border-style:solid; border-width:1px; box-sizing:border-box; line-height:1.42857; padding:8px; vertical-align:top">14</td>
+			<td style="background-color:#f9f9f9; border-color:#dddddd; border-style:solid; border-width:1px; box-sizing:border-box; line-height:1.42857; padding:8px; vertical-align:top">Sh. Sanjeev Singh</td>
+			<td style="background-color:#f9f9f9; border-color:#dddddd; border-style:solid; border-width:1px; box-sizing:border-box; line-height:1.42857; padding:8px; vertical-align:top">Dep. General Manager (EMD)&nbsp;</td>
+			<td style="background-color:#f9f9f9; border-color:#dddddd; border-style:solid; border-width:1px; box-sizing:border-box; line-height:1.42857; padding:8px; text-align:center; vertical-align:top">011-24666230</td>
+			<td style="background-color:#f9f9f9; border-color:#dddddd; border-style:solid; border-width:1px; box-sizing:border-box; line-height:1.42857; padding:8px; vertical-align:top">sanjeev[at]seci[dot]co[dot]in</td>
+		</tr>
+		<tr style="box-sizing:border-box">
+			<td style="background-color:#f9f9f9; border-color:#dddddd; border-style:solid; border-width:1px; box-sizing:border-box; line-height:1.42857; padding:8px; vertical-align:top">15</td>
+			<td style="background-color:#f9f9f9; border-color:#dddddd; border-style:solid; border-width:1px; box-sizing:border-box; line-height:1.42857; padding:8px; vertical-align:top">Sh. Sunil Mehlawat</td>
+			<td style="background-color:#f9f9f9; border-color:#dddddd; border-style:solid; border-width:1px; box-sizing:border-box; line-height:1.42857; padding:8px; vertical-align:top">Dep. General Manager (CS)&nbsp;</td>
+			<td style="background-color:#f9f9f9; border-color:#dddddd; border-style:solid; border-width:1px; box-sizing:border-box; line-height:1.42857; padding:8px; text-align:center; vertical-align:top">011-24666226</td>
+			<td style="background-color:#f9f9f9; border-color:#dddddd; border-style:solid; border-width:1px; box-sizing:border-box; line-height:1.42857; padding:8px; vertical-align:top">sunil[dot]mehlawat[at]seci[dot]co[dot]in</td>
+		</tr>
+		<tr>
+			<td style="background-color:#f9f9f9; border-color:#dddddd; border-style:solid; border-width:1px; box-sizing:border-box; line-height:1.42857; padding:8px; vertical-align:top">16</td>
+			<td style="background-color:#f9f9f9; border-color:#dddddd; border-style:solid; border-width:1px; box-sizing:border-box; line-height:1.42857; padding:8px; vertical-align:top">Sh. Sandeep Rana</td>
+			<td style="background-color:#f9f9f9; border-color:#dddddd; border-style:solid; border-width:1px; box-sizing:border-box; line-height:1.42857; padding:8px; vertical-align:top">Dep. General Manager (C&amp;P)</td>
+			<td style="background-color:#f9f9f9; border-color:#dddddd; border-style:solid; border-width:1px; box-sizing:border-box; line-height:1.42857; padding:8px; text-align:center; vertical-align:top">011-2466231</td>
+			<td style="background-color:#f9f9f9; border-color:#dddddd; border-style:solid; border-width:1px; box-sizing:border-box; line-height:1.42857; padding:8px; vertical-align:top">sandeeprana[at]seci[dot]co[dot]in</td>
+		</tr>
+	</tbody>
+</table>
+
+                    </p>
+                </div>
+                <div id="ctl00_main_div_main" class="col-md-12 col-sm-12 col-xs-12 mb-20" style="display: none;">
+                    <div class="row">
+                        <div class="col-lg-12">
+                            <div class="main-box clearfix">
+                                <div id="myWizard" class="wizard">
+                                    <div class="wizard-inner maxwidth945" style="margin-bottom: 20px;">
+                                        <ul class="steps">
+                                            <li id="ctl00_main_li1" class="active disabled"><a onclick="showDiv(1);">Your Contact Details</a><span class="chevron"></span></li>
+                                            <li id="ctl00_main_li2" class="disabled"><a onclick="showDiv(2);" id="a_enable_div3">Form A</a><span class="chevron"></span></li>
+                                            <li id="ctl00_main_li3" class="disabled"><a onclick="showDiv(3);" id="a_enable_div4">Form B</a><span class="chevron"></span></li>
+                                            <li id="ctl00_main_li4" class="disabled"><a onclick="showDiv(4);" id="a_enable_div5">OTP Verification</a><span class="chevron"></span></li>
+                                        </ul>
+                                    </div>
+                                    <span id="ctl00_main_lbl_Error" class="fields_error" style="color:Red;font-size:Small;font-weight:bold;"></span>
+                                    <div class="step-content contact-form2 row">
+                                        
+                                        <div class="col-md-10 col-sm-10 col-xs-12">
+                                            <div id="ctl00_main_div_Contact_Details" style="display:block">
+                                                <div class="form-group row">
+                                                    <label class="col-md-3 required">Name/पूरा नाम</label>
+                                                    <div class="col-md-9">
+                                                        <input name="ctl00$main$txtname" type="text" id="ctl00_main_txtname" lang="MUST" maxlength="50" class="form-control" placeholder="Name/पूरा नाम" />
+                                                    </div>
+                                                </div>
+                                                <div class="form-group row">
+                                                    <label class="col-md-3 required">Father's Name/पिता का नाम</label>
+                                                    <div class="col-md-9">
+                                                        <input name="ctl00$main$txtfathername" type="text" id="ctl00_main_txtfathername" maxlength="50" class="form-control" placeholder="Father&#39;s Name/पिता का नाम" />
+                                                    </div>
+                                                </div>
+                                                <div class="form-group row">
+                                                    <label class="col-md-3 required">Mobile Number/मोबाइल नंबर</label>
+                                                    <div class="col-md-9">
+                                                        <input name="ctl00$main$txt_mobile" type="text" maxlength="10" id="ctl00_main_txt_mobile" class="form-control dob" onkeypress="return validatedecimal(event)" placeholder="Mobile Number/मोबाइल नंबर" />
+                                                    </div>
+                                                </div>
+                                                <div class="form-group row">
+                                                    <label class="col-md-3 required">Email-ID/ईमेल आईडी</label>
+                                                    <div class="col-md-9">
+                                                        <input name="ctl00$main$txtemail" type="text" id="ctl00_main_txtemail" class="form-control" maxlength="50" placeholder="Email Id" />
+                                                    </div>
+                                                </div>
+
+                                                <div class="form-group row">
+                                                    <label class="col-md-3 required">Address/पता</label>
+                                                    <div class="col-md-9">
+                                                        <textarea name="ctl00$main$txtaddress" id="ctl00_main_txtaddress" class="form-control" rows="6" cols="6" placeholder="Correspondence Address/पता" maxlength="250"></textarea>
+                                                        <span style="color: #ff0000;">Characters limit remaining</span>
+                                                        <span id="characters" style="color: #ff0000;">250</span> <span style="color: #ff0000;"></span>
+                                                    </div>
+                                                </div>
+
+                                                <div class="form-group row">
+                                                    <label class="col-md-3 required">District/ज़िला</label>
+                                                    <div class="col-md-9">
+                                                        <input name="ctl00$main$txt_district" type="text" id="ctl00_main_txt_district" class="form-control allow_int" maxlength="50" placeholder=" District/ज़िला" />
+                                                    </div>
+                                                </div>
+
+                                                <div class="form-group row">
+                                                    <label class="col-md-3 required">State/राज्य</label>
+                                                    <div class="col-md-9">
+                                                        <select name="ctl00$main$ddlstate" id="ctl00_main_ddlstate" class="form-control" title="State">
+	<option value="">Select State</option>
+	<option value="1">ANDAMAN &amp; NICOBAR ISLANDS</option>
+	<option value="2">ANDHRA PRADESH</option>
+	<option value="3">ARUNACHAL PRADESH</option>
+	<option value="4">ASSAM</option>
+	<option value="5">BIHAR</option>
+	<option value="6">CHANDIGARH</option>
+	<option value="7">CHATTISGARH</option>
+	<option value="8">DADRA &amp; NAGAR HAVELI</option>
+	<option value="9">DAMAN &amp; DIU</option>
+	<option value="10">DELHI</option>
+	<option value="11">GOA</option>
+	<option value="12">GUJARAT</option>
+	<option value="13">HARYANA</option>
+	<option value="14">HIMACHAL PRADESH</option>
+	<option value="15">JAMMU &amp; KASHMIR</option>
+	<option value="16">JHARKHAND</option>
+	<option value="17">KARNATAKA</option>
+	<option value="18">KERALA</option>
+	<option value="19">LAKSHADWEEP</option>
+	<option value="20">MADHYA PRADESH</option>
+	<option value="21">MAHARASHTRA</option>
+	<option value="22">MANIPUR</option>
+	<option value="23">MEGHALAYA</option>
+	<option value="24">MIZORAM</option>
+	<option value="25">NAGALAND</option>
+	<option value="35">Nepal(*)</option>
+	<option value="37">New York</option>
+	<option value="26">ORISSA</option>
+	<option value="27">PONDICHERRY</option>
+	<option value="28">PUNJAB</option>
+	<option value="29">RAJASTHAN</option>
+	<option value="30">SIKKIM</option>
+	<option value="31">TAMIL NADU</option>
+	<option value="36">TELANGANA</option>
+	<option value="32">TRIPURA</option>
+	<option value="33">UTTAR PRADESH</option>
+	<option value="34">UTTARAKHAND</option>
+	<option value="38">WEST BENGAL</option>
+
+</select>
+                                                    </div>
+                                                </div>
+
+                                                <div class="form-group row">
+                                                    
+                                                    <div class="col-md-3">
+                                                        <input type="submit" name="ctl00$main$cmdSubmit" value="Save &amp; Next" onclick="javascript:return SaveBasic();" id="ctl00_main_cmdSubmit" class="btn btn-warning" style="padding: 10px 52px; margin-left: 15px;" />
+                                                    </div>
+                                                    
+
+                                                    
+                                                </div>
+                                            </div>
+                                        </div>
+
+                                        
+                                        <div class="col-md-10 col-sm-10 col-xs-12">
+                                            <div id="ctl00_main_div_Form_A" style="display:none">
+                                                <div class="form-group row">
+                                                    <label class="col-md-5 required">Unique CSR registration Number generated in CSR-1 form from MCA Website</label>
+                                                    <div>
+                                                        <div class="col-md-3">
+                                                            <input name="ctl00$main$txtUniqueCSR" type="text" id="ctl00_main_txtUniqueCSR" class="form-control" maxlength="11" placeholder="Unique CSR registration Number" />
+                                                        </div>
+                                                        <div class="col-md-2">
+                                                            <input name="ctl00$main$UniqueCSR" type="file" id="ctl00_main_UniqueCSR" class="form-control" placeholder="Copy of ID Proof" onchange="fileextensioncheck(this.value, this.id)" />
+                                                        </div>
+                                                        <div class="col-md-1">
+                                                            <button id="ctl00_main_btnUniqueCSR" type="button" onclick="_uploaddocument(&#39;ctl00_main_UniqueCSR&#39;,&#39;UniqueCSR&#39;)" class="btn btn-warning">Upload<i class="icon-arrow-right"></i></button>
+                                                        </div>
+                                                        <div class="col-md-1">
+                                                            <span id="ctl00_main_lblUniqueCSR"></span>
+
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                                <div class="form-group row">
+                                                    <label class="col-md-5 required">Registration in NGO Darpan</label>
+                                                    <div class="col-md-3">
+                                                        <label class="font-weight-normal">
+
+                                                            <input value="redNGOYes" name="ctl00$main$NGO" type="radio" id="ctl00_main_redNGOYes" onclick="javascript:_yesnoCheck(this.id);" />&nbsp Yes</label>
+                                                        &nbsp; &nbsp;
+				                        <label class="font-weight-normal">
+                                            <input value="redNGONo" name="ctl00$main$NGO" type="radio" id="ctl00_main_redNGONo" onchange="javascript:_yesnoCheck(this.id);" />&nbsp No</label>
+                                                    </div>
+                                                    <div class="col-md-2">
+                                                        <input name="ctl00$main$RegistratronNGO" type="file" id="ctl00_main_RegistratronNGO" class="form-control" placeholder="Copy Registratron NGO" onchange="fileextensioncheck(this.value, this.id)" />
+                                                        <input name="ctl00$main$Hidden25" type="hidden" id="ctl00_main_Hidden25" />
+
+                                                    </div>
+                                                    <div class="col-md-1">
+                                                        <button id="ctl00_main_btnRegistratronNGO" type="button" onclick="_uploaddocument(&#39;ctl00_main_RegistratronNGO&#39;,&#39;RegistratronNGO&#39;)" class="btn btn-warning">Upload<i class="icon-arrow-right"></i></button>
+
+                                                    </div>
+                                                    <div class="col-md-1">
+                                                        <span id="ctl00_main_lblRegistratronNGO"></span>
+
+                                                    </div>
+
+                                                </div>
+                                                <div class="form-group row">
+                                                    <label class="col-md-5 required">Self-Certification(original) that not blacklisted by Niti Aayog/any ministry/PSU/Govt. body/any other organization</label>
+                                                    <div>
+                                                        <div class="col-md-3">
+                                                        </div>
+                                                        <div class="col-md-2">
+                                                            <input name="ctl00$main$SelfCertification" type="file" id="ctl00_main_SelfCertification" class="form-control" placeholder="Copy of ID Proof" onchange="fileextensioncheck(this.value, this.id)" />
+                                                            <input name="ctl00$main$Hidden2" type="hidden" id="ctl00_main_Hidden2" />
+
+                                                        </div>
+                                                        <div class="col-md-1">
+                                                            <button id="ctl00_main_btnSelfCertification" type="button" onclick="_uploaddocument(&#39;ctl00_main_SelfCertification&#39;,&#39;SelfCertification&#39;)" class="btn btn-warning">Upload<i class="icon-arrow-right"></i></button>
+                                                        </div>
+                                                        <div class="col-md-1">
+                                                            <span id="ctl00_main_lblSelfCertification"></span>
+                                                        </div>
+                                                    </div>
+                                                </div>
+
+                                                <div class="form-group row">
+
+                                                    <label class="col-md-5 required">Registered as:</label>
+                                                    <div class="col-md-7">
+                                                        <label class="font-weight-normal">
+
+                                                            <input value="redRegisterSociety" name="ctl00$main$Society" type="radio" id="ctl00_main_redRegisterSociety" onclick="javascript:_yesnoCheck(this.id);" />&nbsp Society</label>
+                                                        &nbsp; &nbsp;
+				                        <label class="font-weight-normal">
+                                            <input value="redRegisterTrust" name="ctl00$main$Society" type="radio" id="ctl00_main_redRegisterTrust" onchange="javascript:_yesnoCheck(this.id);" />&nbsp Trust</label>
+                                                        &nbsp; &nbsp;
+                                    <label class="font-weight-normal">
+                                        <input value="redRegisterCompany" name="ctl00$main$Society" type="radio" id="ctl00_main_redRegisterCompany" onchange="javascript:_yesnoCheck(this.id);" />&nbsp Sec 8 Company</label>
+                                                    </div>
+                                                </div>
+                                                <div class="form-group row">
+                                                    <label class="col-md-5 required">Registration number</label>
+                                                    <div>
+                                                        <div class="col-md-3">
+                                                            <input name="ctl00$main$txtRegistration" type="text" id="ctl00_main_txtRegistration" class="form-control" maxlength="50" placeholder="Registration Number" />
+                                                        </div>
+                                                        <div class="col-md-2">
+                                                            <input name="ctl00$main$Registration" type="file" id="ctl00_main_Registration" class="form-control" placeholder="Copy of ID Proof" onchange="fileextensioncheck(this.value, this.id)" />
+                                                            <input name="ctl00$main$Hidden4" type="hidden" id="ctl00_main_Hidden4" />
+
+                                                        </div>
+                                                        <div class="col-md-1">
+                                                            <button id="ctl00_main_btnRegistration" type="button" onclick="_uploaddocument(&#39;ctl00_main_Registration&#39;,&#39;Registration&#39;)" class="btn btn-warning">Upload<i class="icon-arrow-right"></i></button>
+                                                        </div>
+                                                        <div class="col-md-1">
+                                                            <span id="ctl00_main_lblRegistration"></span>
+
+                                                        </div>
+
+                                                    </div>
+                                                </div>
+                                                <div class="form-group row">
+                                                    <label class="col-md-5 required">Copy of Pan Card</label>
+                                                    <div>
+                                                        <div class="col-md-3">
+                                                            <input name="ctl00$main$txtPancard" type="text" id="ctl00_main_txtPancard" class="form-control" maxlength="20" placeholder="PAN Number" />
+                                                        </div>
+                                                        <div class="col-md-2">
+                                                            <input name="ctl00$main$PanCard" type="file" id="ctl00_main_PanCard" class="form-control" placeholder="Copy of PAN Number" onchange="fileextensioncheck(this.value, this.id)" />
+                                                            <input name="ctl00$main$Hidden5" type="hidden" id="ctl00_main_Hidden5" />
+
+                                                        </div>
+                                                        <div class="col-md-1">
+                                                            <button id="ctl00_main_btnPanCard" type="button" onclick="_uploaddocument(&#39;ctl00_main_PanCard&#39;,&#39;PanCard&#39;)" class="btn btn-warning">Upload<i class="icon-arrow-right"></i></button>
+                                                        </div>
+                                                        <div class="col-md-1">
+                                                            <span id="ctl00_main_lblPanCard"></span>
+
+                                                        </div>
+
+                                                    </div>
+                                                </div>
+                                                <div class="form-group row">
+                                                    <label class="col-md-5 required">Copy of memorandum of Association</label>
+                                                    <div>
+                                                        <div class="col-md-3">
+                                                        </div>
+                                                        <div class="col-md-2">
+                                                            <input name="ctl00$main$Memorandum" type="file" id="ctl00_main_Memorandum" class="form-control" placeholder="Copy of ID Proof" onchange="fileextensioncheck(this.value, this.id)" />
+                                                            <input name="ctl00$main$Hidden6" type="hidden" id="ctl00_main_Hidden6" />
+
+                                                        </div>
+                                                        <div class="col-md-1">
+                                                            <button id="ctl00_main_btnMemorandum" type="button" onclick="_uploaddocument(&#39;ctl00_main_Memorandum&#39;,&#39;Memorandum&#39;)" class="btn btn-warning">Upload<i class="icon-arrow-right"></i></button>
+                                                        </div>
+                                                        <div class="col-md-1">
+                                                            <span id="ctl00_main_lblMemorandum"></span>
+
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                                <div class="form-group row">
+                                                    <label class="col-md-5 required">Copy of 80 G Certificate</label>
+                                                    <div>
+                                                        <div class="col-md-3">
+                                                        </div>
+                                                        <div class="col-md-2">
+                                                            <input name="ctl00$main$Certificate80" type="file" id="ctl00_main_Certificate80" class="form-control" placeholder="Copy of 80 G Certificate" onchange="fileextensioncheck(this.value, this.id)" />
+                                                            <input name="ctl00$main$Hidden7" type="hidden" id="ctl00_main_Hidden7" />
+
+                                                        </div>
+                                                        <div class="col-md-1">
+                                                            <button id="ctl00_main_Button7" type="button" onclick="_uploaddocument(&#39;ctl00_main_Certificate80&#39;,&#39;Certificate80&#39;)" class="btn btn-warning">Upload<i class="icon-arrow-right"></i></button>
+                                                        </div>
+                                                        <div class="col-md-1">
+                                                            <span id="ctl00_main_lblCertificate80"></span>
+
+                                                        </div>
+                                                    </div>
+                                                </div>
+
+                                                <div class="form-group row">
+                                                    <label class="col-md-5 required">Copy of Audited accounts for last three years</label>
+                                                    <div>
+                                                        <div class="col-md-3">
+                                                        </div>
+                                                        <div class="col-md-2">
+                                                            <input name="ctl00$main$Audited" type="file" id="ctl00_main_Audited" class="form-control" placeholder="Copy of ID Proof" onchange="fileextensioncheck(this.value, this.id)" />
+                                                            <input name="ctl00$main$Hidden3" type="hidden" id="ctl00_main_Hidden3" />
+
+                                                        </div>
+                                                        <div class="col-md-1">
+                                                            <button id="ctl00_main_btnAudited" type="button" onclick="_uploaddocument(&#39;ctl00_main_Audited&#39;,&#39;Audited&#39;)" class="btn btn-warning">Upload<i class="icon-arrow-right"></i></button>
+                                                        </div>
+                                                        <div class="col-md-1">
+                                                            <span id="ctl00_main_lblAudited"></span>
+
+                                                        </div>
+                                                    </div>
+                                                </div>
+
+                                                <div class="form-group row">
+                                                    <label class="col-md-5 required">Copy of FCRA certification (Only applicable to NGOs receiving foreign contributions)</label>
+                                                    <div class="col-md-3">
+                                                        <label class="font-weight-normal">
+
+                                                            <input value="redFCRAYes" name="ctl00$main$FCRA" type="radio" id="ctl00_main_redFCRAYes" onclick="javascript:_yesnoCheck(this.id);" />&nbsp Yes</label>
+                                                        &nbsp; &nbsp;
+				                        <label class="font-weight-normal">
+                                            <input value="redFCRANo" name="ctl00$main$FCRA" type="radio" id="ctl00_main_redFCRANo" onchange="javascript:_yesnoCheck(this.id);" />&nbsp No</label>
+                                                    </div>
+                                                    <div class="col-md-2">
+                                                        <input name="ctl00$main$FCRACertification" type="file" id="ctl00_main_FCRACertification" class="form-control" placeholder="Copy of ID Proof" onchange="fileextensioncheck(this.value, this.id)" />
+                                                        <input name="ctl00$main$Hidden8" type="hidden" id="ctl00_main_Hidden8" />
+
+                                                    </div>
+                                                    <div class="col-md-1">
+                                                        <button id="ctl00_main_Button8" type="button" onclick="_uploaddocument(&#39;ctl00_main_FCRACertification&#39;,&#39;FCRACertification&#39;)" class="btn btn-warning">Upload<i class="icon-arrow-right"></i></button>
+
+                                                    </div>
+                                                    <div class="col-md-1">
+                                                        <span id="ctl00_main_lblFCRACertification"></span>
+
+                                                    </div>
+
+                                                </div>
+
+                                                <div class="form-group row">
+                                                    <label class="col-md-5">Declaration that assets shall be maintained for a period of 3 years and handed over to permissible entity as per the Companies act</label>
+                                                    <div>
+                                                        <div class="col-md-3">
+                                                        </div>
+                                                        <div class="col-md-2">
+                                                            <input name="ctl00$main$Period3year" type="file" id="ctl00_main_Period3year" class="form-control" placeholder="Period3year" onchange="fileextensioncheck(this.value, this.id)" />
+                                                            <input name="ctl00$main$Hidden9" type="hidden" id="ctl00_main_Hidden9" />
+
+                                                        </div>
+                                                        <div class="col-md-1">
+                                                            <button id="ctl00_main_btnPeriod3year" type="button" onclick="_uploaddocument(&#39;ctl00_main_Period3year&#39;,&#39;Period3year&#39;)" class="btn btn-warning">Upload<i class="icon-arrow-right"></i></button>
+                                                        </div>
+                                                        <div class="col-md-1">
+                                                            <span id="ctl00_main_lblPeriod3year"></span>
+
+                                                        </div>
+                                                    </div>
+                                                </div>
+
+                                                <div class="form-group row">
+                                                    <label class="col-md-5">Declaration that assets created from CSR assistance shall not be passed on to any private party and shall be retained by permissible entity as per Companies act</label>
+                                                    <div>
+                                                        <div class="col-md-3">
+                                                        </div>
+                                                        <div class="col-md-2">
+                                                            <input name="ctl00$main$CSRassistance" type="file" id="ctl00_main_CSRassistance" class="form-control" placeholder="Copy of ID Proof" onchange="fileextensioncheck(this.value, this.id)" />
+                                                            <input name="ctl00$main$Hidden10" type="hidden" id="ctl00_main_Hidden10" />
+
+                                                        </div>
+                                                        <div class="col-md-1">
+                                                            <button id="ctl00_main_Button10" type="button" onclick="_uploaddocument(&#39;ctl00_main_CSRassistance&#39;,&#39;CSRassistance&#39;)" class="btn btn-warning">Upload<i class="icon-arrow-right"></i></button>
+                                                        </div>
+                                                        <div class="col-md-1">
+                                                            <span id="ctl00_main_lblCSRassistance"></span>
+
+                                                        </div>
+                                                    </div>
+                                                </div>
+
+
+                                                <div class="form-group row">
+                                                    <label class="col-md-5 required">Last 3 years activity list in the similar field supported by documents such as (MoU/Work order/Completion Certificate</label>
+                                                    <div>
+                                                        <div class="col-md-3">
+                                                            <input name="ctl00$main$txtLast3Year" type="text" id="ctl00_main_txtLast3Year" class="form-control" maxlength="500" placeholder="Last 3 years activity list" />
+                                                        </div>
+                                                        <div class="col-md-2">
+                                                            <input name="ctl00$main$Last3Year" type="file" id="ctl00_main_Last3Year" class="form-control" placeholder="Copy of ID Proof" onchange="fileextensioncheck(this.value, this.id)" />
+                                                            <input name="ctl00$main$Hidden11" type="hidden" id="ctl00_main_Hidden11" />
+
+                                                        </div>
+                                                        <div class="col-md-1">
+                                                            <button id="ctl00_main_btnLast3Year" type="button" onclick="_uploaddocument(&#39;ctl00_main_Last3Year&#39;,&#39;Last3Year&#39;)" class="btn btn-warning">Upload<i class="icon-arrow-right"></i></button>
+                                                        </div>
+                                                        <div class="col-md-1">
+                                                            <span id="ctl00_main_lblLast3Year"></span>
+
+                                                        </div>
+                                                    </div>
+                                                </div>
+
+                                                <div class="form-group row">
+                                                    <label class="col-md-5 required">Copy of partnership with govt. agencies/PSUs, if any (MoU/Work Order/Completion Certificate)</label>
+                                                    <div>
+                                                        <div class="col-md-3">
+                                                        </div>
+                                                        <div class="col-md-2">
+                                                            <input name="ctl00$main$Partnership" type="file" id="ctl00_main_Partnership" class="form-control" placeholder="Copy of ID Proof" onchange="fileextensioncheck(this.value, this.id)" />
+                                                            <input name="ctl00$main$Hidden12" type="hidden" id="ctl00_main_Hidden12" />
+
+                                                        </div>
+                                                        <div class="col-md-1">
+                                                            <button id="ctl00_main_btnPartnership" type="button" onclick="_uploaddocument(&#39;ctl00_main_Partnership&#39;,&#39;Partnership&#39;)" class="btn btn-warning">Upload<i class="icon-arrow-right"></i></button>
+                                                        </div>
+                                                        <div class="col-md-1">
+                                                            <span id="ctl00_main_lblPartnership"></span>
+
+                                                        </div>
+                                                    </div>
+                                                </div>
+
+                                                <div class="form-group row">
+                                                    <label class="col-md-5 required">URL of the requesting organization's website(if any)</label>
+                                                    <div>
+                                                        <div class="col-md-3">
+                                                            <label class="font-weight-normal">
+
+                                                                <input value="redwebsiteYes" name="ctl00$main$URL" type="radio" id="ctl00_main_redwebsiteYes" onclick="javascript:_yesnoCheck(this.id);" />&nbsp Yes</label>
+                                                            &nbsp; &nbsp;
+				                        <label class="font-weight-normal">
+                                            <input value="redwebsiteNo" name="ctl00$main$URL" type="radio" id="ctl00_main_redwebsiteNo" onchange="javascript:_yesnoCheck(this.id);" />&nbsp No</label>
+                                                            &nbsp; &nbsp;
+				                      
+                                                        </div>
+                                                        <div class="col-md-3">
+                                                            <input name="ctl00$main$txtURLwebsite" type="text" id="ctl00_main_txtURLwebsite" class="form-control mw-235" maxlength="50" placeholder="URL" />
+
+                                                        </div>
+
+
+                                                    </div>
+                                                </div>
+
+                                                <div class="form-group row">
+                                                    <label class="col-md-5 required">Achievements or awards received</label>
+                                                    <div>
+                                                        <div class="col-md-3">
+                                                            <label class="font-weight-normal">
+
+                                                                <input value="redawardYes" name="ctl00$main$awards" type="radio" id="ctl00_main_redawardYes" onclick="javascript:_yesnoCheck(this.id);" />&nbsp Yes</label>
+                                                            &nbsp; &nbsp;
+				                        <label class="font-weight-normal">
+                                            <input value="redawardNo" name="ctl00$main$awards" type="radio" id="ctl00_main_redawardNo" onchange="javascript:_yesnoCheck(this.id);" />&nbsp No</label>
+                                                            
+                                                        </div>
+                                                        <div class="col-md-2">
+                                                            <input name="ctl00$main$Achievement_File" type="file" id="ctl00_main_Achievement_File" class="form-control" placeholder="Copy of ID Proof" onchange="fileextensioncheck(this.value, this.id)" />
+                                                            <input name="ctl00$main$Hidden14" type="hidden" id="ctl00_main_Hidden14" />
+
+                                                        </div>
+                                                        <div class="col-md-1">
+                                                            <button id="ctl00_main_btnAchievement" type="button" onclick="_uploaddocument(&#39;ctl00_main_Achievement_File&#39;,&#39;AchievementFile&#39;)" class="btn btn-warning">Upload<i class="icon-arrow-right"></i></button>
+                                                        </div>
+                                                        <div class="col-md-1">
+                                                            <span id="ctl00_main_lblAchievement"></span>
+
+                                                        </div>
+                                                    </div>
+                                                </div>
+
+                                                <div class="form-group row">
+                                                    <label class="col-md-5 required">Any of Board of Directors/ Trustees/ Executive Committee members have any official dealing with SECI and its subsidiaries or are related to any board member of SECI and its subsidiaries. If so, details thereof.</label>
+                                                    <div>
+                                                        <div class="col-md-3">
+                                                            <label class="font-weight-normal">
+
+                                                                <input value="redBoardYes" name="ctl00$main$Board" type="radio" id="ctl00_main_redBoardYes" onclick="javascript:_yesnoCheck(this.id);" />&nbsp Yes</label>
+                                                            &nbsp; &nbsp;
+				                        <label class="font-weight-normal">
+                                            <input value="redBoardNo" name="ctl00$main$Board" type="radio" id="ctl00_main_redBoardNo" onchange="javascript:_yesnoCheck(this.id);" />&nbsp No</label>
+                                                            
+                                                        </div>
+                                                        <div class="col-md-3">
+                                                            <input name="ctl00$main$txtBoard" type="text" id="ctl00_main_txtBoard" class="form-control mw-235" maxlength="500" placeholder="Board of Directors" />
+                                                        </div>
+                                                    </div>
+                                                </div>
+
+                                                <div class="form-group row">
+                                                    <label class="col-md-5 required">Declaration that the project will be fully utilized by the organization as per the timelines and funding of SECI CSR and utilization certificate will also be provided within the end of financial year</label>
+                                                    <div>
+                                                        <div class="col-md-3">
+                                                        </div>
+                                                        <div class="col-md-2">
+                                                            <input name="ctl00$main$SECICSR" type="file" id="ctl00_main_SECICSR" class="form-control" placeholder="Copy of ID Proof" onchange="fileextensioncheck(this.value, this.id)" />
+                                                            <input name="ctl00$main$Hidden16" type="hidden" id="ctl00_main_Hidden16" />
+
+                                                        </div>
+                                                        <div class="col-md-1">
+                                                            <button id="ctl00_main_Button16" type="button" onclick="_uploaddocument(&#39;ctl00_main_SECICSR&#39;,&#39;SECICSR&#39;)" class="btn btn-warning">Upload<i class="icon-arrow-right"></i></button>
+                                                        </div>
+                                                        <div class="col-md-1">
+                                                            <span id="ctl00_main_lblSECICSR"></span>
+                                                        </div>
+                                                    </div>
+                                                </div>
+
+                                                <div class="form-group row">
+                                                    <label class="col-md-5">Declaration that SECI's role shall be that of sponsor only and the requesting organization shall fully implement the project</label>
+                                                    <div>
+                                                        <div class="col-md-3">
+                                                            <input name="ctl00$main$txtSeciRole" type="text" id="ctl00_main_txtSeciRole" class="form-control" maxlength="250" placeholder="Enter" />
+                                                        </div>
+                                                        <div class="col-md-2">
+                                                            <input name="ctl00$main$SECIRole_File" type="file" id="ctl00_main_SECIRole_File" class="form-control" placeholder="Copy of ID Proof" onchange="fileextensioncheck(this.value, this.id)" />
+                                                            <input name="ctl00$main$Hidden17" type="hidden" id="ctl00_main_Hidden17" />
+                                                        </div>
+                                                        <div class="col-md-1">
+                                                            <button id="ctl00_main_btnSeciRole" type="button" onclick="_uploaddocument(&#39;ctl00_main_SECIRole_File&#39;,&#39;SeciRole&#39;)" class="btn btn-warning">Upload<i class="icon-arrow-right"></i></button>
+                                                        </div>
+                                                        <div class="col-md-1">
+                                                            <span id="ctl00_main_lblSeciRole"></span>
+                                                        </div>
+                                                    </div>
+                                                </div>
+
+                                                <div class="form-group row">
+
+                                                    <input type="submit" name="ctl00$main$cmdSubmitA" value="Save &amp; Next" onclick="javascript:return SaveFormA();" id="ctl00_main_cmdSubmitA" class="btn btn-warning" style="padding: 10px 52px; margin-left: 15px;" />
+
+
+                                                    
+                                                </div>
+                                            </div>
+                                        </div>
+
+                                        
+                                        <div class="col-md-10 col-sm-10 col-xs-12">
+                                            <div id="ctl00_main_div_Form_B" style="display:none">
+                                                <div class="form-group row">
+                                                    <label class="col-md-5">Need of the project (Baseline / Need assessment study if any conducted,to be enclosed)</label>
+
+                                                    <div class="col-md-7">
+                                                        <input name="ctl00$main$Text_Need_of_the_project" type="text" id="ctl00_main_Text_Need_of_the_project" class="form-control" maxlength="500" placeholder="Need of the project" />
+                                                    </div>
+                                                </div>
+
+                                                <div class="form-group row">
+                                                    <label class="col-md-5">Recommendation/request from district administration regarding:</label>
+                                                </div>
+
+                                                <div class="form-group row">
+                                                    <label class="col-md-5 required fw400">(i)The need/Public purpose of the activity at the project location</label>
+                                                    <div class="col-md-3">
+                                                        <input name="ctl00$main$Text_Public_purpose_of" type="text" id="ctl00_main_Text_Public_purpose_of" class="form-control" maxlength="200" placeholder="The need/Public purpose" />
+                                                    </div>
+                                                    <div class="col-md-2">
+                                                        <input name="ctl00$main$File_Text_Public_purpose_of" type="file" id="ctl00_main_File_Text_Public_purpose_of" class="form-control" placeholder="Copy of ID Proof" onchange="fileextensioncheck(this.value, this.id)" />
+                                                        <input name="ctl00$main$Hidden1" type="hidden" id="ctl00_main_Hidden1" />
+                                                    </div>
+                                                    <div class="col-md-1">
+                                                        <button id="ctl00_main_Button3" type="button" onclick="_uploaddocument(&#39;ctl00_main_File_Text_Public_purpose_of&#39;,&#39;Public_purpose_of&#39;)" class="btn btn-warning">Upload<i class="icon-arrow-right"></i></button>
+                                                    </div>
+                                                    <div class="col-md-1">
+                                                        <span id="ctl00_main_lbl_Public_purpose_of"></span>
+                                                    </div>
+                                                </div>
+
+                                                <div class="form-group row">
+                                                    <label class="col-md-5 required fw400">(ii)The proposed activity at the project location is not being undertaken or planned to be undertaken by any govt. other agency</label>
+                                                    <div class="col-md-3">
+                                                        <input name="ctl00$main$Text_The_proposed_activity" type="text" id="ctl00_main_Text_The_proposed_activity" class="form-control" maxlength="300" placeholder="The proposed activity" />
+                                                    </div>
+                                                    <div class="col-md-2">
+                                                        <input name="ctl00$main$File_The_proposed_activity" type="file" id="ctl00_main_File_The_proposed_activity" class="form-control" placeholder="The proposed activity" onchange="fileextensioncheck(this.value, this.id)" />
+                                                        <input name="ctl00$main$Hidden29" type="hidden" id="ctl00_main_Hidden29" />
+                                                    </div>
+                                                    <div class="col-md-1">
+                                                        <button id="ctl00_main_Button1" type="button" onclick="_uploaddocument(&#39;ctl00_main_File_The_proposed_activity&#39;,&#39;The_proposed_activity&#39;)" class="btn btn-warning">Upload<i class="icon-arrow-right"></i></button>
+                                                    </div>
+                                                    <div class="col-md-1">
+                                                        <span id="ctl00_main_lbl_The_proposed_activity"></span>
+                                                    </div>
+                                                </div>
+
+                                                <div class="form-group row">
+                                                    <label class="col-md-5 required">Project location</label>
+                                                </div>
+
+                                                <div class="form-group row">
+                                                    <label class="col-md-5 fw400">a) State  </label>
+                                                    <div class="col-md-7">
+                                                        <select name="ctl00$main$ddlstate2" id="ctl00_main_ddlstate2" class="form-control" title="State">
+	<option value="0">Select State</option>
+	<option value="1">ANDAMAN &amp; NICOBAR ISLANDS</option>
+	<option value="2">ANDHRA PRADESH</option>
+	<option value="3">ARUNACHAL PRADESH</option>
+	<option value="4">ASSAM</option>
+	<option value="5">BIHAR</option>
+	<option value="6">CHANDIGARH</option>
+	<option value="7">CHATTISGARH</option>
+	<option value="8">DADRA &amp; NAGAR HAVELI</option>
+	<option value="9">DAMAN &amp; DIU</option>
+	<option value="10">DELHI</option>
+	<option value="11">GOA</option>
+	<option value="12">GUJARAT</option>
+	<option value="13">HARYANA</option>
+	<option value="14">HIMACHAL PRADESH</option>
+	<option value="15">JAMMU &amp; KASHMIR</option>
+	<option value="16">JHARKHAND</option>
+	<option value="17">KARNATAKA</option>
+	<option value="18">KERALA</option>
+	<option value="19">LAKSHADWEEP</option>
+	<option value="20">MADHYA PRADESH</option>
+	<option value="21">MAHARASHTRA</option>
+	<option value="22">MANIPUR</option>
+	<option value="23">MEGHALAYA</option>
+	<option value="24">MIZORAM</option>
+	<option value="25">NAGALAND</option>
+	<option value="35">Nepal(*)</option>
+	<option value="37">New York</option>
+	<option value="26">ORISSA</option>
+	<option value="27">PONDICHERRY</option>
+	<option value="28">PUNJAB</option>
+	<option value="29">RAJASTHAN</option>
+	<option value="30">SIKKIM</option>
+	<option value="31">TAMIL NADU</option>
+	<option value="36">TELANGANA</option>
+	<option value="32">TRIPURA</option>
+	<option value="33">UTTAR PRADESH</option>
+	<option value="34">UTTARAKHAND</option>
+	<option value="38">WEST BENGAL</option>
+
+</select>
+                                                    </div>
+                                                </div>
+
+                                                <div class="form-group row">
+                                                    <label class="col-md-5 fw400">b) District</label>
+                                                    <div class="col-md-7">
+                                                        <input name="ctl00$main$Text_District2" type="text" id="ctl00_main_Text_District2" class="form-control" maxlength="12" placeholder="District" />
+                                                    </div>
+                                                </div>
+
+                                                <div class="form-group row">
+                                                    <label class="col-md-5 fw400">c) A Brief to be submitted on how the project at the proposed location will be beneficial</label>
+                                                    <div class="col-md-7">
+                                                        <input name="ctl00$main$Text_A_Brief_to_be_submitted" type="text" id="ctl00_main_Text_A_Brief_to_be_submitted" class="form-control" maxlength="500" placeholder="A Brief to be submitted" />
+                                                    </div>
+                                                </div>
+
+                                                <div class="form-group row">
+                                                    <label class="col-md-5 required">Project objectives and expected outcomes</label>
+                                                    <div class="col-md-3">
+                                                        <input name="ctl00$main$Text_Project_objectives" type="text" id="ctl00_main_Text_Project_objectives" class="form-control" maxlength="150" placeholder="Project objectives and expected outcomes" />
+                                                    </div>
+                                                    <div class="col-md-2">
+                                                        <input name="ctl00$main$File_Project_objectives" type="file" id="ctl00_main_File_Project_objectives" class="form-control" placeholder="Project objectives and expected outcomes" onchange="fileextensioncheck(this.value, this.id)" />
+                                                        <input name="ctl00$main$Hidden13" type="hidden" id="ctl00_main_Hidden13" />
+                                                    </div>
+                                                    <div class="col-md-1">
+                                                        <button id="ctl00_main_Button4" type="button" onclick="_uploaddocument(&#39;ctl00_main_File_Project_objectives&#39;,&#39;File_Project_objectives&#39;)" class="btn btn-warning">Upload<i class="icon-arrow-right"></i></button>
+                                                    </div>
+                                                    <div class="col-md-1">
+                                                        <span id="ctl00_main_lbl_File_Project_objectives"></span>
+                                                    </div>
+                                                </div>
+
+                                                <div class="form-group row">
+                                                    <label class="col-md-5 required">Number of Beneficiaries of the project</label>
+                                                    <div class="col-md-7">
+                                                        <textarea name="ctl00$main$Text_Number_of_Beneficiaries" id="ctl00_main_Text_Number_of_Beneficiaries" class="form-control" placeholder="Number of Beneficiaries of the project" rows="6" cols="6"></textarea>
+                                                        
+                                                    </div>
+                                                </div>
+                                                <div class="form-group row">
+                                                    <div class="col-md-5"></div>
+                                                    <div class="col-md-3">
+                                                        <input name="ctl00$main$File_Number_of_Beneficiaries" type="file" id="ctl00_main_File_Number_of_Beneficiaries" class="form-control" placeholder="Project objectives and expected outcomes" onchange="fileextensioncheck(this.value, this.id)" />
+                                                        <input name="ctl00$main$Hidden26" type="hidden" id="ctl00_main_Hidden26" />
+                                                    </div>
+                                                    <div class="col-md-1">
+                                                        <button id="ctl00_main_Button21" type="button" onclick="_uploaddocument(&#39;ctl00_main_File_Number_of_Beneficiaries&#39;,&#39;Number_of_Beneficiaries&#39;)" class="btn btn-warning">Upload<i class="icon-arrow-right"></i></button>
+                                                    </div>
+                                                    <div class="col-md-1">
+                                                        <span id="ctl00_main_Label1"></span>
+                                                    </div>
+                                                </div>
+
+                                                <div class="form-group row">
+                                                    <label class="col-md-5 required">Categories of the beneficiaries (GEN/OBC/SC/ST/PWD/OTHERS)</label>
+                                                    <div class="col-md-7">
+                                                        <input name="ctl00$main$Text_Categories_of_the_beneficiaries" type="text" id="ctl00_main_Text_Categories_of_the_beneficiaries" class="form-control" maxlength="100" placeholder="Categories of the beneficiaries" />
+                                                    </div>
+                                                </div>
+
+                                                <div class="form-group row">
+                                                    <label class="col-md-5 required">Summary Note on the project outlining all important aspects of the project</label>
+                                                    <div class="col-md-7">
+                                                        <textarea name="ctl00$main$Text_Summary_Note_on_the_project" id="ctl00_main_Text_Summary_Note_on_the_project" class="form-control" placeholder="Summary Note on the project outlining all important aspects of the project" rows="6" cols="6"></textarea>
+                                                        
+                                                    </div>
+                                                </div>
+                                                <div class="form-group row">
+                                                    <div class="col-md-5"></div>
+                                                    <div class="col-md-3">
+                                                        <input name="ctl00$main$File_Summary_Note" type="file" id="ctl00_main_File_Summary_Note" class="form-control" placeholder="Project objectives and expected outcomes" onchange="fileextensioncheck(this.value, this.id)" />
+                                                        <input name="ctl00$main$Hidden27" type="hidden" id="ctl00_main_Hidden27" />
+                                                    </div>
+                                                    <div class="col-md-1">
+                                                        <button id="ctl00_main_Button22" type="button" onclick="_uploaddocument(&#39;ctl00_main_File_Summary_Note&#39;,&#39;File_Summary_Note&#39;)" class="btn btn-warning">Upload<i class="icon-arrow-right"></i></button>
+                                                    </div>
+                                                    <div class="col-md-1">
+                                                        <span id="ctl00_main_Label2"></span>
+                                                    </div>
+                                                </div>
+
+                                                <div class="form-group row">
+                                                    <label class="col-md-5 required">List of project activities along with corresponding project schedule/timelines</label>
+                                                    <div class="col-md-7">
+
+                                                        <textarea name="ctl00$main$Text_List_of_project" id="ctl00_main_Text_List_of_project" class="form-control" placeholder="List of project activities along with corresponding project schedule/timelines" rows="6" cols="6"></textarea>
+                                                        
+                                                    </div>
+                                                </div>
+                                                <div class="form-group row">
+                                                    <div class="col-md-5"></div>
+                                                    <div class="col-md-3">
+                                                        <input name="ctl00$main$File_List_of_project" type="file" id="ctl00_main_File_List_of_project" class="form-control" placeholder="Project objectives and expected outcomes" onchange="fileextensioncheck(this.value, this.id)" />
+                                                        <input name="ctl00$main$Hidden28" type="hidden" id="ctl00_main_Hidden28" />
+                                                    </div>
+                                                    <div class="col-md-1">
+                                                        <button id="ctl00_main_Button23" type="button" onclick="_uploaddocument(&#39;ctl00_main_File_List_of_project&#39;,&#39;File_List_of_project&#39;)" class="btn btn-warning">Upload<i class="icon-arrow-right"></i></button>
+                                                    </div>
+                                                    <div class="col-md-1">
+                                                        <span id="ctl00_main_Label3"></span>
+                                                    </div>
+                                                </div>
+
+                                                <div class="form-group row">
+                                                    <label class="col-md-5 required">Detailed item wise breakup of project outlay showing capital and recurring expenditure separately along with jurisdiction for each item</label>
+                                                    <div class="col-md-3">
+                                                        <input name="ctl00$main$Text_Detailed_item_wise" type="text" id="ctl00_main_Text_Detailed_item_wise" class="form-control" maxlength="200" placeholder="Detailed item wise breakup of project" />
+                                                    </div>
+                                                    <div class="col-md-2">
+                                                        <input name="ctl00$main$File_Detailed_item_wise" type="file" id="ctl00_main_File_Detailed_item_wise" class="form-control" placeholder="Detailed item wise breakup of project" onchange="fileextensioncheck(this.value, this.id)" />
+                                                        <input name="ctl00$main$Hidden15" type="hidden" id="ctl00_main_Hidden15" />
+                                                    </div>
+                                                    <div class="col-md-1">
+                                                        <button id="ctl00_main_Button5" type="button" onclick="_uploaddocument(&#39;ctl00_main_File_Detailed_item_wise&#39;,&#39;Detailed_item_wise&#39;)" class="btn btn-warning">Upload<i class="icon-arrow-right"></i></button>
+                                                    </div>
+                                                    <div class="col-md-1">
+                                                        <span id="ctl00_main_lbl_Detailed_item_wise"></span>
+                                                    </div>
+                                                </div>
+
+                                                <div class="form-group row">
+                                                    <label class="col-md-5 required">Payment Schedule</label>
+                                                    <div class="col-md-3">
+                                                        <input name="ctl00$main$Text_Payment_Schedule" type="text" id="ctl00_main_Text_Payment_Schedule" class="form-control" maxlength="50" placeholder="Payment Schedule" />
+                                                    </div>
+                                                    <div class="col-md-2">
+                                                        <input name="ctl00$main$File_Payment_Schedule" type="file" id="ctl00_main_File_Payment_Schedule" class="form-control" placeholder="Payment Schedule" onchange="fileextensioncheck(this.value, this.id)" />
+                                                        <input name="ctl00$main$Hidden18" type="hidden" id="ctl00_main_Hidden18" />
+                                                    </div>
+                                                    <div class="col-md-1">
+                                                        <button id="ctl00_main_Button6" type="button" onclick="_uploaddocument(&#39;ctl00_main_File_Payment_Schedule&#39;,&#39;Payment_Schedule&#39;)" class="btn btn-warning">Upload<i class="icon-arrow-right"></i></button>
+                                                    </div>
+                                                    <div class="col-md-1">
+                                                        <span id="ctl00_main_lbl_Payment_Schedule"></span>
+                                                    </div>
+                                                </div>
+
+                                                <div class="form-group row">
+                                                    <label class="col-md-5 required">Bank Account Details: </label>
+                                                    <div class="col-md-3">
+                                                    </div>
+                                                </div>
+
+                                                <div class="form-group row">
+                                                    <label class="col-md-5 required fw400">a) Account Number</label>
+                                                    <div class="col-md-7">
+                                                        <input name="ctl00$main$Text_Account_Number" type="text" id="ctl00_main_Text_Account_Number" class="form-control" maxlength="20" placeholder="Account Number" />
+                                                    </div>
+                                                </div>
+
+                                                <div class="form-group row">
+                                                    <label class="col-md-5 required fw400">b) Account Name </label>
+                                                    <div class="col-md-7">
+                                                        <input name="ctl00$main$Text_AccountName" type="text" id="ctl00_main_Text_AccountName" class="form-control" maxlength="50" placeholder="Account Name " />
+                                                    </div>
+                                                </div>
+
+                                                <div class="form-group row">
+                                                    <label class="col-md-5 required fw400">c) Bank Name</label>
+                                                    <div class="col-md-7">
+                                                        <input name="ctl00$main$Text_BankName" type="text" id="ctl00_main_Text_BankName" class="form-control" maxlength="50" placeholder="Bank Name" />
+                                                    </div>
+                                                </div>
+
+                                                <div class="form-group row">
+                                                    <label class="col-md-5 required fw400">d) IFSC Code</label>
+                                                    <div class="col-md-7">
+                                                        <input name="ctl00$main$Text_IFSC_Code" type="text" id="ctl00_main_Text_IFSC_Code" class="form-control" maxlength="15" placeholder="IFSC Code" />
+                                                    </div>
+                                                </div>
+
+                                                <div class="form-group row">
+                                                    <label class="col-md-5 required fw400">e) MICR Code</label>
+                                                    <div class="col-md-7">
+                                                        <input name="ctl00$main$Text_MICR_Code" type="text" id="ctl00_main_Text_MICR_Code" class="form-control" maxlength="50" placeholder="MICR Code" />
+                                                    </div>
+                                                </div>
+
+                                                <div class="form-group row">
+                                                    <label class="col-md-5 required">Monitoring and reporting mechanism</label>
+                                                    <div class="col-md-3">
+                                                        <input name="ctl00$main$Text_Monitoring_and_reporting" type="text" id="ctl00_main_Text_Monitoring_and_reporting" class="form-control" maxlength="100" placeholder="Monitoring and reporting mechanism" />
+                                                    </div>
+                                                    <div class="col-md-2">
+                                                        <input name="ctl00$main$File_Monitoring_and_reporting" type="file" id="ctl00_main_File_Monitoring_and_reporting" class="form-control" placeholder="Monitoring and reporting mechanism" onchange="fileextensioncheck(this.value, this.id)" />
+                                                        <input name="ctl00$main$Hidden19" type="hidden" id="ctl00_main_Hidden19" />
+                                                    </div>
+                                                    <div class="col-md-1">
+                                                        <button id="ctl00_main_Button9" type="button" onclick="_uploaddocument(&#39;ctl00_main_File_Monitoring_and_reporting&#39;,&#39;Monitoring_and_reporting&#39;)" class="btn btn-warning">Upload<i class="icon-arrow-right"></i></button>
+                                                    </div>
+                                                    <div class="col-md-1">
+                                                        <span id="ctl00_main_lbl_Monitoring_and_reporting"></span>
+                                                    </div>
+                                                </div>
+
+                                                <div class="form-group row">
+                                                    <label class="col-md-5 required">Maintenance mechanism</label>
+                                                    <div class="col-md-3">
+                                                        <input name="ctl00$main$Text_Maintenance_mechanism" type="text" id="ctl00_main_Text_Maintenance_mechanism" class="form-control" maxlength="100" placeholder="Maintenance  mechanism" />
+                                                    </div>
+                                                    <div class="col-md-2">
+                                                        <input name="ctl00$main$File_Maintenance_mechanism" type="file" id="ctl00_main_File_Maintenance_mechanism" class="form-control" placeholder="Maintenance  mechanism" onchange="fileextensioncheck(this.value, this.id)" />
+                                                        <input name="ctl00$main$Hidden20" type="hidden" id="ctl00_main_Hidden20" />
+                                                    </div>
+                                                    <div class="col-md-1">
+                                                        <button id="ctl00_main_Button11" type="button" onclick="_uploaddocument(&#39;ctl00_main_File_Maintenance_mechanism&#39;,&#39;Maintenance_mechanism&#39;)" class="btn btn-warning">Upload<i class="icon-arrow-right"></i></button>
+                                                    </div>
+                                                    <div class="col-md-1">
+                                                        <span id="ctl00_main_lbl_Maintenance_mechanism"></span>
+                                                    </div>
+                                                </div>
+
+                                                <div class="form-group row">
+                                                    <label class="col-md-5 required">Sustainability plan for a minimum of 5 years</label>
+                                                    <div class="col-md-3">
+                                                        <input name="ctl00$main$Text_File_Sustainability_plan" type="text" id="ctl00_main_Text_File_Sustainability_plan" class="form-control" maxlength="200" placeholder="Sustainability plan for a minimum of 5 years" />
+                                                    </div>
+                                                    <div class="col-md-2">
+                                                        <input name="ctl00$main$File_Sustainability_plan" type="file" id="ctl00_main_File_Sustainability_plan" class="form-control" placeholder="Sustainability plan for a minimum of 5 years" onchange="fileextensioncheck(this.value, this.id)" />
+                                                        <input name="ctl00$main$Hidden21" type="hidden" id="ctl00_main_Hidden21" />
+                                                    </div>
+                                                    <div class="col-md-1">
+                                                        <button id="ctl00_main_Button12" type="button" onclick="_uploaddocument(&#39;ctl00_main_File_Sustainability_plan&#39;,&#39;File_Sustainability_plan&#39;)" class="btn btn-warning">Upload<i class="icon-arrow-right"></i></button>
+                                                    </div>
+                                                    <div class="col-md-1">
+                                                        <span id="ctl00_main_lbl_File_Sustainability_plan"></span>
+                                                    </div>
+                                                </div>
+
+                                                <div class="form-group row">
+                                                    <label class="col-md-5 required">Brief write up on how the brand visibility of SECIL towards CSR project will be ensured</label>
+                                                    <div class="col-md-7">
+                                                        <input name="ctl00$main$Text_Brief_write_up_on" type="text" id="ctl00_main_Text_Brief_write_up_on" class="form-control" maxlength="200" placeholder="Brief write up on how the brand visibility of SECIL" />
+                                                    </div>
+                                                </div>
+
+                                                <div class="form-group row">
+                                                    <label class="col-md-5 required">Following documents/ compliances are required if civil construction is part of the project:</label>
+                                                    <div class="col-md-3">
+                                                        <label class="font-weight-normal">
+                                                            <input value="Radio1" name="ctl00$main$1" type="radio" id="ctl00_main_Radio1" onclick="javascript:_yesnoCheck(this.id);" />&nbsp Yes</label>
+                                                        &nbsp; &nbsp;
+                                                        <label class="font-weight-normal">
+                                                            <input value="Radio2" name="ctl00$main$1" type="radio" id="ctl00_main_Radio2" onchange="javascript:_yesnoCheck(this.id);" />&nbsp No</label>
+                                                    </div>
+                                                </div>
+
+                                                <div class="form-group row">
+                                                    <label class="col-md-5 fw400">(i)Land Ownership documents</label>
+                                                    <div class="col-md-2">
+                                                        <input name="ctl00$main$File_Land_Ownership_documents" type="file" id="ctl00_main_File_Land_Ownership_documents" class="form-control" placeholder="Land Ownership documents" onchange="fileextensioncheck(this.value, this.id)" />
+                                                        <input name="ctl00$main$Hidden22" type="hidden" id="ctl00_main_Hidden22" />
+                                                    </div>
+                                                    <div class="col-md-1">
+                                                        <button id="ctl00_main_Button13" type="button" onclick="_uploaddocument(&#39;ctl00_main_File_Land_Ownership_documents&#39;,&#39;File_Land_Ownership_documents&#39;)" class="btn btn-warning">Upload<i class="icon-arrow-right"></i></button>
+                                                    </div>
+                                                    <div class="col-md-1">
+                                                        <span id="ctl00_main_lbl_File_Land_Ownership_documents"></span>
+                                                    </div>
+                                                </div>
+
+                                                <div class="form-group row">
+                                                    <label class="col-md-5 fw400">(ii)NOC/Permission for construction from Panchayat/Urban Local Body/Regional Development Authority or such other authority mandated with sanction of building permit</label>
+                                                    <div class="col-md-2">
+                                                        <input name="ctl00$main$File_Permission_for_construction" type="file" id="ctl00_main_File_Permission_for_construction" class="form-control" placeholder="NOC/Permission for construction from Panchayat/Urban" onchange="fileextensioncheck(this.value, this.id)" />
+                                                        <input name="ctl00$main$Hidden23" type="hidden" id="ctl00_main_Hidden23" />
+                                                    </div>
+                                                    <div class="col-md-1">
+                                                        <button id="ctl00_main_Button14" type="button" onclick="_uploaddocument(&#39;ctl00_main_File_Permission_for_construction&#39;,&#39;File_Permission_for_construction&#39;)" class="btn btn-warning">Upload<i class="icon-arrow-right"></i></button>
+                                                    </div>
+                                                    <div class="col-md-1">
+                                                        <span id="ctl00_main_lbl_Permission_for_construction"></span>
+                                                    </div>
+                                                </div>
+
+                                                <div class="form-group row">
+                                                    <label class="col-md-5 fw400">(iii)The basis of preparation of the estimate must be mentioned in the estimate</label>
+                                                    <div class="col-md-2">
+                                                        <input name="ctl00$main$File_he_basis_of_preparation" type="file" id="ctl00_main_File_he_basis_of_preparation" class="form-control" placeholder="The basis of preparation of the estimate" onchange="fileextensioncheck(this.value, this.id)" />
+                                                        <input name="ctl00$main$Hidden24" type="hidden" id="ctl00_main_Hidden24" />
+                                                    </div>
+                                                    <div class="col-md-1">
+                                                        <button id="ctl00_main_Button15" type="button" onclick="_uploaddocument(&#39;ctl00_main_File_he_basis_of_preparation&#39;,&#39;File_he_basis_of_preparation&#39;)" class="btn btn-warning">Upload<i class="icon-arrow-right"></i></button>
+                                                    </div>
+                                                    <div class="col-md-1">
+                                                        <span id="ctl00_main_lbl_File_he_basis_of_preparation"></span>
+                                                    </div>
+                                                </div>
+
+                                                <div class="form-group row">
+                                                    <input type="submit" name="ctl00$main$Button17" value="Save &amp; Next" id="ctl00_main_Button17" class="btn btn-warning" style="padding: 10px 52px; margin-left: 15px;" />
+
+                                                    
+                                                </div>
+                                            </div>
+                                        </div>
+
+                                        
+                                        <div class="col-md-10 col-sm-10 col-xs-12 mb-20">
+
+                                            <div id="ctl00_main_div_Form_OTP" style="display:none">
+                                                <span id="ctl00_main_lbl_otp_success_message"></span>
+                                                <div class="form-group row">
+                                                    <label class="col-md-3 required">Mail OTP</label>
+                                                    <div class="col-md-9">
+                                                        <input name="ctl00$main$text_mail_otp" type="text" id="ctl00_main_text_mail_otp" lang="MUST" maxlength="6" class="form-control mail_otp" placeholder="Mail OTP" />
+                                                    </div>
+                                                </div>
+                                                <div class="form-group row">
+                                                    <label class="col-md-3 required">Mobile OTP</label>
+                                                    <div class="col-md-9">
+                                                        <input name="ctl00$main$text_mobile_otp" type="text" id="ctl00_main_text_mobile_otp" maxlength="6" class="form-control mob_otp" placeholder="Mobile OTP" />
+                                                    </div>
+                                                </div>
+                                                <div class="form-group row" style="margin-top: 10px;">
+                                                    <label class="col-md-3">Captcha</label>
+                                                    <div class="col-md-9">
+                                                        <div class="captcha_row">
+                                                            <div class="captcha_image">
+                                                                <img id="ctl00_main_Image1" src="../captcha.aspx" style="height:40px;width:187px;border-width:0px;" />
+                                                            </div>
+                                                            <div class="captcha_text">
+                                                                <input name="ctl00$main$txtcaptcha" type="text" id="ctl00_main_txtcaptcha" style="width: 200px; height: 40px; display: inline-block;" class="form-control inputhvr" placeholder="Please enter the code." />
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                                <span class="help-block" style="display: none;">Please enter a the security code.</span>
+                                                <div class="form-group row">
+                                                    <input type="submit" name="ctl00$main$Button19" value="Submit" onclick="javascript: return _Saveotp();" id="ctl00_main_Button19" class="btn btn-warning" style="padding: 10px 52px; margin-left: 15px;" />
+
+                                                    
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+
+                                </div>
+                            </div>
+                            <div class="step_note">
+                                <span>Notes*</span>
+                                <ul class="step_note_list">
+                                    <li>(i) Mere submission of the project proposal does not entitle the project proponent for CSR grant from SECI.</li>
+                                    <li>(ii) SECI reserves the right to either accept or reject the proposal for CSR grant based on the merit of the proposal.</li>
+                                    <li>(iii) Wherever felt necessary, SECI reserves the right to ask for additional information/details.</li>
+                                    <li>(iv) There will be no communication extended to the requester.</li>
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <input type="hidden" name="ctl00$main$hdbigid" id="ctl00_main_hdbigid" />
+                <input type="hidden" name="ctl00$main$hdbigidhex" id="ctl00_main_hdbigidhex" />
+                <input type="hidden" name="ctl00$main$hdurl" id="ctl00_main_hdurl" value="https://seci.co.in/" />
+            </div>
+        </div>
+    </section>
+    <script type="text/javascript" src="https://cdn.jsdelivr.net/npm/sweetalert2@11"></script>
+    
+    <script type="text/javascript" language="javascript">
+        //All Validations
+        function validatedecimal(e) {
+            //var val = e;
+            var e = event || evt; // for trans-browser compatibility
+            var charCode = e.which || e.keyCode;
+
+            //Check for only numeric and dot not allowed
+            //if (charCode == 46 || charCode == 45) {
+            //    alert("Only numeric Value allowed");
+            //    return false;
+            //}
+            //Check for only numeric and dot allowed
+            if (!(charCode == 46 || !(charCode != 45) || !(charCode != 43) || (charCode >= 48 && charCode <= 57))) {
+                alert("Only numeric Value allowed");
+                return false;
+            }
+            return true;
+        }
+
+        //Emai Validation
+        function ValidateEmail(id) {
+            var mailformat = /^\w+([\.-]?\w+)*@\w+([\.-]?\w+)*(\.\w{2,3})+$/;
+            var EmailID = id;
+            var Enteredmail = document.getElementById("" + EmailID + "").value;
+            if (Enteredmail.match(mailformat)) {
+                return "1";
+            }
+            else {
+                return "0";
+            }
+        }
+        function CheckUniqueCsrNumber(Number1) {
+            var regex = /^[A-Z]{3}[0-9]{4}[0-9]{4}/;
+            var searchText = Number1;
+
+            if (searchText.match(regex)) {
+                return "1";
+            }
+            else {
+                return "0";
+            }
+        }
+
+        // File Extension and size Check
+        function fileextensioncheck(file, _id) {
+            var ext = file.split(".");
+            ext = ext[ext.length - 1].toLowerCase();
+
+            var arrayExtensions = ["pdf"];
+            if (arrayExtensions.lastIndexOf(ext) == -1) {
+                alert("Only pdf file are allowed.");
+                document.getElementById(_id).value = "";
+            }
+            if (ext == "pdf") {
+                debugger
+                var uploadField = document.getElementById(_id).files[0].size;
+
+                if (uploadField > 1048576) {
+                    alert("File size is greater than 1 MB not allowed.");
+                    document.getElementById(_id).value = "";
+                }
+            }
+        }
+
+        function showDiv(pageid) {
+            if (pageid == "1") {
+                document.getElementById('ctl00_main_div_Contact_Details').style.display = "block";
+                document.getElementById('ctl00_main_div_Form_A').style.display = "none";
+                document.getElementById('ctl00_main_div_Form_B').style.display = "none";
+                document.getElementById('ctl00_main_div_Form_OTP').style.display = "none";
+                document.getElementById('ctl00_main_li1').className = "active";
+                document.getElementById('ctl00_main_li2').className = "";
+                document.getElementById('ctl00_main_li3').className = "";
+                document.getElementById('ctl00_main_li4').className = "";
+                var hdbigidhex = document.getElementById('ctl00_main_hdbigidhex').value;
+                var url = "csr-and-sustainability-policy-of-seci?id=" + hdbigidhex + "&stage=contact";
+                ChangeUrl('stage=contact', url);
+            }
+            if (pageid == "2") {
+                document.getElementById('ctl00_main_div_Contact_Details').style.display = "none";
+                document.getElementById('ctl00_main_div_Form_A').style.display = "inline-block";
+                document.getElementById('ctl00_main_div_Form_B').style.display = "none";
+                document.getElementById('ctl00_main_div_Form_OTP').style.display = "none";
+                var hdbigidhex = document.getElementById('ctl00_main_hdbigidhex').value;
+                var url = "csr-and-sustainability-policy-of-seci?id=" + hdbigidhex + "&stage=formA";
+                ChangeUrl('stage=formA', url);
+                document.getElementById('ctl00_main_li1').className = "";
+                document.getElementById('ctl00_main_li2').className = "active";
+                document.getElementById('ctl00_main_li3').className = "";
+                document.getElementById('ctl00_main_li4').className = "";
+
+            }
+            if (pageid == "3") {
+                document.getElementById('ctl00_main_div_Contact_Details').style.display = "none";
+                document.getElementById('ctl00_main_div_Form_A').style.display = "none";
+                document.getElementById('ctl00_main_div_Form_B').style.display = "inline-block";
+                document.getElementById('ctl00_main_div_Form_OTP').style.display = "none";
+                document.getElementById('ctl00_main_li1').className = "";
+                document.getElementById('ctl00_main_li2').className = "";
+                document.getElementById('ctl00_main_li3').className = "active";
+                document.getElementById('ctl00_main_li4').className = "";
+                var hdbigidhex = document.getElementById('ctl00_main_hdbigidhex').value;
+                var url = "csr-and-sustainability-policy-of-seci?id=" + hdbigidhex + "&stage=formB";
+                ChangeUrl('stage=formB', url);
+            }
+            if (pageid == "4") {
+                document.getElementById('ctl00_main_div_Contact_Details').style.display = "none";
+                document.getElementById('ctl00_main_div_Form_A').style.display = "none";
+                document.getElementById('ctl00_main_div_Form_B').style.display = "none";
+                document.getElementById('ctl00_main_div_Form_OTP').style.display = "inline-block";
+                document.getElementById('ctl00_main_li1').className = "";
+                document.getElementById('ctl00_main_li2').className = "";
+                document.getElementById('ctl00_main_li3').className = "";
+                document.getElementById('ctl00_main_li4').className = "active";
+                var hdbigidhex = document.getElementById('ctl00_main_hdbigidhex').value;
+                var url = "csr-and-sustainability-policy-of-seci?id=" + hdbigidhex + "&stage=Otp";
+                ChangeUrl('stage=Otp', url);
+            }
+        }
+        function ChangeUrl(title, url) {
+            if (typeof (history.pushState) != "undefined") {
+                var obj = { Title: title, Url: url };
+                history.pushState(obj, obj.Title, obj.Url);
+            } else {
+                alert("Browser does not support HTML5.");
+            }
+        }
+        function SaveBasic() {
+
+            if (document.getElementById("ctl00_main_txtname").value == "") {
+                document.getElementById("ctl00_main_txtname").focus();
+                document.getElementById("ctl00_main_lbl_Error").innerHTML = "<div class=\"alert alert-danger\"><strong>Error!</strong> Please enter Name</div>";
+                return false;
+            }
+            if (document.getElementById("ctl00_main_txtfathername").value == "") {
+                document.getElementById("ctl00_main_txtfathername").focus();
+                document.getElementById("ctl00_main_lbl_Error").innerHTML = "<div class=\"alert alert-danger\"><strong>Error!</strong> Please enter Father’s Name</div>";
+                return false;
+            }
+            if (document.getElementById("ctl00_main_txt_mobile").value == "") {
+                document.getElementById("ctl00_main_txt_mobile").focus();
+                document.getElementById("ctl00_main_lbl_Error").innerHTML = "<div class=\"alert alert-danger\"><strong>Error!</strong>Please enter Mobile/Contact Number</div>";
+                return false;
+            }
+            if (document.getElementById("ctl00_main_txtemail").value == "") {
+                document.getElementById("ctl00_main_txtemail").focus();
+                document.getElementById("ctl00_main_lbl_Error").innerHTML = "<div class=\"alert alert-danger\"><strong>Error!</strong> Please enter Email ID</div>";
+                return false;
+            }
+            else {
+                var ReturnValue = ValidateEmail('ctl00_main_txtemail');
+                if (ReturnValue == "0") {
+                    document.getElementById("ctl00_main_txtemail").focus();
+                    document.getElementById("ctl00_main_lbl_Error").innerHTML = "<div class=\"alert alert-danger\"><strong>Error!</strong> Please enter a valid Email ID</div>";
+                    return false;
+                }
+            }
+            if (document.getElementById("ctl00_main_txtaddress").value == "") {
+                document.getElementById("ctl00_main_txtaddress").focus();
+                document.getElementById("ctl00_main_lbl_Error").innerHTML = "<div class=\"alert alert-danger\"><strong>Error!</strong> Please enter Address</div>";
+                return false;
+            }
+            if (document.getElementById("ctl00_main_txt_district").value == "") {
+                document.getElementById("ctl00_main_txt_district").focus();
+                document.getElementById("ctl00_main_lbl_Error").innerHTML = "<div class=\"alert alert-danger\"><strong>Error!</strong> Please enter District</div>";
+                return false;
+            }
+            if (document.getElementById("ctl00_main_ddlstate").value == "") {
+                document.getElementById("ctl00_main_ddlstate").focus();
+                document.getElementById("ctl00_main_lbl_Error").innerHTML = "<div class=\"alert alert-danger\"><strong>Error!</strong> Please select state</div>";
+                return false;
+            }
+        }
+
+        function SaveFormA() {
+            if (document.getElementById("ctl00_main_txtUniqueCSR").value == "") {
+                document.getElementById("ctl00_main_txtUniqueCSR").focus();
+                document.getElementById("ctl00_main_lbl_Error").innerHTML = "<div class=\"alert alert-danger\"><strong>Error!</strong>Please Enter Unique CSR registration Number</div>";
+                return false;
+            }
+            else {
+                var a = CheckUniqueCsrNumber(document.getElementById("ctl00_main_txtUniqueCSR").value);
+                if (a == 0) {
+                    document.getElementById("ctl00_main_txtUniqueCSR").focus();
+                    document.getElementById("ctl00_main_lbl_Error").innerHTML = "<div class=\"alert alert-danger\"><strong>Error!</strong>CSR Registration Number is invalid</div>";
+                    return false;
+                }
+            }
+            var _NGO1 = document.getElementById("ctl00_main_redNGOYes").checked;
+            var _NGO2 = document.getElementById("ctl00_main_redNGONo").checked;
+
+            if ((_NGO1 == false) && (_NGO2 == false)) {
+                document.getElementById("ctl00_main_lbl_Error").innerHTML = "<div class=\"alert alert-danger\"><strong>Error!</strong>Please select Registration in NGO Darpan </div>";
+                return false;
+            }
+            else {
+                if (_NGO1 == true) {
+                    if (document.getElementById("ctl00_main_lblRegistratronNGO").value == "") {
+                        document.getElementById("ctl00_main_RegistratronNGO").focus();
+                        document.getElementById("ctl00_main_lbl_Error").innerHTML = "<div class=\"alert alert-danger\"><strong>Error!</strong> Please find attached copy of NGO Darpan</div>";
+                        return false;
+                    }
+                }
+            }
+            //if (document.getElementById("ctl00_main_txtSelfCertification").value == "") {
+            //    document.getElementById("ctl00_main_txtSelfCertification").focus();
+            //    document.getElementById("ctl00_main_lbl_Error").innerHTML = "<div class=\"alert alert-danger\"><strong>Error!</strong>Enter Self-Certification(original) that not blacklisted by Niti Aayog</div>";
+            //    return false;
+            //}
+            var _st = document.getElementById("ctl00_main_redRegisterSociety").checked;
+            var _st1 = document.getElementById("ctl00_main_redRegisterTrust").checked;
+            var _st2 = document.getElementById("ctl00_main_redRegisterCompany").checked;
+
+            if ((_st == false) && (_st1 == false) && (_st2 == false)) {
+                document.getElementById("ctl00_main_lbl_Error").innerHTML = "<div class=\"alert alert-danger\"><strong>Error!</strong> Please select Registered as </div>";
+                return false;
+            }
+            if (document.getElementById("ctl00_main_txtRegistration").value == "") {
+                document.getElementById("ctl00_main_txtRegistration").focus();
+                document.getElementById("ctl00_main_lbl_Error").innerHTML = "<div class=\"alert alert-danger\"><strong>Error!</strong>Please enter Registration Number</div>";
+                return false;
+            }
+            if (document.getElementById("ctl00_main_txtPancard").value == "") {
+                document.getElementById("ctl00_main_txtPancard").focus();
+                document.getElementById("ctl00_main_lbl_Error").innerHTML = "<div class=\"alert alert-danger\"><strong>Error!</strong> Please enter Pan Card Number</div>";
+                return false;
+            }
+            var _sty1 = document.getElementById("ctl00_main_redFCRAYes").checked;
+            var _stn1 = document.getElementById("ctl00_main_redFCRANo").checked;
+
+            if ((_sty1 == false) && (_stn1 == false)) {
+                document.getElementById("ctl00_main_lbl_Error").innerHTML = "<div class=\"alert alert-danger\"><strong>Error!</strong>Please select Copy of FCRA certification (Only applicable to NGOs receiving foreign contributions) Option </div>";
+                return false;
+            }
+            if (document.getElementById("ctl00_main_txtLast3Year").value == "") {
+                document.getElementById("ctl00_main_txtLast3Year").focus();
+                document.getElementById("ctl00_main_lbl_Error").innerHTML = "<div class=\"alert alert-danger\"><strong>Error!</strong>Please enter Last 3 years activity list in the similar field supported by documents</div>";
+                return false;
+            }
+            var _sty12 = document.getElementById("ctl00_main_redwebsiteYes").checked;
+            var _stn12 = document.getElementById("ctl00_main_redwebsiteNo").checked;
+
+            if ((_sty12 == false) && (_stn12 == false)) {
+                document.getElementById("ctl00_main_redwebsiteYes").focus();
+                document.getElementById("ctl00_main_lbl_Error").innerHTML = "<div class=\"alert alert-danger\"><strong>Error!</strong>Please select URL of the requesting organization's website(if any) Option </div>";
+                return false;
+            }
+            var _sty13 = document.getElementById("ctl00_main_redawardYes").checked;
+            var _stn13 = document.getElementById("ctl00_main_redawardNo").checked;
+
+            if ((_sty13 == false) && (_stn13 == false)) {
+                document.getElementById("ctl00_main_redawardYes").focus();
+                document.getElementById("ctl00_main_lbl_Error").innerHTML = "<div class=\"alert alert-danger\"><strong>Error!</strong>Please select Achievements or awards received Option </div>";
+                return false;
+            }
+            var _sty13 = document.getElementById("ctl00_main_redBoardYes").checked;
+            var _stn13 = document.getElementById("ctl00_main_redBoardNo").checked;
+
+            if ((_sty13 == false) && (_stn13 == false)) {
+                document.getElementById("ctl00_main_redBoardYes").focus();
+                document.getElementById("ctl00_main_lbl_Error").innerHTML = "<div class=\"alert alert-danger\"><strong>Error!</strong>Please select Any Option Any of Board of Directors/ Trustees/ Executive Committee members have any official dealing with SECI </div>";
+                return false;
+            }
+        }
+
+        function SaveFormB() {
+            //if (document.getElementById("ctl00_main_Text_Need_of_the_project").value == "") {
+            //    document.getElementById("ctl00_main_Text_Need_of_the_project").focus();
+            //    document.getElementById("ctl00_main_lbl_Error").innerHTML = "<div class=\"alert alert-danger\"><strong>Error!</strong>Please Enter Need of the project (Baseline / Need assessment study if any conducted,to be enclosed)</div>";
+            //    return false;
+            //}
+            if (document.getElementById("ctl00_main_Text_Public_purpose_of").value == "") {
+                document.getElementById("ctl00_main_Text_Public_purpose_of").focus();
+                document.getElementById("ctl00_main_lbl_Error").innerHTML = "<div class=\"alert alert-danger\"><strong>Error!</strong>Please Enter The need/Public purpose of the activity at the project location</div>";
+                return false;
+            }
+            if (document.getElementById("ctl00_main_Text_The_proposed_activity").value == "") {
+                document.getElementById("ctl00_main_Text_The_proposed_activity").focus();
+                document.getElementById("ctl00_main_lbl_Error").innerHTML = "<div class=\"alert alert-danger\"><strong>Error!</strong>Please enter The proposed activity at the project location is not being undertaken or planned to be undertaken by any govt. other agency</div>";
+                return false;
+            }
+            if (document.getElementById("ctl00_main_ddlstate2").value == "0") {
+                document.getElementById("ctl00_main_ddlstate2").focus();
+                document.getElementById("ctl00_main_lbl_Error").innerHTML = "<div class=\"alert alert-danger\"><strong>Error!</strong> Please Select State</div>";
+                return false;
+            }
+            if (document.getElementById("ctl00_main_Text_District2").value == "") {
+                document.getElementById("ctl00_main_Text_District2").focus();
+                document.getElementById("ctl00_main_lbl_Error").innerHTML = "<div class=\"alert alert-danger\"><strong>Error!</strong>Please enter District</div>";
+                return false;
+            }
+
+            if (document.getElementById("ctl00_main_Text_A_Brief_to_be_submitted").value == "") {
+                document.getElementById("ctl00_main_Text_A_Brief_to_be_submitted").focus();
+                document.getElementById("ctl00_main_lbl_Error").innerHTML = "<div class=\"alert alert-danger\"><strong>Error!</strong>Please enter A Brief to be submitted on how the project at the proposed location will be beneficiall</div>";
+                return false;
+            }
+            if (document.getElementById("ctl00_main_Text_Project_objectives").value == "") {
+                document.getElementById("ctl00_main_Text_Project_objectives").focus();
+                document.getElementById("ctl00_main_lbl_Error").innerHTML = "<div class=\"alert alert-danger\"><strong>Error!</strong>Please enter Project objectives and expected outcomes</div>";
+                return false;
+            }
+            if (document.getElementById("ctl00_main_Text_Number_of_Beneficiaries").value == "") {
+                document.getElementById("ctl00_main_Text_Number_of_Beneficiaries").focus();
+                document.getElementById("ctl00_main_lbl_Error").innerHTML = "<div class=\"alert alert-danger\"><strong>Error!</strong>Please enter Number of Beneficiaries of the project</div>";
+                return false;
+            }
+            if (document.getElementById("ctl00_main_Text_Categories_of_the_beneficiaries").value == "") {
+                document.getElementById("ctl00_main_Text_Categories_of_the_beneficiaries").focus();
+                document.getElementById("ctl00_main_lbl_Error").innerHTML = "<div class=\"alert alert-danger\"><strong>Error!</strong>Please enter Categories of the beneficiaries</div>";
+                return false;
+            }
+            if (document.getElementById("ctl00_main_Text_Summary_Note_on_the_project").value == "") {
+                document.getElementById("ctl00_main_Text_Summary_Note_on_the_project").focus();
+                document.getElementById("ctl00_main_lbl_Error").innerHTML = "<div class=\"alert alert-danger\"><strong>Error!</strong>Please enter Summary Note on the project outlining all important aspects of the project</div>";
+                return false;
+            }
+            if (document.getElementById("ctl00_main_Text_List_of_project").value == "") {
+                document.getElementById("ctl00_main_Text_List_of_project").focus();
+                document.getElementById("ctl00_main_lbl_Error").innerHTML = "<div class=\"alert alert-danger\"><strong>Error!</strong>Please enter List of project activities along with corresponding project schedule/timelines</div>";
+                return false;
+            }
+            if (document.getElementById("ctl00_main_Text_Detailed_item_wise").value == "") {
+                document.getElementById("ctl00_main_Text_Detailed_item_wise").focus();
+                document.getElementById("ctl00_main_lbl_Error").innerHTML = "<div class=\"alert alert-danger\"><strong>Error!</strong>Please enter Detailed item wise breakup of project outlay showing capital and recurring expenditure separately along with jurisdiction for each item</div>";
+                return false;
+            }
+            if (document.getElementById("ctl00_main_Text_Payment_Schedule").value == "") {
+                document.getElementById("ctl00_main_Text_Payment_Schedule").focus();
+                document.getElementById("ctl00_main_lbl_Error").innerHTML = "<div class=\"alert alert-danger\"><strong>Error!</strong>Please enter Payment Schedule</div>";
+                return false;
+            }
+            if (document.getElementById("ctl00_main_Text_Account_Number").value == "") {
+                document.getElementById("ctl00_main_Text_Account_Number").focus();
+                document.getElementById("ctl00_main_lbl_Error").innerHTML = "<div class=\"alert alert-danger\"><strong>Error!</strong>Please enter Account Number</div>";
+                return false;
+            }
+            if (document.getElementById("ctl00_main_Text_AccountName").value == "") {
+                document.getElementById("ctl00_main_Text_AccountName").focus();
+                document.getElementById("ctl00_main_lbl_Error").innerHTML = "<div class=\"alert alert-danger\"><strong>Error!</strong>Please enter Bank Name</div>";
+                return false;
+            }
+            if (document.getElementById("ctl00_main_Text_BankName").value == "") {
+                document.getElementById("ctl00_main_Text_BankName").focus();
+                document.getElementById("ctl00_main_lbl_Error").innerHTML = "<div class=\"alert alert-danger\"><strong>Error!</strong>Please enter  Account Name</div>";
+                return false;
+            }
+            if (document.getElementById("ctl00_main_Text_IFSC_Code").value == "") {
+                document.getElementById("ctl00_main_Text_IFSC_Code").focus();
+                document.getElementById("ctl00_main_lbl_Error").innerHTML = "<div class=\"alert alert-danger\"><strong>Error!</strong>Please enter IFSC Code</div>";
+                return false;
+            }
+            if (document.getElementById("ctl00_main_Text_MICR_Code").value == "") {
+                document.getElementById("ctl00_main_Text_MICR_Code").focus();
+                document.getElementById("ctl00_main_lbl_Error").innerHTML = "<div class=\"alert alert-danger\"><strong>Error!</strong>Please enter MICR Code</div>";
+                return false;
+            }
+            if (document.getElementById("ctl00_main_Text_Monitoring_and_reporting").value == "") {
+                document.getElementById("ctl00_main_Text_Monitoring_and_reporting").focus();
+                document.getElementById("ctl00_main_lbl_Error").innerHTML = "<div class=\"alert alert-danger\"><strong>Error!</strong>Please enter Monitoring and reporting mechanism</div>";
+                return false;
+            }
+            if (document.getElementById("ctl00_main_Text_Maintenance_mechanism").value == "") {
+                document.getElementById("ctl00_main_Text_Maintenance_mechanism").focus();
+                document.getElementById("ctl00_main_lbl_Error").innerHTML = "<div class=\"alert alert-danger\"><strong>Error!</strong>Please enter Maintenance mechanism</div>";
+                return false;
+            }
+            if (document.getElementById("ctl00_main_Text_File_Sustainability_plan").value == "") {
+                document.getElementById("ctl00_main_Text_File_Sustainability_plan").focus();
+                document.getElementById("ctl00_main_lbl_Error").innerHTML = "<div class=\"alert alert-danger\"><strong>Error!</strong>Please enter Sustainability plan for a minimum of 5 years</div>";
+                return false;
+            }
+            if (document.getElementById("ctl00_main_Text_Brief_write_up_on").value == "") {
+                document.getElementById("ctl00_main_Text_Brief_write_up_on").focus();
+                document.getElementById("ctl00_main_lbl_Error").innerHTML = "<div class=\"alert alert-danger\"><strong>Error!</strong>Please Brief write up on how the brand visibility of SECIL towards CSR project will be ensured</div>";
+                return false;
+            }
+            var _sty14 = document.getElementById("ctl00_main_Radio1").checked;
+            var _stn14 = document.getElementById("ctl00_main_Radio2").checked;
+
+            if ((_sty14 == false) && (_stn14 == false)) {
+                document.getElementById("ctl00_main_Radio1").focus();
+                document.getElementById("ctl00_main_lbl_Error").innerHTML = "<div class=\"alert alert-danger\"><strong>Error!</strong>Please select Following documents/ compliances are required if civil construction is part of the project Option </div>";
+                return false;
+            }
+        }
+
+        function _Saveotp() {
+            if (document.getElementById("ctl00_main_text_mail_otp").value == "") {
+                document.getElementById("ctl00_main_text_mail_otp").focus();
+                document.getElementById("ctl00_main_lbl_Error").innerHTML = "<div class=\"alert alert-danger\"><strong>Error!</strong> Please enter Mail OTP</div>";
+                return false;
+            }
+            if (document.getElementById("ctl00_main_text_mobile_otp").value == "") {
+                document.getElementById("ctl00_main_text_mobile_otp").focus();
+                document.getElementById("ctl00_main_lbl_Error").innerHTML = "<div class=\"alert alert-danger\"><strong>Error!</strong> Please enter Mobile OTP</div>";
+                return false;
+            }
+            if (document.getElementById("ctl00_main_txtcaptcha").value == "") {
+                document.getElementById("ctl00_main_txtcaptcha").focus();
+                document.getElementById("ctl00_main_lbl_Error").innerHTML = "<div class=\"alert alert-danger\"><strong>Error!</strong>Please enter Captcha Code</div>";
+                return false;
+            }
+        }
+    </script>
+
+    <script type="text/javascript">
+        function _uploaddocument(_id, _type)
+        {
+            var hdbigid = document.getElementById("ctl00_main_hdbigid").value;
+            if (document.getElementById(_id).value == "") {
+                document.getElementById(_id).focus();
+                alert('Please select pdf file.');
+                return false;
+            }
+            if (document.getElementById(_id).value != "") {
+                var uploadfiles = $("#" + _id).get(0);
+                var uploadedfiles = uploadfiles.files;
+                var fromdata = new FormData();
+                var filename = "";
+                for (var i = 0; i < uploadedfiles.length; i++) {
+                    filename = uploadedfiles[i].name;
+                    fromdata.append(uploadedfiles[i].name, uploadedfiles[i]);
+                    fromdata.append("hdbigid", hdbigid);
+                    fromdata.append("type", _type);
+                }
+                var choice = {};
+                choice.url = "https://www.seci.co.in/CSRHandler.ashx?CSRUploadFile=1";
+                choice.type = "POST";
+                choice.data = fromdata;
+                choice.contentType = false;
+                choice.processData = false;
+                choice.async = false;
+                choice.success = function (result) {
+                    if (result != "") {
+                        alert("Pdf is uploaded successfully.");
+                        var _url = document.getElementById("ctl00_main_hdurl").value;
+                        var imageurl = '' + _url + 'upload/CSRRequest/' + result + '';
+                        if (_type == "UniqueCSR") {
+                            document.getElementById("ctl00_main_lblUniqueCSR").innerHTML = "<a href=" + imageurl + " target=\"_blank\">View</a>";
+                        }
+                        if (_type == "RegistratronNGO") {
+                            document.getElementById("ctl00_main_lblRegistratronNGO").innerHTML = "<a href=" + imageurl + " target=\"_blank\">View</a>";
+                        }
+                        if (_type == "SelfCertification") {
+                            document.getElementById("ctl00_main_lblSelfCertification").innerHTML = "<a href=" + imageurl + " target=\"_blank\">View</a>";
+                        }
+                        if (_type == "Registration") {
+                            document.getElementById("ctl00_main_lblRegistration").innerHTML = "<a href=" + imageurl + " target=\"_blank\">View</a>";
+                        }
+                        if (_type == "PanCard") {
+                            document.getElementById("ctl00_main_lblPanCard").innerHTML = "<a href=" + imageurl + " target=\"_blank\">View</a>";
+                        }
+                        if (_type == "Memorandum") {
+                            document.getElementById("ctl00_main_lblMemorandum").innerHTML = "<a href=" + imageurl + " target=\"_blank\">View</a>";
+                        }
+                        if (_type == "Certificate80") {
+                            document.getElementById("ctl00_main_lblCertificate80").innerHTML = "<a href=" + imageurl + " target=\"_blank\">View</a>";
+                        }
+                        if (_type == "Audited") {
+                            document.getElementById("ctl00_main_lblAudited").innerHTML = "<a href=" + imageurl + " target=\"_blank\">View</a>";
+                        }
+                        if (_type == "FCRACertification") {
+                            document.getElementById("ctl00_main_lblFCRACertification").innerHTML = "<a href=" + imageurl + " target=\"_blank\">View</a>";
+                        }
+                        if (_type == "Period3year") {
+                            document.getElementById("ctl00_main_lblPeriod3year").innerHTML = "<a href=" + imageurl + " target=\"_blank\">View</a>";
+                        }
+                        if (_type == "CSRassistance") {
+                            document.getElementById("ctl00_main_lblCSRassistance").innerHTML = "<a href=" + imageurl + " target=\"_blank\">View</a>";
+                        }
+                        if (_type == "Last3Year") {
+                            document.getElementById("ctl00_main_lblLast3Year").innerHTML = "<a href=" + imageurl + " target=\"_blank\">View</a>";
+                        }
+                        if (_type == "Partnership") {
+                            document.getElementById("ctl00_main_lblPartnership").innerHTML = "<a href=" + imageurl + " target=\"_blank\">View</a>";
+                        }
+                        if (_type == "Achievement_File") {
+                            document.getElementById("ctl00_main_lblAchievement").innerHTML = "<a href=" + imageurl + " target=\"_blank\">View</a>";
+                        }
+                        if (_type == "SECICSR") {
+                            document.getElementById("ctl00_main_lblSECICSR").innerHTML = "<a href=" + imageurl + " target=\"_blank\">View</a>";
+                        }
+                        if (_type == "SeciRole") {
+                            document.getElementById("ctl00_main_lblSeciRole").innerHTML = "<a href=" + imageurl + " target=\"_blank\">View</a>";
+                        }
+
+                        //Start Files Form B
+                        if (_type == "Public_purpose_of") {
+                            document.getElementById("ctl00_main_lbl_Public_purpose_of").innerHTML = "<a href=" + imageurl + " target=\"_blank\">View</a>";
+                        }
+                        if (_type == "The_proposed_activity") {
+                            document.getElementById("ctl00_main_lbl_The_proposed_activity").innerHTML = "<a href=" + imageurl + " target=\"_blank\">View</a>";
+                        }
+                        if (_type == "File_Project_objectives") {
+                            document.getElementById("ctl00_main_lbl_File_Project_objectives").innerHTML = "<a href=" + imageurl + " target=\"_blank\">View</a>";
+                        }
+                        if (_type == "Detailed_item_wise") {
+                            document.getElementById("ctl00_main_lbl_Detailed_item_wise").innerHTML = "<a href=" + imageurl + " target=\"_blank\">View</a>";
+                        }
+                        if (_type == "Payment_Schedule") {
+                            document.getElementById("ctl00_main_lbl_Payment_Schedule").innerHTML = "<a href=" + imageurl + " target=\"_blank\">View</a>";
+                        }
+                        if (_type == "Monitoring_and_reporting") {
+                            document.getElementById("ctl00_main_lbl_Monitoring_and_reporting").innerHTML = "<a href=" + imageurl + " target=\"_blank\">View</a>";
+                        }
+                        if (_type == "Maintenance_mechanism") {
+                            document.getElementById("ctl00_main_lbl_Maintenance_mechanism").innerHTML = "<a href=" + imageurl + " target=\"_blank\">View</a>";
+                        }
+                        if (_type == "File_Land_Ownership_documents") {
+                            document.getElementById("ctl00_main_lbl_File_Land_Ownership_documents").innerHTML = "<a href=" + imageurl + " target=\"_blank\">View</a>";
+                        }
+                        if (_type == "File_Permission_for_construction") {
+                            document.getElementById("ctl00_main_lbl_Permission_for_construction").innerHTML = "<a href=" + imageurl + " target=\"_blank\">View</a>";
+                        }
+                        if (_type == "File_he_basis_of_preparation") {
+                            document.getElementById("ctl00_main_lbl_File_he_basis_of_preparation").innerHTML = "<a href=" + imageurl + " target=\"_blank\">View</a>";
+                        }
+                        if (_type == "File_Sustainability_plan") {
+                            document.getElementById("ctl00_main_lbl_File_Sustainability_plan").innerHTML = "<a href=" + imageurl + " target=\"_blank\">View</a>";
+                        }
+
+
+                        //New
+                        if (_type == "Number_of_Beneficiaries") {
+                            document.getElementById("ctl00_main_Label1").innerHTML = "<a href=" + imageurl + " target=\"_blank\">View</a>";
+                        }
+                        if (_type == "File_Summary_Note") {
+                            document.getElementById("ctl00_main_Label2").innerHTML = "<a href=" + imageurl + " target=\"_blank\">View</a>";
+                        }
+                        if (_type == "File_List_of_project") {
+                            document.getElementById("ctl00_main_Label3").innerHTML = "<a href=" + imageurl + " target=\"_blank\">View</a>";
+                        }
+                    }
+                    else {
+                    }
+                };
+                choice.error = function (err) { };
+                $.ajax(choice);
+            }
+        }
+    </script>
+
+    <script type="text/javascript">
+        function _openform() {
+            document.getElementById('ctl00_main_div_main').style.display = "block";
+        }
+        $('textarea').keyup(updateCount);
+        $('textarea').keydown(updateCount);
+        function updateCount() {
+            var cs = [250 - $(this).val().length];
+            $('#characters').text(cs);
+        }
+    </script>
+
+        </div>
+    </form>
+    <footer class="mt-20">
+        
+        <div class="owl-slider c-sldr">
+            <div id="carousel2" class="owl-carousel">
+                
+                <div class="item">
+                    <a href="https://data.gov.in/" target="_blank">
+                        <img class="owl-lazy" data-src="https://seci.co.in/upload/banner/637209746755983231.png" alt="Government Open Data License - India"></a>
+                </div>
+                
+                <div class="item">
+                    <a href="https://secure.mygov.in/home/blog/" target="_blank">
+                        <img class="owl-lazy" data-src="https://seci.co.in/upload/banner/637209749776206524.png" alt="Blogs Under MyGov"></a>
+                </div>
+                
+                <div class="item">
+                    <a href="https://www.mygov.in/" target="_blank">
+                        <img class="owl-lazy" data-src="https://seci.co.in/upload/banner/637209750424193668.png" alt="My Gov"></a>
+                </div>
+                
+                <div class="item">
+                    <a href="https://www.india.gov.in/" target="_blank">
+                        <img class="owl-lazy" data-src="https://seci.co.in/upload/banner/637209751605467786.png" alt="National Portal of India"></a>
+                </div>
+                
+                <div class="item">
+                    <a href="https://egreetings.gov.in/" target="_blank">
+                        <img class="owl-lazy" data-src="https://seci.co.in/upload/banner/637209752457829424.png" alt="eGreetings"></a>
+                </div>
+                
+                <div class="item">
+                    <a href="http://meity.gov.in/" target="_blank">
+                        <img class="owl-lazy" data-src="https://seci.co.in/upload/banner/637209753361445086.png" alt="Meity Gov"></a>
+                </div>
+                
+                <div class="item">
+                    <a href="https://www.pmindia.gov.in/en/" target="_blank">
+                        <img class="owl-lazy" data-src="https://seci.co.in/upload/banner/637209754704287520.png" alt="Prime Minister's Office"></a>
+                </div>
+                
+                <div class="item">
+                    <a href="http://www.digitalindia.gov.in/" target="_blank">
+                        <img class="owl-lazy" data-src="https://seci.co.in/upload/banner/637209755477116760.png" alt="DIGITAL INDIA"></a>
+                </div>
+                
+                <div class="item">
+                    <a href="https://self4society.mygov.in/" target="_blank">
+                        <img class="owl-lazy" data-src="https://seci.co.in/upload/banner/637209756577764534.png" alt="SELF4SOCIETY"></a>
+                </div>
+                
+                <div class="item">
+                    <a href="https://transformingindia.mygov.in/" target="_blank">
+                        <img class="owl-lazy" data-src="https://seci.co.in/upload/banner/637209757844825207.png" alt="Transforming India"></a>
+                </div>
+                
+                <div class="item">
+                    <a href="https://innovate.mygov.in/" target="_blank">
+                        <img class="owl-lazy" data-src="https://seci.co.in/upload/banner/637209759193919831.png" alt="innovate"></a>
+                </div>
+                
+                <div class="item">
+                    <a href="https://swachhbharat.mygov.in/" target="_blank">
+                        <img class="owl-lazy" data-src="https://seci.co.in/upload/banner/637209761176150524.png" alt="Swachh Bharat"></a>
+                </div>
+                
+                <div class="item">
+                    <a href="https://quiz.mygov.in/" target="_blank">
+                        <img class="owl-lazy" data-src="https://seci.co.in/upload/banner/637209762798843520.png" alt="Quiz mygov"></a>
+                </div>
+                
+            </div>
+        </div>
+        
+        <div class="ft-bg">
+            <div class="container">
+                <div class="row">
+                    <!-- <div class="col-md-12 col-sm-12 col-xs-12 text-right">
+			  <p class="num-visit mb-0 d-inline-block">
+				Number of Visits : 
+			  </p>
+			<div id="sfcjdw8fp4npcejb2uzs7cqb1p957nsclme" class="d-inline-block"></div>
+<script type="text/javascript" src="https://counter7.wheredoyoucomefrom.ovh/private/counter.js?c=jdw8fp4npcejb2uzs7cqb1p957nsclme&down=async" async></script>
+<noscript><a href="https://www.freecounterstat.com" title="free page counter"><img src="https://counter7.wheredoyoucomefrom.ovh/private/freecounterstat.php?c=jdw8fp4npcejb2uzs7cqb1p957nsclme" border="0" title="free page counter" alt="free page counter"></a></noscript>
+
+			  <p class="text-dark mb-0 font-weight-500">
+				Last Updated on : 18/December/2019
+			  </p>
+			</div> -->
+                    <div class="col-md-12 col-xs-12 text-center right-col-body">
+                        <!-- <h4>Quick Links</h4> -->
+                        <p class="font-weight-500 text-dark mb-0 text-center" style="padding-top: 5px;">
+                            
+                            <!-- hitwebcounter -->
+                            Visitors count since
+                            May 3, 2025
+                            :
+                            3188392
+                            <br />
+                            Website last updated :
+                            May 3, 2025
+                            
+                        </p>
+                        <ul class="text-center">
+                            <li><i class="fa fa-star" style="font-size: 14px;"></i><a href="https://seci.co.in/vigilance/vigilance-complaint-form">Lodge Complaint</a> </li>
+
+                            <li><i class="fa fa-star" style="font-size: 14px;"></i><a href="https://seci.co.in/grievance-portal">
+                                Feedback form</a> </li>
+                            <li><i class="fa fa-star" style="font-size: 14px;"></i><a href="https://seci.co.in/site/map">
+                                SiteMap</a> </li>
+                            <li><i class="fa fa-star" style="font-size: 14px;"></i><a href="https://seci.co.in/page/help">
+                                Help</a> </li>
+                            
+                            <li><i class="fa fa-star" style="font-size: 14px;"></i><a href="https://seci.co.in/page/related-links">
+                                Related Links</a> </li>
+                            
+                            <li><i class="fa fa-star" style="font-size: 14px;"></i><a href="https://seci.co.in/page/website-policies-and-disclaimer">
+                                Website Policies and Disclaimer</a> </li>
+                            <li><i class="fa fa-star" style="font-size: 14px;"></i><a href="https://seci.co.in/archives/data_archives">
+                                Archives</a> </li>
+                            <li><i class="fa fa-star" style="font-size: 14px;"></i><a href="http://secicms.pragyaware.com/">Upcoming new website</a> </li>
+                        </ul>
+                    </div>
+                    <div class="col-md-4 col-sm-5 col-xs-12">
+                        
+                        
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="bg-ft">
+            <div class="container">
+                <div class="row">
+                    <div class="col-sm-7">
+                        <p class="mb-0 f-10-L">
+                            Official Website Of Solar Energy Corporation Of India Ltd.
+                            
+                        </p>
+                    </div>
+                    <div class="col-sm-5">
+                        <p class="mb-0 f-10 ">
+                            Design &amp; Developed by <a href="https://www.paramountinfosystem.com" target="_blank">Paramount Infosystem Pvt. Ltd.</a>
+                        </p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </footer>
+    <a id="top-btn"></a>
+    <!--Jquery Library-->
+
+
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.4.1/js/bootstrap.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/OwlCarousel2/2.3.4/owl.carousel.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/jquery.marquee/1.3.1/jquery.marquee.min.js"></script>
+
+    <script src="https://seci.co.in/js/custom.js"></script>
+
+    <script>
+
+        function _search(_id) {
+            if (document.getElementById("ctl00_txtsearch").value.trim() == "") {
+                document.getElementById("ctl00_txtsearch").focus();
+                return false;
+            }
+            var hdeditbigid = document.getElementById("ctl00_txtsearch").value;
+            var _url = document.getElementById("ctl00_hdurl").value;
+            window.location = '' + _url + 'search-content-search/data?val=' + hdeditbigid + '';
+
+
+        }
+    </script>
+    <script> $(".marquee").on("mouseover", function (e) {
+            $(this).marquee("toggle");
+        });</script>
+    
+        <script type="text/javascript">
+            function _langalert(_id) {
+                if ($("#" + _id).attr("disabled") == "disabled") {
+                    return false;
+                }
+                else {
+                    var r = confirm(document.getElementById("Header1_lbllangmsg").innerHTML);
+                    if (r == true) {
+                        return true;
+                    } else {
+                        return false;
+                    }
+                }
+
+
+            }
+
+        </script>
+
+
+    
+</body>
+</html>

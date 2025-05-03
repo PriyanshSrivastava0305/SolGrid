@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 300 80" fill="none">
+  <!-- Sun Circle -->
+  <circle cx="40" cy="40" r="32" fill="#FFC107" />
+  
+  <!-- Sun Rays -->
+  <line x1="40" y1="0" x2="40" y2="8" stroke="#FFC107" stroke-width="4" stroke-linecap="round" />
+  <line x1="40" y1="72" x2="40" y2="80" stroke="#FFC107" stroke-width="4" stroke-linecap="round" />
+  <line x1="0" y1="40" x2="8" y2="40" stroke="#FFC107" stroke-width="4" stroke-linecap="round" />
+  <line x1="72" y1="40" x2="80" y2="40" stroke="#FFC107" stroke-width="4" stroke-linecap="round" />
+  <line x1="11.7" y1="11.7" x2="17.5" y2="17.5" stroke="#FFC107" stroke-width="4" stroke-linecap="round" />
+  <line x1="62.5" y1="62.5" x2="68.3" y2="68.3" stroke="#FFC107" stroke-width="4" stroke-linecap="round" />
+  <line x1="11.7" y1="68.3" x2="17.5" y2="62.5" stroke="#FFC107" stroke-width="4" stroke-linecap="round" />
+  <line x1="62.5" y1="17.5" x2="68.3" y2="11.7" stroke="#FFC107" stroke-width="4" stroke-linecap="round" />
+  
+  <!-- Magnifying Glass -->
+  <circle cx="34" cy="42" r="12" stroke="#2196F3" stroke-width="6" fill="none" />
+  <line x1="43" y1="51" x2="60" y2="68" stroke="#2196F3" stroke-width="6" stroke-linecap="round" />
+  
+  <!-- Text -->
+  <text x="90" y="30" font-family="Arial, sans-serif" font-weight="bold" font-size="24" fill="#333333">Solar Detective</text>
+  <text x="90" y="50" font-family="Arial, sans-serif" font-size="14" fill="#666666">Mapping India's Solar Infrastructure</text>
+</svg>

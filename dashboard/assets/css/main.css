@@ -1,0 +1,235 @@
+/* main.css - Main stylesheet for Solar Detective Dashboard */
+
+:root {
+    /* Color Palette */
+    --primary: #ffb703;        /* Solar yellow */
+    --primary-dark: #fb8500;   /* Sunset orange */
+    --secondary: #219ebc;      /* Sky blue */
+    --secondary-dark: #023047; /* Deep blue */
+    --accent: #8ecae6;         /* Light blue */
+    --light: #f8f9fa;
+    --dark: #212529;
+    --success: #38b000;
+    --warning: #ffaa00;
+    --danger: #d00000;
+    --neutral-100: #f8f9fa;
+    --neutral-200: #e9ecef;
+    --neutral-300: #dee2e6;
+    --neutral-400: #ced4da;
+    --neutral-500: #adb5bd;
+    --neutral-600: #6c757d;
+    --neutral-700: #495057;
+    --neutral-800: #343a40;
+    --neutral-900: #212529;
+    
+    /* Typography */
+    --font-primary: 'Open Sans', sans-serif;
+    --font-secondary: 'Roboto', sans-serif;
+    
+    /* Spacing */
+    --spacing-xs: 0.25rem;
+    --spacing-sm: 0.5rem;
+    --spacing-md: 1rem;
+    --spacing-lg: 1.5rem;
+    --spacing-xl: 2rem;
+    --spacing-xxl: 3rem;
+    
+    /* Borders */
+    --border-radius-sm: 0.25rem;
+    --border-radius-md: 0.5rem;
+    --border-radius-lg: 1rem;
+    
+    /* Shadows */
+    --shadow-sm: 0 2px 4px rgba(0, 0, 0, 0.05);
+    --shadow-md: 0 4px 6px rgba(0, 0, 0, 0.1);
+    --shadow-lg: 0 10px 15px rgba(0, 0, 0, 0.1);
+  }
+  
+  /* Base Styles */
+  * {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+  
+  body {
+    font-family: var(--font-primary);
+    color: var(--dark);
+    background-color: var(--light);
+    line-height: 1.6;
+  }
+  
+  h1, h2, h3, h4, h5, h6 {
+    font-family: var(--font-secondary);
+    font-weight: 700;
+    margin-bottom: var(--spacing-md);
+    color: var(--secondary-dark);
+  }
+  
+  a {
+    color: var(--secondary);
+    text-decoration: none;
+    transition: color 0.3s ease;
+  }
+  
+  a:hover {
+    color: var(--secondary-dark);
+  }
+  
+  /* Layout */
+  .container {
+    width: 100%;
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 0 var(--spacing-md);
+  }
+  
+  .row {
+    display: flex;
+    flex-wrap: wrap;
+    margin: 0 -15px;
+  }
+  
+  .col {
+    flex: 1;
+    padding: 0 15px;
+  }
+  
+  /* Navbar */
+  .navbar {
+    background-color: var(--light);
+    box-shadow: var(--shadow-sm);
+    padding: var(--spacing-md) 0;
+    position: sticky;
+    top: 0;
+    z-index: 1000;
+  }
+  
+  .navbar-brand {
+    display: flex;
+    align-items: center;
+  }
+  
+  .navbar-brand img {
+    height: 40px;
+    margin-right: var(--spacing-sm);
+  }
+  
+  .navbar-nav {
+    display: flex;
+    list-style: none;
+    align-items: center;
+  }
+  
+  .nav-item {
+    margin-left: var(--spacing-lg);
+  }
+  
+  /* Buttons */
+  .btn {
+    display: inline-block;
+    font-weight: 600;
+    text-align: center;
+    vertical-align: middle;
+    padding: var(--spacing-sm) var(--spacing-md);
+    border-radius: var(--border-radius-md);
+    cursor: pointer;
+    transition: all 0.3s ease;
+    border: none;
+  }
+  
+  .btn-primary {
+    background-color: var(--primary);
+    color: var(--dark);
+  }
+  
+  .btn-primary:hover {
+    background-color: var(--primary-dark);
+    color: var(--light);
+  }
+  
+  .btn-secondary {
+    background-color: var(--secondary);
+    color: var(--light);
+  }
+  
+  .btn-secondary:hover {
+    background-color: var(--secondary-dark);
+  }
+  
+  /* Cards */
+  .card {
+    background-color: var(--light);
+    border-radius: var(--border-radius-md);
+    box-shadow: var(--shadow-md);
+    padding: var(--spacing-lg);
+    margin-bottom: var(--spacing-lg);
+  }
+  
+  .card-header {
+    border-bottom: 1px solid var(--neutral-300);
+    padding-bottom: var(--spacing-md);
+    margin-bottom: var(--spacing-md);
+  }
+  
+  .card-title {
+    margin-bottom: var(--spacing-xs);
+  }
+  
+  /* Utilities */
+  .text-center {
+    text-align: center;
+  }
+  
+  .text-right {
+    text-align: right;
+  }
+  
+  .mb-1 {
+    margin-bottom: var(--spacing-xs);
+  }
+  
+  .mb-2 {
+    margin-bottom: var(--spacing-sm);
+  }
+  
+  .mb-3 {
+    margin-bottom: var(--spacing-md);
+  }
+  
+  .mb-4 {
+    margin-bottom: var(--spacing-lg);
+  }
+  
+  .mt-1 {
+    margin-top: var(--spacing-xs);
+  }
+  
+  .mt-2 {
+    margin-top: var(--spacing-sm);
+  }
+  
+  .mt-3 {
+    margin-top: var(--spacing-md);
+  }
+  
+  .mt-4 {
+    margin-top: var(--spacing-lg);
+  }
+  
+  /* Responsive */
+  @media (max-width: 768px) {
+    .row {
+      flex-direction: column;
+    }
+    
+    .navbar-nav {
+      margin-top: var(--spacing-md);
+      flex-direction: column;
+    }
+    
+    .nav-item {
+      margin-left: 0;
+      margin-bottom: var(--spacing-sm);
+    }
+  }

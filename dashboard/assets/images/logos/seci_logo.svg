@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="200" height="100" viewBox="0 0 200 100" xmlns="http://www.w3.org/2000/svg">
+  <text x="10" y="40" font-family="Arial" font-size="16" font-weight="bold" fill="#1a73e8">SECI</text>
+  <text x="10" y="60" font-family="Arial" font-size="12" fill="#1a73e8">Solar Energy Corporation of India</text>
+  <text x="10" y="80" font-family="Arial" font-size="12" fill="#1a73e8">A Government of India Enterprise</text>
+  <circle cx="160" cy="50" r="25" fill="#FDB813"/>
+  <path d="M160 15v70" stroke="#1a73e8" stroke-width="2"/>
+  <path d="M130 50h60" stroke="#1a73e8" stroke-width="2"/>
+</svg>

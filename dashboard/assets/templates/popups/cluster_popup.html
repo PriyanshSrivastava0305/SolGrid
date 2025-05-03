@@ -1,0 +1,44 @@
+<!-- Cluster Popup Template -->
+<div class="popup-container">
+    <div class="popup-header">
+      <h3 class="popup-title">Solar Cluster: {{cluster.location}}</h3>
+      <p class="popup-subtitle">{{cluster.count}} projects in this area</p>
+    </div>
+    
+    <div class="popup-content">
+      <div class="popup-detail">
+        <span class="popup-label">Total Capacity:</span>
+        <span class="popup-value">{{cluster.totalCapacity}} MW</span>
+      </div>
+      
+      <div class="popup-detail">
+        <span class="popup-label">Main Developers:</span>
+        <span class="popup-value">{{cluster.mainDevelopers}}</span>
+      </div>
+      
+      <div class="popup-detail">
+        <span class="popup-label">Technologies:</span>
+        <span class="popup-value">{{cluster.technologies}}</span>
+      </div>
+      
+      <div class="popup-detail">
+        <span class="popup-label">Grid Connection:</span>
+        <span class="popup-value">{{cluster.gridConnection}}</span>
+      </div>
+    </div>
+    
+    <div class="popup-content">
+      <p class="popup-subtitle">Projects:</p>
+      <ul>
+        {{#each cluster.projects}}
+        <li>
+          <a href="#/project/{{id}}" class="popup-link">{{name}} ({{capacity}} MW)</a>
+        </li>
+        {{/each}}
+      </ul>
+    </div>
+    
+    <div class="popup-footer">
+      <a href="#/cluster/{{cluster.id}}" class="popup-link">View Cluster Details</a>
+    </div>
+  </div>

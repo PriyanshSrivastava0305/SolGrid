@@ -1,0 +1,684 @@
+
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta charset="utf-8" /><meta name="viewport" content="width=device-width, initial-scale=1" /><meta http-equiv="x-dns-prefetch-control" content="on" /><title>
+	Solar Energy Corporation of India Limited(SECI), A Government of
+        India Enterprise, Under Ministry of New and Renewable Energy
+</title>
+
+    <link rel="SHORTCUT ICON" href="https://seci.co.in/images/favicon.ico">
+    <!-- Bootstrap core CSS -->
+    <link href="https://seci.co.in/css/bootstrap.css" rel="stylesheet">
+    <!-- ICONS CSS -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css" /><link href="https://cdnjs.cloudflare.com/ajax/libs/OwlCarousel2/2.3.4/assets/owl.carousel.min.css" rel="stylesheet" />
+    <link href="https://seci.co.in/css/style.css" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css?family=Rubik:400,500&amp;display=swap" rel="stylesheet" />
+
+    <style>
+        .rptanchorcss:hover {
+            text-decoration: none;
+        }
+
+        section#main .row .col-md-8 div, section#main .row .col-md-8 p {
+            text-align: justify;
+        }
+
+        .nav > li > a {
+            display: inline-block;
+            padding: 10px 0px 10px 0px;
+            margin-right: 0px;
+            transition: 150ms;
+        }
+
+        .mnev li {
+            margin-right: 18px
+        }
+
+        .mnev_hindi li {
+            margin-right: 18px
+        }
+
+            .mnev_hindi li a {
+                font-weight: bold !important;
+            }
+
+            .mnev li:last-child, .mnev_hindi li:last-child {
+                margin-right: 0px
+            }
+
+            .mnev li li, .mnev_hindi li li {
+                margin-right: 0px;
+            }
+
+        @media(min-width:768px) {
+            .mnev .show, .mnev_hindi .show {
+                display: inline-block !important;
+            }
+        }
+
+        @media(max-width:767px) {
+            #srch {
+                display: none;
+            }
+        }
+
+        @media(max-width:991px) {
+            .nav > li > a {
+                display: inline-block;
+                padding: 10px 0px 10px 20px;
+                margin-right: 0px;
+            }
+
+            .pdmob {
+                padding: 8px 10px;
+            }
+        }
+
+        @media(min-width:992px)and (max-width:1199px) {
+            .nav > li > a {
+                padding: 10px 0px 10px 0px;
+                margin-right: 0px;
+            }
+        }
+
+        @media(min-width:1200px) {
+            .mnev, .mnev_hindi {
+                justify-content: space-between;
+                flex: 1;
+                margin: auto !important;
+                display: flex;
+            }
+        }
+
+        p.f-10, .f-10 a {
+            font-size: 10px !important;
+            padding-top: 2px;
+            text-align: right;
+        }
+
+        p.f-10-L, .f-10-L a {
+            font-size: 10px !important;
+            padding-top: 2px;
+            text-align: left;
+        }
+    </style>
+    
+
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+
+</head>
+<body>
+    <form name="aspnetForm" method="post" action="./solar-photovoltaic" id="aspnetForm">
+<div>
+<input type="hidden" name="__EVENTTARGET" id="__EVENTTARGET" value="" />
+<input type="hidden" name="__EVENTARGUMENT" id="__EVENTARGUMENT" value="" />
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="DLI3qsjgWkXTVcU4lxoeMv3lqcmO8amcZV7wfCPBKimxzmUTJOxue7GfsoCD51SpAeH50p4O9dG3o7StkI4hMEdj9MiTEhiM+3FzX32RAVe8BOQVON9jQ+aTOqhYQja4b6Z6eQvLPtJMYKnXr+lAhWnkm+6/XIKU3g4at6esYdyv4TwWdNCNSALxL9111vXLF6Lh95j+aZ/izLFND9riOqYtPS7Xzeogu4uIhBAec5VNW/ojwuk+hdUiAk8nTUJJjfJDFrbEU+/S5/QzjPPoVxuWQG77tvpbGTF1ILDHM80KnWo3ZPULKY58vES0u0TdKHB/gfF6PFPAfBPl0qUHllwSimh3L+acpYx3mAfZHdY73b/4hcz4Z8UAGLnGyMUylxeXTqyfwqut3N2/UeCXF/YESNU3ToV9z8bEqNtJuYzkHftE6QO8dpe4TdaW9ES5SlhxFyH1L0PvjV3wcWJzGAIvDGrxvN6OhmgYERuRPvCDgDNr/9tz5xS1qUjb3nCdj8J9YIuY2yuc1LmHJrk7yfU7kNfIwPF68o5iFEoXEZI6v0qd5cXvG5jYP4CMtjh0D9EY5dCTkbq9/wGKW/B1xgBM68LVg4EeK4RDw6dE470s59SOS/6lGPQIt+lCnBgdAQKEo+Z3C/YQqhV+k4UY4J81xvZs1lteRwuKcd5OFkXfFT3xIBl1S9fcHH+cpxrPJnKNdZ4mSlR3nW7tuR3yDb9MrCLr/Dg7yetAZJFgylQfQG/xL57zDjPm07+oQQB2ZFvVQuS5h4ZhuYihRfWxBk4W8PBfwhIKKp2AYm3jNlIgrtli7xVTAmkLZnHdnTFidCDrhAKZ7gfgonv6ica4bDWXCCDaaA2ZDlmaS7dV+3qiap1TSYZNGp6UyFPvV8zmo2Md6HN0+oNbTXbokCTQdxTV722Bs0Ch6v/Dqffzdb1Hg6fuWJyb6JHOgNr4wcYBRUHI2RGw4BLOhnlz4kCvmEXNOA3DkTjvwVeKV7F85TdCDS4hHWHqoWjgBwdI46ZP/0PD8vIweUvzru+zd+/KhYWkEYcdzaY+9MSQuGBHGWxoG9VL1ndgAe6fiihSoLjpwvLXIxjtL26BECHfvjyHAobzUAJTpgpXmPIFgjIPOy+hCn/rWgc13HYmM9F2uvVx0BA1DgXG6AcvDqu55sNTkxmPOXkd0QM7CLuWw0lQjLkZql57SczjRH4B5RDdK3RiOvJl897Bj/drTAZc9cIrE6Pl6b4su4U4M1NEwFdEsk53H/GEsLZResp7Wcn+GmGdUhgt5mz9ifmp32f9RmkIPQ3VEA7PyCN+0J41iX+QQxfFvmcF25snOfpEjb/4mKQWAbtfeoDiHfWrgbrCXkVo4ZYTvjbp5BKShbn+VhRFRvQr6xM319a3VZnTEth7fsfdilRDs788VRE1tbgIsNWxP4G0J4J8Dd8hqiEko1iwUgDAzH3TMNsHdqnUtlhZ12rFmvprJ33MZAY832z615m1L01o8LRkSNdrCTDDSFtSWVSBY6fdRUdcrVng+Nj6IV+R5tEizVCY4i9Io1ALjyAHwuQSdKe6mQtj6oqUxMPyYBPZXZEPdvxU/HOCTVeBAyEPrajqbi7q5XCwg/tRT9FYLubJCBonmpyqrrxUJtjBXB95FFfngoEADC43RP//5uxR6ICthpKgc2/vk4sraUci/Z4JqlXmSnO2KS69PlXgkOXyySC28r/SsxynkjLKWLepKUztzIaiwwXeI5HaRddj+6e4OLiXj7tjf4e1qL0KWDIW5cK4R2Lr9bp0HM3vFH4xfBFccu7Z9Yek3EBWkHwjG2avSioz/PaJlKxhlSIMl/8X84EaH3c+sZVEETeqgcrT5bKjqnmTsek8MBHXaYfL3nzH0XTtgOJmMeBQNmCKYzUBziDaKPNSc1aFEBQ5N9i+JOfApnks7Yme3XlOMsJsyWh/nr4saTUJgf19k1eBbY3BBaJhhqQhZrdYAOu44Ot1kEfAy/Qqr66mABNVyHCE8hZAsfpt2wSbDFSAIRgCHMsvpFgTmf6P0r7FlOOc3dYLhYt5ARmrdjwx2YhefVnpKL+K00KQRxIGvIQuOLYIH4QiDAwF/NC7wFSvYhDZEDznCQyV4tzMoDuHitqlveFgMPC6D2D4eiVBAMfpNTeTvQsDrFXhhw38NLdwTNYhczH3XzFDXzroUmfYrPHEFYpMuRsk3FyA/ducdy3YftDa+dwThOQ97U1Hbk/2qnueGPWD2AWNDr9lDzHv60cywSKP4wf6Pb7pSXxAlCKgMoDfJa1jk85EVrgUrJ3khF2zefHKUmpdasvpEvLwONoRPryKgc5nkDB68LzYRWQK3mPZhD/nlIkLA5H2zRRwSsV2Qshqu2s8ADfgvwxUy8xjKbUJyCl4iV19B1XaxYUoQdLjJDePrYEHe7PODud/5MrTugDD09k4Iq8Xd7Uf1K54Y73R5g31hCOokY/AS2rStYm5uZY4eJEe1gqoaN3pzy8UH8WaPLQGTj/t5Rxi1xXFubHsDPbJE5+x60G1h41jPULeIsrKyFyfU1//N7iIUgttgyNfVj6JJT0NlDqJxE3dfdnX/g/5jnBeUWb2ej+qtmvLLZgtLHSSPdLS8J1VRPjZBCC74qj2DOadmQ2fKa+guxyZ+rsRmNTbAr2hAAfZACGb+e0tiFP/aeoROYYSiWcGZ5AQFDatHuASdfYjHiH2Gtgo4WnplwVME9F73jDlbaTy0MEeJydb26PMMFQWQQHsp+8kqlMq5mCfdCa2f2DYRlLJo0+1Th3CnatYgY55SLD/JtXLbQZriV375DproSs5HdeOeaeIbPZMGmpC+yTl2gssu+6k9z0SrrmszCs5Nay4xvsZZApUmgdpmQWzdxCCkXNx9jvZ6dW1VdOwUgfiPtkwvM1G7Xrf3t/nyGlDMaOX1Brja+AHSXYJ2Y1IH0FaeNPj5H9KCvJURwbmMHlr05pH5y5vesRU+2C+F4A7Sfpo+hMdBjD2FFx3N8ecrdnE+QgNPlr9n/Yee4qnSmgXJ61nCp/Qz+snKfnXytURYXCJ0aq0tEZMfgVbDoHBv/S++4gnuzlqsjKLQ4V2WE+1mkzl8MrfaANbsfsbJGdTFxQ1sCn0uRnQW0V9Wn31aOaHDI52Ya/zRb1E/WNo90Isf2xjY12Esd4MtDcxaWFiFNzcMtElbeC/lo2MWg55HzXCIu1rKNQB2EYY4n1Zqcfw4Z0z0I55G5O5Db5SSrnI9i5BiJAeQYrH1LlfaqAZ+QY9X/6egyBUTRPVcLvanqOvHrnAYbvNWUExY0r8q6liolzm92JRALesi4i//wXKQHUGh9bpUG7OpFvT56/L4nqSR4QYRvyfVXd0GvTcVqPXjR40FFPAQ7wgi9QHahmlTd7GjC/U1tWOa0pqfQD80L75l3eb8ly5AHveuRe2PLmsEcCGEfQuEApD7KkKaFya/WzMaV1pSituTN8XuXOe5GtY2II1AljqPKL2dEfCybihR1Qwn96sYS/H+b7FOrhAlnXmFZlVkokbnJcO5w8FJa9nK1i/X5s6F+JEQt3pWod8gry2rZro9Hi08b0vBEyYdBKhrTwSbvN84WnHVBRsBVbAmKqgPmKNKh1yDDEBUVc3vAbSS66i8XbrCrcBAiAA8pMtW7fzo+VykXzkYQBRDe8ooCGXZzqsbt1Iw/SutbNN0M1F7oZdtcjY/7osdnpOLo+ltFCkkKMqPdvG1ulo1k7Xc4Fl8P/03UP1Lw8NdQjzTuIiwcs08wFdAJJ5a8vqeu/pEBKhsiMYZXC43ynQYcpJBirUXUlEhHDkJN8Y8GT7C1PuwmzJj2ZlgF8ZQztONgy/YyDBJ6ygZb1fEiFGisLHcjbCzT/ILBHEo47DAwZkSEFvlnk7C+EwbwHPwWR9qbpTmKQ8DtWa35K3idhHaxfuz2jWqSYIklaqmYGzjC8lt+n2AZet/88VL4OHOCMH/HnB+yJ51SN8YKankbtLepOE7Vs9WiY/enNtjYHm6cJ3uqgOmrrSGUSGAcZCa4/s2v9iPGQVDhOtucS++PPsJEGpXSAxlZFx2yiQgjsBXvYAuYkxRjRdiAAcYZyThV8pHK2ZjKSg7l5fk32XfSZ3Pp/4EpvAYrBig+bND6UhIAanxKEu3iwxVqbQKW3o8XwWWOTuQdFa1YNoq4Wom3kGslEx3iFR0m/Zpm+FY/LsmI+J5lkuUa5r9m1UdITikFZ+UB5f/+Njr9nrKpkLfI2hxEA53KKZNZltDE0lVCapu4OEFjUGjjWTRLxkvZgh0cSfMBak8HM4bLJTeGHP5gdP/Q7QhlT472G+JspkyXxxuW9eJ1g464EywoZlTjb86OI+ZcNaIA+NhlZixRlAeJwCdMjwI0ROmVTchFa0fEqGEn/Zg4z6zaWtlr3N/VuZbipoIBkJIGPm9diEAeYFpK7UoXXn+5dZEhe4cCQATI5aeEZi4+rvXxI4hllzIRIcIj/pIOmRpXnPqq3FHdVAIHK4oi0IKeITeF3XeeVxQNRdv8J+BOWp5pBaq7VhrSelSRIlS9cDSYli7P1j3cwXCnXFMayE51+Q0w8QMgmkjFc+lS0xaJWVBv6y8UIoQ8HpgTbY03I+cVU+BT1WImPQPZQJTZRD46k086YeDPW/SuwDiVoZ5JnK/Z9HAnK4xGqBg7SqgM+sfxHa5xdp+dXaXApS+P6mRV4F3A17CapBzUkYTDTsuziC5TSzBpC2mbRPTosZ7jOIUTCbuk2rgJmMT06rnlrHPD0OQnyHA5hCP7bMUVVUnckGs8clWmpRZoEv4g8VoSP6pxZ8EOCKiME9zYr8Ci/KGWdvu5kJsUZ8YNFlxEk5Ylsm4hlr+uqUl2QKX/hEnjyXGcGhY+TfMyoaOnkjWQ17O6WOnP52fGQXP+7SJoXz/wN0qmvO12h6XJd3OIgVCpkr65QL2umtMG9eDoBTeAbkmyMiXKMKayjlF92CzJRI0lKCcAWljl+Epd+fdgiORUVConrHnC+BFZQ/JFAQOO3u1JKmYg5yCOtFqcQ08bj2odwtLO4bP/plJDFVGxnHkdLs/1VvIPEknQY11sTjeoH8KwZ6LejKrtF2Eyz6dpOWLQZRBnXHPpcRwDtHJrSZelM/uXoQVfb82uwtwpT499tDZ5qKSjE11fXtWzS3Txj36/lTbOLslhUfG0ciKC8LtRtEfGqP+wLe1KRYwrJtCyyidYOQvuLxJTYS89YI3ylrs3P0xjoAHqzO00JYHrki2+Cbb3+u5Qdt7Li9EyWbMZeSCeG6FqfS5BmEjJkg/BeKItkQsonkcMj/IHN9E1iCgG1jXP7Vdw+CZmUwCx2HNaoXLjbsqOW0J0sdksvY1Tx5bg4pGBTRZw7R1UsfcAMtLchKUqlSHh1ow3/pKIKh+7PCCmiKwb0+Os22Ct/w6FBXeTM/b8qbEgwptgH/4LWnMKPMqKPcGUQ+nheOu1489UPvvYKASP2AqjQ02CZNou37C9rff6W2y9lT2ODMjDiNlSBGwBfwfU3rHlxp4c9Qo6f3SfZRjejeBnNc5uVGIA8z6i6FwwMsOtrxsN+otb6UjkeAZZhloxtl3QqXKbBgyoOzNtm+bF+warlWBFj7whUnoEtkjgHUZNsF+NxbFDzMweK5gupjY2QFVTpzXp4ZKDSXOS8XBO57fSeOgZpXLc+l7d7bh7M9D+OHKzKJsk0+CrpecyEy/ZfyseAMCqLE6ol3w2pTw+JixSiElagS3TnD+SH30mhcH73LquIzWLaee0l0NpPNlPkrwZOzxrm4HBKin4f1UEjThQk6pw8npOrT+gmEoI8V8fGZTDKPXEETG/n8pVSe3lNUDWdGwBnoE672GcV9dT4CQtH8+u3hc+w6XaQ53QcEgOePqII2lFqVBmvtkYMqshjNuxdsWcIQIohxHDf9SRGDU+hAbbMwZ+YrYMRPMIycauE2thIdl9Qa5Z/XVv7Gjat9PdY08QaL+b2+We3zQcCQiCUhmWQMz4HZgrqajqTI9cWMvxzaAhiMqTL1DYfEZbV6aor8lOEEiXGHDqMzi4k7WxWRnakrUDabHV+POKpnnBm8fu8yNeoX9njU+AbuYieIx2FoygHXvCDStfNqjbeKYEWcycUfJdLv+iw0dO5q8T0SqS38+if8eWZjv4tUH7WnZFqFHvA161kAzWxVFkhjfSxpDUULeSEmyQ0PclpKM9NwL5dBrr7V/JpwPRFYdxsiB4epHnitmhFjH243yy4rgod5tc9ZwukmP5XC0DYrkEGj0SWJD0TCmkcy/K1ROg6aKX0Uq9C8FGy8rzjcURrHuLzctBtnEtfY9hVa5rQpyZx7vAUuwMT7V1+S71HKAFgd96aHF3Ls9PL6xS/qr4mwlBf/tp8KfgHu7G9pl1u6BoWFkO7pB6Ql9xITOnaGCxafKAuB3BkWh9HnDJZwTYeS0rjQ42JDOUDlg3iF9sLyNaJLFs70pHGzqyzH8f+SokySferbETZYAR/P295wTgqYp8xZ3op6MZVQr7XT9W7VgbFh4rEhADxh1WGq7DUKzKAuNfBwdBVMTw86z1NvOBUl/iO2DW9GbJmANnlqxgMXKkrhSwozmcp+xqL2ygu+1TYERjbzvB5SErQRjv6UME/SllYmnUYrSMnGU0Irnr+zsFSZ2U3xk9i5wIr6UykYSlgzeYC4cAKn0JKxcCcbPYr2TzUb3EudiUUiRhjEEPAWW+hn3vMgK0+cIG2M79/QpKE0JuZSo78La5YMHSqQeck3CWdSGPcmMRFu7Z+VjOTkRNLTnsXBnwxQfY82znLZLcJV0Ft9RkSS3ltOlIpN6LyiPIB0l5hFwA3/nR6WZQzVKpNiBIE8jj4tottyK4ya3/Hcn3OKC+G6ojqMZniSFZ9gC7+9g+Cuxxco0PnJMn1dIS2uhe+x4aMH7bjjAyEqLafmAHKvNI5Nh7TXoDw/kiXqrK39ia1DhghXUHCw0LA5Gnfh1G55vT7ijcc3kN4EF9BpaWo0gxW8cYniZIlXj6HeQNe8uk6UIz8GWatgvmkcSIaPyC0680U8z28G8BSoevWW82rzOwru4yDoDcLmxvp//ThMdYtzWLCd+uDGArJ8GQu4qQWDNEEUNkN8aykay0q10IwSdPlisPJ3+853DKpqGIz/zEJf7kEh2GJEphTIVLfv+InzoY6DBWefUUAjPf20iGrjlXm/pGvZGl4LBAHXms3W+mo5Saj7i4Q+x0fET7qYcxsyU9YajmpXG7bNO+p/NG9xYOSDNXd1q2OUzSmAmXov4I8lnjou/qC/HMv17fqXchSCUyTjTiMEYWCgyDZbsap7dfsq4s3TExYKeGU2SGN+PY9jWNCoGge/61R59NZUK9fbHlxyAo7h+5iCjGjSP2G+Akd41TSwqKcuY1H77JMgD6G+dyRGHGDJW7Vzr8fnNZfIL1Tj48sKGep8q9j7s8JSR7pVbgOoZiC4Gfur3OKvPQWhTyqHwP/KwL4hBZbIyVWovqK+o37T35KA/bFHuDzpwMsoB9pL9WZhxPSHl5Ix3yi7n1QaIDoV06y1y8wWlItaE5IRYzWY5X0G0AzRjFZpKow6JELOaim3FkmzC4B00aXqGiwDNl+Ta35qOKJO87aMl+zK488ChcBUuFeyU6XbZy5RatYMKxZSG6bxfidZ7XmtgHYBOc7YF6/L9LHdGKpb62GF0QfMjFH4r948TODpW2q7EdKr3isjoWWi0rWGGQo4GSMlj1Y6mPuuCxpNpbweHVSYHeDzLzialEAsz81294rzWdF0PoavYnlagqtSphhm33VjTnW2A2TamtnZ2w8E+rIVPRzGD8sgY1RfdwZvmsuuYmHDL4bdfphB/mKUZZd7cC32eURUYWWiU6jIqDHS+c1J6DhsJVkCrLl0Uv+wjmTY+TbiEIwmCWq+5C1d8ZVGwmQQ+OCEKtqzVs9C+br41E9bafYw4UX40k6GFCPvK/wAaR0yLxv+ct4E1pZBO28UpS4UaLVuoFgHVj+nWpG/jIlMp80TFul0DdhmQAR0tupARWtCqf6D72+vI9RV9c+eRx3VkYW0WkfUPMZnLs2e6Ry94nJZGZNr6tbI4RfFiM4+0LgV1ofFeyGJmhfRULM0rqWdgHWVlSs51uVcPudVUqczKLimJFIAEAE8XHMjjvbDIF9p86N9ZoYoFYA1g9h1hXn4ltW3fQdvtKDJXE4dT0CycrEhkPzVCEEi20gGYE9uv7kd4FxNg+iY4tnaZ2XzFh4rTfP6m00D6hd+iFD/7a02Ng5KoFKyMMUkXNP3cbyqH/2m/veZbHywkSXxl3YgSjNfAaCxX9hu5NViijdvnqdIJCh/5BPgOD31+pSPMMoycldeicnX90a7QaeRjIyzJrL1zryPM8rQMH0xnEIsIfeSHCBQ6Rnrb7D2IU/73gLG7hY+LmIkvviBgoPokH/koftVqQYRwhjW6kryqsNeoP5jSzO5YhpYeRWXjkxq9KFUCABiTvEvZkgse0O4qeuKGxx2lsAt79pEJMT3Sd4xj+aNJ8QfDi0/jyqtCo8Xxg5rjnsFCMGSt2k6EGU4cudm/H4HTU7ingfB9NyODbTyu9A0K1IsR4HG04F7SnfEDN8nhb42d7e0JD73zVFn9DmjfRksqv67BHTG5HKkBfWcc8TBhRA0alqrGEGc046Z8O8oQGl5FFQmYHAz6NI/Q//YVAVXZPwYBdZMrLUeXf1eH3OYYgpugMRsXOh+WphJgOWhk+bmPdKHwIg/QZ2TPVpIMqB38p/S5I2rSuu835JKIEJ4ZLXWG+Wpk94hRwEGqlyZDe4lhGp0ZFq3KgXtjX7nMU94UxE2dWZZNlJqIlRMnqkDa0RGfa9EnAafcsBr9/vfHK8qJwMUJSE/T/YeBPcO5pNWp2p6mXfkWR8GCSmyILWf5+8OdUrWP2NCoNC9GkMChE4xm7rX4Thl7WrCwq5gbnpIc1gO+fwgzet0Yz5lqQnZ3n7Drn61jSf7GW41zRrePGuoq5O15jmgc2AO/zQEsb8qcvmwdBzzobcTNGNo1aM5oga2Bw5UiXJfaYUetX9mRgGP14lWk6HULxjAgazhfF8Wg6uMjj8kyHaNIcRf0/b935L22WUc1PLQUxb/oACgHhIV2jrzmrOQqxpdKzpXvSClffgb9oCQ7BMOmQhhbjwK0Aw1wky+mG6bVSrZBM1mxUTjHYUYf6t+4UsYUA8tPdwJ80w6ei+Qeo8j6Swtpr5+BDbtyUcF5QD0aBUIDbmNppEsllaRnyiW/Tdtoy7bRJ4Dlu9fuiGSxMAMbG8KWFkvPybE5+HwE1pc+ho36sQ3hTYtSUHUEEgT4/6klb7yYkr/GukwJGu3/3NtXX27NZNji6W2pq8mSS9FSm2lI/B0MeyjzZk0PelHRmJ+PMeU6soNuAFtNGRx41nkbdQclMSRl5CH5ukvm2XugeM9byLXpY9saoaL1vKtR64li2PI1XqLSgfHYBD43xWtnUN0nVdSCBYzx4g0BMK5VWkF4zVdoeptv9VTUC6jlGzxFXA0YrNKihJHddtNOlKL3RjJN36exJTqJNP5dPu9P6t79Pb3tSu/E+T/1i6lBdznyO0RRoia4MKMmdyms0adyvjj54hzYMfk8bOW8c1yAhOGONFITAeoFwkMNDUDNbE8mXZeffeKsLm5b8YU6wOl8yfAdnKKl+WuZw5M2+CtJRjvRTeVphsmMG7PR/5MuLD4YG/ySqehC+JnNWJGBy/w6oWjYjBwNCEeD4/WuSMpugPdPXzBLKy7UGnUv5L364xpTq9W7bcLGUD2P8ckyunF1TKTpzoTLBwMmt37fuB6NjOJahnmnE8I7Od3176OwP3bBMC50Xkx1VMmYgnmHiwzOq/2u9ATtk6wL2XobcMMkX07EhbhyaEZlUX7Nn52isRAp9LpK5VV9NFXo/6zu+o4PlQf2IHTYlq5qFW73xGTM756GmbA56cC0A3yA/t0j7tBUtjzk36KBMXIggeqzhejLy9hM78OC4u1lUl2h+WZAWn3Nz7KFHh9OpouhsoorbPXIRywwhILLqIhvSnHucpCUmUuBz7e5/n7K490ClaVmkmKNsjAZ69Vp2Mmea0kbdTC646DdI9098iww4FhryvI2dFqYjEPo0lTtQzT9aSjVxYX7I+QoKFjI/nvJalRBrzEoZEQunxvSVQNug3BEUIV6ZLWjzNg4VnTDPgrGSQApvCF0xR6e3pNhb4s0Gqo5jpDeBdE6I/p2wzK0LuvaigNzp7UDGHosK4BiWeRuiF7iAjvdJcU3mBrZZs0R1QrSfpDQtOeS+GJN1BncNUmSuHktF+jgWQ+uNDUdNgw7E6xYSfQ2+pvmxJLtjZjCrf/G8QEhhx2Mcw15h0Y86G9Y2ICmsaU2JbebI82p0GZwimdKgWsoaeI8nzHkShpPVj3M1L2ObMEcwQ7yEx/3aZNrVZ/IzYWqbVUvKuaRnmHQRBD84QC0YCbtQ4V7jc3L/Bp6s7CDVBZ8ZsmUTquDFX70xpQHOnDtd+S1ABImcHXBESjE3cziqKKH6IGFgPjXANqUhVAbeI4LzxpoGmFRmr3meddCg4Om2q3vkSFGA88WtBcCZWFqi4rH5rQu4aUHJ7DhOxQuDb786hTH3fGCKMkQZ++SJKZg3Tw2+5DKEKNpB8QcTQ+eX4VTu9OCmJlAjOALks9+GITM//y2w0Jtxa8jEsuJwYt/g+3R+SP30Y9FI4ZXvWJ8r5xXDYe9DpdyPSYlO+GcB874nnSz6Ks4eQDdYN1MpgfFr6DuKQhceHIb8pjlJxml8qA+f+5XBDdJ71We93ENH82905TPNn3Skx60FHQx7POUG7bo8q9V+diTSzqwpotiVoiA+w814HHmRVLN5Oc2ICgR2bi8B+x42PPPdnp8km5rVKjt7etsI05wmVdriNTySfcWBKkMTb8i5gZ20dIEsETDDNnhp9I33QT6PIlrdyTblvblaWsuC9dmc2XaM58omL1z7p5Ao5mLgi+D7t500rQdd2OiEB+SSJTJ6JLOVP4KmevP3atp7pSQ8G3JAdWKnJ3Y8a5yTiLUNummgmH2+/UI6Di4tE7Q6zC711FhO/OBpVlAzqoLmNif5jXqZHwkeZlezhgSrkpJUGs6cQIT/T456FSB+vt1ZJbtlm7vji2vXiW/BnSCSv9JZJzMdXU8XIEwwdiULgb6recWI70HixM6sgWUto3liWYsi1o2Udvd7JXmHw6AOGh+C01u1RUILd42uhfKyE3orP3MtzSSZ/xYVpFiShmnA8ZhtEEjgYGiPcYGEGu1fmJIu2WfSF6Oe8GarLUivzSueyJGHHd+oBA24VuvubTQtoWuEUMd6HCjYabCS7JnSyglmguYrDFgUjsWbq3B4mTr82AGYvPxsZrH0jLRLBqJjd5Ny9U/MAm0EaVlMfR+p97CjXG9K22sj2eRgcnS1aTuUACgkwAb0PqFSZg6lKEKFZWJAvZGGhExX0YdSzwzUaKrGadGNSDJ+lfk5+93hZBtTIUbn3WQmzJlqctikX1f4jOY/J5ouR8l3UhyC0Dh6vIzAD/zIVUKWhjgo8ep/NKvGJpNX7iJKQ7guVoZyRKzqFMWJQwwKviDc8GL4YZuxyPqL6z3Flqmzs8WXhCA8wCnW/Ff3U2C2hBF/esJQLmjqUtBNjk1YZsEqrDnPzRU1tVGk7S/rNNameGFxrfhWYPIGBanx+VWcKbKkGv/J8ZvdxGTagf6QfwZr8KI73wOLd84o43r1kO/RbKHV1vu5tCs22ve7RbX2db4pYaDr8w1ahRvsSKsfK/2vVVXUGMJZJFm2oYU+SVVxB9LYHXU8KrR4weg5/7V84Fb2MZeyAHtwe9BNDzMr4mIQOf4meHjKLhNLk0P9sf308kgmDbTZaKW7uBh1Z4NQa8l7qTG2Go7Mp1tbESlf0SSJX+Pe5n5wQPP1Powr1MiUq+pnNE7pbqECMk/U6IKZbHDni4dQMUElZWmwmjDTZJIqVLE8cJKibAbvnlWAoL3koJ8cVLBiqb7yYlV5cBPzNjDCVzVYYkOOCfPVshtCKWbhJpI121jnDZ5ATuNq8xt4m0TDXntA0724jKNqpSJQrso/MCZhid9hKtKlU/mL3Pf08fEBKbWuDB" />
+</div>
+
+<script type="text/javascript">
+//<![CDATA[
+var theForm = document.forms['aspnetForm'];
+if (!theForm) {
+    theForm = document.aspnetForm;
+}
+function __doPostBack(eventTarget, eventArgument) {
+    if (!theForm.onsubmit || (theForm.onsubmit() != false)) {
+        theForm.__EVENTTARGET.value = eventTarget;
+        theForm.__EVENTARGUMENT.value = eventArgument;
+        theForm.submit();
+    }
+}
+//]]>
+</script>
+
+
+<div>
+
+	<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="DFDC333A" />
+	<input type="hidden" name="__VIEWSTATEENCRYPTED" id="__VIEWSTATEENCRYPTED" value="" />
+	<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="MgVQt9lztvUNevN1IrXGIYk1zIMiPksTj+Ij1VHxARhQa1pxFWzkyJS0iJ3mXIl1Bs5V2Nx8mFjI5tsgNP7pypR6bTG3Oh/4sJq9odvBvqhE2LU9Cf+ICG8SHuDpy5XSruTscUJyXP4/NhdnYW9rfAjiyG85m8VbWQX1pYprr/56oQ+ebA9y78eHyP+AQPFH+iGh0BPtIA2NYdvzgyWpL8lNRzdeh299vc8sFTKEZVeZOA9grKLri2WDuhAvI2FubqUJdm+HoKJnn5VSV37y/A==" />
+</div>
+        <div>
+            <header class="banner">
+                <div class="top-bar">
+                    <div class="container">
+                        <div class="row">
+                            <div class="col-md-6 col-sm-4 col-xs-7 no-padding-md">
+                                <div class="tb-link">
+                                    
+                                    <a href="https://www.facebook.com/SeciLimited/" target="_blank" title="Facebook"><i
+                                        class="fa fa-facebook sbtn s-fb"></i></a>
+                                    
+                                    <a href="https://twitter.com/seci_ltd" target="_blank" title="Twitter"><i class="fa fa-twitter sbtn s-tw"></i></a>
+                                    
+                                    <a href="https://www.linkedin.com/company/solar-energy-corporation-of-india" target="_blank" title="Linkedin"><i class="fa fa-linkedin sbtn s-ln"></i></a>
+                                    
+                                    <a href="https://www.youtube.com/channel/UCZG2Q72sTiocplOo8Bdqp6A" target="_blank" title="Youtube"><i class="fa fa-youtube sbtn s-yt"></i></a>
+                                    
+                                    <a href="https://www.bharat-electronictender.com" target="_blank" title="E-Tender"><i class="fa fa-folder sbtn s-fl"></i></a>
+                                    
+                                    <a href="https://email.gov.in/" target="_blank" title="Mail"><i class="fa fa-envelope sbtn s-mail"></i></a>
+                                    
+                                </div>
+                            </div>
+                            <div class="col-md-6 col-sm-8 col-xs-5 no-padding-md">
+                                <div class="pull-right">
+                                    <div class="tb-link hidden-xs">
+                                        <a href="#main"><i class="fa fa-level-down"></i>Skip to main content</a>
+                                    </div>
+                                    <div class="tb-link hidden-xs">
+                                        <a href="#" title="SiteMap"><i class="fa fa-sitemap"></i></a>
+                                    </div>
+                                    <div class="tb-link hidden-xs">
+                                        <a href="javascript:;" id="sizeDown" title="Smaller Font">
+                                            <img src="https://seci.co.in/images/a-min.png" class="size-font" alt="Smaller Font" /></a>
+                                        <a href="javascript:;" id="normal" title="Orignal Font">
+                                            <img src="https://seci.co.in/images/a-nor.png" class="size-font" alt="Orignal Font" /></a>
+                                        <a href="javascript:;" id="sizeUp" title="Larger Font">
+                                            <img src="https://seci.co.in/images/a-max.png" class="size-font" alt="Larger Font" /></a>
+                                    </div>
+                                    <div class="tb-link">
+                                        <span id="theme-dark"></span><span id="theme-default"></span>
+                                    </div>
+                                    <div class="tb-link">
+                                        
+                                                <a onclick="javascript:return _langalert(this.id);" id="ctl00_rptlanguage_ctl00_lnklang" class="rptanchorcss" href="javascript:__doPostBack(&#39;ctl00$rptlanguage$ctl00$lnklang&#39;,&#39;&#39;)">English |</a>
+                                                <input type="hidden" name="ctl00$rptlanguage$ctl00$hdlanid" id="ctl00_rptlanguage_ctl00_hdlanid" value="1" />
+                                                <input type="hidden" name="ctl00$rptlanguage$ctl00$hdlangcode" id="ctl00_rptlanguage_ctl00_hdlangcode" value="en" />
+                                            
+                                                <a onclick="javascript:return _langalert(this.id);" id="ctl00_rptlanguage_ctl01_lnklang" class="rptanchorcss" href="javascript:__doPostBack(&#39;ctl00$rptlanguage$ctl01$lnklang&#39;,&#39;&#39;)">हिंदी |</a>
+                                                <input type="hidden" name="ctl00$rptlanguage$ctl01$hdlanid" id="ctl00_rptlanguage_ctl01_hdlanid" value="2" />
+                                                <input type="hidden" name="ctl00$rptlanguage$ctl01$hdlangcode" id="ctl00_rptlanguage_ctl01_hdlangcode" value="hi" />
+                                            
+                                        
+                                        
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="container">
+                    <div class="row logo-bar">
+                        <div class="col-md-2 col-sm-3 hidden-xs">
+                            
+                        </div>
+                        <div class="col-md-8 col-sm-6 col-xs-12">
+                            <a href="https://seci.co.in/">
+                                <img src="https://seci.co.in/Upload/Main/638606419379092967.jpg" alt="solor_logo"
+                                    class="img-responsive" />
+                            </a>
+                        </div>
+                        <div class="col-md-2 col-sm-3 hidden-xs">
+                            
+                        </div>
+                    </div>
+                </div>
+                <div class="navbar-bg relative">
+                    <div class="container">
+                        <div class="row">
+                            <div class="col-md-12 no-padding">
+                                <!-- nav start -->
+                                <nav class="navbar navbar-default">
+                                    <div class="navbar-header">
+                                        <div class="input-group search hidden-md hidden-lg">
+                                            <input type="search" class="form-control" placeholder="Keyword ...">
+                                            <a href="" class="input-group-addon "><i class="fa fa-search"></i></a>
+                                        </div>
+                                        <button type="button" class="navbar-toggle hidden-sm" data-toggle="collapse" data-target="#myNavbar">
+                                            <span class="icon-bar"></span><span class="icon-bar"></span><span class="icon-bar"></span>
+                                        </button>
+                                    </div>
+                                    <div class="collapse navbar-collapse" id="myNavbar">
+                                        <ul class="nav navbar-nav mnev"><li class="active"><a href="https://seci.co.in/">Home</a></li><li class="dropdown"><a class="dropdown-toggle" role="button" aria-haspopup="true" aria-expanded="false" href="https://seci.co.in/about/introduction">About Us </a><span class="fa fa-caret-down pdmob" data-toggle="dropdown"></span><ul class="dropdown-menu"><li><a href="https://seci.co.in/about/introduction">About SECI</a></li><li><a href="https://seci.co.in/about/vision-and-mission">Vision And Mission</a></li><li><a href="https://seci.co.in/about/board-of-directors">Board of Directors & CVO</a></li><li><a href="https://seci.co.in/about/organizational-structure">Senior Executives</a></li><li><a href="https://seci.co.in/about/senior-executives">Contact Details of Senior Executives</a></li><li><a href="https://seci.co.in/about/code-of-conduct">Code of Conduct</a></li><li><a href="https://seci.co.in/about/csr-and-sustainability-policy-of-seci">SECI CSR</a></li><li><a href="https://seci.co.in/about/committees-of-the-board">Committees of the Board</a></li><li><a href="https://seci.co.in/about/secis-qehs-policy-and-objectives">SECI’s QEHS Policy and Objectives</a></li>  </ul>  </li>   <li class="dropdown"><a class="dropdown-toggle" href="https://seci.co.in/jnnsm/solar">Govt Schemes/Tenders  </a><span class="fa fa-caret-down pdmob" data-toggle="dropdown"></span>   <ul class="dropdown-menu"><li><a href="https://seci.co.in/jnnsm/solar">SOLAR</a></li><li><a href="https://seci.co.in/jnnsm/wind">WIND</a></li><li><a href="https://seci.co.in/jnnsm/hybrid">HYBRID</a></li><li><a href="https://seci.co.in/jnnsm/solar-park">Solar Park</a></li><li><a href="https://seci.co.in/jnnsm/green-hydrogen-and-green-ammonia">Green Hydrogen and Green Ammonia</a></li><li><a href="https://seci.co.in/jnnsm/energy-storage-systems-ess">Energy Storage Systems (ESS)</a></li><li><a href="https://seci.co.in/jnnsm/pli-scheme">PLI SCHEME</a></li><li><a href="https://seci.co.in/jnnsm/standard-bidding-guidelines">Standard Bidding Guidelines</a></li><li><a href="https://seci.co.in/jnnsm/statutory-requirements">Statutory Requirements</a></li><li><a href="https://seci.co.in/jnnsm/mission-document">Mission Document</a></li><li><a href="https://seci.co.in/jnnsm/phase-ii-batch-i">Phase-II, Batch-I</a></li><li><a href="https://seci.co.in/jnnsm/phase-ii-batch-iii">Phase-II, Batch-III</a></li><li><a href="https://seci.co.in/jnnsm/phase-ii-batch-iv">Phase-II, Batch- IV</a></li>  </ul>   </li>   <li class="dropdown"><a class="dropdown-toggle" href="https://seci.co.in/business/solar-thermal">Business   </a><span class="fa fa-caret-down pdmob" data-toggle="dropdown"></span>  <ul class="dropdown-menu"><li><a href="https://seci.co.in/business/power-trading">Power Trading</a></li><li><a href="https://seci.co.in/business/own-projects">Own Projects </a></li><li><a href="https://seci.co.in/business/project-management-consultancy">Project Management Consultancy</a></li><li><a href="https://seci.co.in/business/solar-photovoltaic">Solar Photovoltaic</a></li><li><a href="https://seci.co.in/business/solar-thermal">Solar Thermal</a></li><li><a href="https://seci.co.in/business/solarization-of-ports">Solarization of Ports</a></li><li><a href="https://seci.co.in/business/consultancy-services">Consultancy Services</a></li><li><a href="https://seci.co.in/business/r-and-d">R & D</a></li> </ul> </li>  <li class="dropdown"><a class="dropdown-toggle" href="https://seci.co.in/document/documents-faq">Documents/FAQ  </a><span class="fa fa-caret-down pdmob" data-toggle="dropdown"></span>  <ul class="dropdown-menu"><li><a href="https://seci.co.in/document/documents-faq">Documents/FAQ</a></li><li><a href="https://seci.co.in/document/publications">Publications</a></li><li><a href="https://seci.co.in/document/faq">FAQ</a></li><li><a href="https://seci.co.in/document/mou">MoU</a></li> </ul> </li>  <li class="dropdown"><a class="dropdown-toggle" href="https://seci.co.in/financial/digital-payment-modes">Financials  </a><span class="fa fa-caret-down pdmob" data-toggle="dropdown"></span>  <ul class="dropdown-menu"><li><a href="https://seci.co.in/financial/digital-payment-modes">Payment Modes</a></li><li><a href="https://seci.co.in/financial/monthly-payment">Monthly Payment</a></li><li><a href="https://seci.co.in/financial/annual-reports">Annual/ Periodic Financial Reports</a></li><li><a href="https://seci.co.in/financial/treds">TReDS</a></li><li><a href="https://seci.co.in/financial/tcs-reports">TCS Reports</a></li><li><a href="https://seci.co.in/financial/psm">PSM </a></li><li><a href="https://seci.co.in/financial/annual-return">Annual Return</a></li><li><a href="https://seci.co.in/financial/vendor-portal">Vendor Payment Status</a></li> </ul> </li>  <li><a href="https://seci.co.in/rti/seci_rti/particulars-of-pios">RTI</a></li>  <li class="dropdown"><a class="dropdown-toggle" href="https://seci.co.in/ists/solar">Projects under NSM    </a> <span class="fa fa-caret-down pdmob" data-toggle="dropdown"></span>   <ul class="dropdown-menu">      <li><a href="https://seci.co.in/ists/solar">Solar</a></li>      <li><a href="https://seci.co.in/ists/wind">Wind</a></li>      <li><a href="https://seci.co.in/ists/hybrid">Hybrid</a></li>      <li><a href="https://seci.co.in/ists/drc">DRC</a></li>      <li><a href="https://seci.co.in/ists/others">Others</a></li>  </ul>  </li><li class="dropdown"><a class="dropdown-toggle" role="button" aria-haspopup="true" aria-expanded="false" href="https://seci.co.in/vigilance/vigilance-at-seci">Vigilance</a><span class="fa fa-caret-down pdmob" data-toggle="dropdown"></span><ul class="dropdown-menu"><li><a href="https://seci.co.in/vigilance/vigilance-at-seci">Vigilance at SECI</a></li><li><a href="https://seci.co.in/vigilance/profile-of-cvo-seci">Profile of CVO, SECI</a></li><li><a href="https://seci.co.in/vigilance/contact-details-–-vigilance">Contact Details – Vigilance</a></li><li><a href="https://seci.co.in/vigilance/manuals-and-policies">Manuals & Guidelines </a></li><li><a href="https://seci.co.in/vigilance/intensive-examinations">Intensive Examinations</a></li><li><a href="https://seci.co.in/vigilance/seci-whistle-blower-policy">SECI Whistle Blower Policy</a></li><li><a href="https://seci.co.in/vigilance/pidpi">PIDPI</a></li><li><a href="https://seci.co.in/vigilance/complaint-handling-policy">Complaint Handling Policy</a></li><li><a href="https://seci.co.in/vigilance/vigilance-complaint-form">Vigilance Complaint Form</a></li><li><a href="https://seci.co.in/vigilance/vigilance-journal">Vigilance Journal </a></li><li><a href="https://seci.co.in/vigilance/vigilance-awareness-campaign-2024">Vigilance Awareness Campaign 2024</a></li>  </ul>  </li>  <li class="dropdown"><a class="dropdown-toggle" href="https://seci.co.in/page/careers">Careers    </a> <span class="fa fa-caret-down pdmob" data-toggle="dropdown"></span>   <ul class="dropdown-menu">      <li><a href="https://seci.co.in/page/careers">Jobs at SECI</a></li>      <li><a href="https://seci.co.in/page/seci-internship">SECI Internship</a></li>  </ul>  </li>  <li><a href="https://seci.co.in/contactus">Contact</a></li>  <li><a id="srch" style="padding:10px;"><i class="fa fa-search"></i></a></li></ul>
+                                    </div>
+                                </nav>
+                                <!-- nav end -->
+                            </div>
+                        </div>
+                        <div class="row hidden-xs hidden-sm" id="show-srch">
+                            <div class="col-md-12">
+                                <div class="input-group search">
+                                    <input name="ctl00$txtsearch" type="text" id="ctl00_txtsearch" class="form-control" placeholder="Keyword ..." />
+                                    <a onclick="javascript: _search('txtsearch');" class="input-group-addon"><i class="fa fa-arrow-right"></i></a>
+                                </div>
+                            </div>
+                        </div>
+                        <input type="hidden" name="ctl00$hdurl" id="ctl00_hdurl" value="https://seci.co.in/" />
+                    </div>
+                </div>
+            </header>
+            <div class="marquee_position">
+                <marquee class="marquee_text" behavior="scroll" direction="left" scrolldelay="70" scrollamount="4"
+                    onmouseover="this.stop();" onmouseout="this.start();">
+                    &nbsp;
+                  <i class="fa fa-star"></i> <a color="red"  href="https://www.seci.co.in/financial/digital-payment-modes" target="_blank">Payment Modes</a><i class="fa fa-star"></i> <a color="red"  href="https://pledge.cvc.nic.in/" target="_blank">Integrity Pledge</a><i class="fa fa-star"></i> <a color="red"  href="https://www.seci.co.in/financial/vendor-portal" target="_blank">Vendor Payment Status</a><i class="fa fa-star"></i> <a color="red"  href="/upload/static/files/CVC%20CIRCULAR%20DATED%2001082024.pdf" target="_blank">Vigilance Awareness Week 2024</a><i class="fa fa-star"></i> <a color="red"  href="https://cvc.gov.in/files/vigilance-awareness-week-pdf/VAW-2024-06_Audio.mpeg" target="_blank">Audio Jingles for Vigilance Awareness Week 2024</a><i class="fa fa-star"></i> <a color="red"  href="/upload/static/files/Unique%20Business%20Model%20of%20SECI%20Ltd.pdf" target="_blank">Unique Business Model of SECI Ltd</a>
+
+                </marquee>
+            </div>
+            
+
+<div class="breadcrumb-bg">
+	<div class="container">
+		<div class="row">
+			<div class="col-sm-12">
+				<ul>
+					<li><a href="https://seci.co.in/">Home</a></li>
+					<li><i class="fa fa-chevron-right"></i></li>
+					<li>Solar Photovoltaic</li>
+				</ul>
+			</div>
+		</div>
+	</div>
+</div>
+<!-- Main Content Start -->
+<section id="main">
+  <div class="container">
+	<div class="row">
+		
+	</div>
+	<div class="row">
+		<div class="col-md-4 col-sm-4 col-xs-12 mb-20">
+				<p class="sidebar-heading"> Business </p>
+			<ul class="page-sidebar">
+            <li><a href="https://seci.co.in/business/power-trading">Power Trading</a></li><li><a href="https://seci.co.in/business/own-projects">Own Projects </a></li><li><a href="https://seci.co.in/business/project-management-consultancy">Project Management Consultancy</a></li><li class="active"><a href="https://seci.co.in/business/solar-photovoltaic">Solar Photovoltaic</a></li><li><a href="https://seci.co.in/business/solar-thermal">Solar Thermal</a></li><li><a href="https://seci.co.in/business/solarization-of-ports">Solarization of Ports</a></li><li><a href="https://seci.co.in/business/consultancy-services">Consultancy Services</a></li><li><a href="https://seci.co.in/business/r-and-d">R & D</a></li>
+				
+			</ul>
+		</div>
+		
+		<div class="col-md-8 col-sm-8 col-xs-12 mb-20">
+			<h1 class="inner-page-heading">Solar Photovoltaic</h1>
+			<p>
+				<p style="box-sizing:border-box; font-family:Montserrat,&quot;Helvetica Neue&quot;,Helvetica,Arial,sans-serif; font-size:14px; letter-spacing:1px; margin-bottom:10px; margin-left:0px; margin-right:0px; margin-top:10px; text-align:justify">PV, the technology which converts sunlight directly into electricity, is among the fastest growing segments of the renewable energy industry. It is already well established in many countries including India, and looks set to become one of the key technologies of the 21st century. Some of the factors driving the growth of this segment are: concerns towards carbon emissions, energy security and the rising prices of fossil fuels.</p>
+
+<p style="box-sizing:border-box; font-family:Montserrat,&quot;Helvetica Neue&quot;,Helvetica,Arial,sans-serif; font-size:14px; letter-spacing:1px; margin-bottom:10px; margin-left:0px; margin-right:0px; margin-top:10px; text-align:justify">Traditional solar cells are made from silicon, and are generally the most efficient. Thin-film solar cells made from amorphous silicon or non-silicon materials such as cadmium telluride are the second-generation solar cells, and are gaining a greater share in overall installations.</p>
+
+<p style="box-sizing:border-box; font-family:Montserrat,&quot;Helvetica Neue&quot;,Helvetica,Arial,sans-serif; font-size:14px; letter-spacing:1px; margin-bottom:10px; margin-left:0px; margin-right:0px; margin-top:10px; text-align:justify">Third-generation solar cells use a variety of new materials and nanotechnology etc. for designing high efficiency PV materials. These systems are expected to rapidly become cost effective for use by utilities and industry.</p>
+
+<p style="box-sizing:border-box; font-family:Montserrat,&quot;Helvetica Neue&quot;,Helvetica,Arial,sans-serif; font-size:14px; letter-spacing:1px; margin-bottom:10px; margin-left:0px; margin-right:0px; margin-top:10px; text-align:justify">&nbsp;</p>
+
+<p style="box-sizing:border-box; font-family:Montserrat,&quot;Helvetica Neue&quot;,Helvetica,Arial,sans-serif; font-size:14px; letter-spacing:1px; margin-bottom:10px; margin-left:0px; margin-right:0px; margin-top:10px; text-align:justify"><strong style="box-sizing:border-box; color:#428bca; font-family:montserrat,helvetica neue,helvetica,arial,sans-serif; font-size:30px; font-weight:700; margin-bottom:10px">Grid Connected PV</strong></p>
+
+<p style="box-sizing:border-box; font-family:Montserrat,&quot;Helvetica Neue&quot;,Helvetica,Arial,sans-serif; font-size:14px; letter-spacing:1px; margin-bottom:10px; margin-left:0px; margin-right:0px; margin-top:10px; text-align:justify">&nbsp;</p>
+
+<p style="box-sizing:border-box; font-family:Montserrat,&quot;Helvetica Neue&quot;,Helvetica,Arial,sans-serif; font-size:14px; letter-spacing:1px; margin-bottom:10px; margin-left:0px; margin-right:0px; margin-top:10px; text-align:justify">Large scale PV plants are used for electricity generation that is fed into the grid. Such systems typically consist of one or more photovoltaic (PV) panels, a DC/AC power converter/inverter, racks, mounting fixtures, and electrical interconnections. Additionally, such systems could also include maximum power point trackers (MPPT), battery systems and chargers, solar trackers, software for energy management, solar concentrators etc. The electricity generated is either stored, used directly for self-consumption, or is fed into large electricity grids.</p>
+
+<p style="box-sizing:border-box; font-family:Montserrat,&quot;Helvetica Neue&quot;,Helvetica,Arial,sans-serif; font-size:14px; letter-spacing:1px; margin-bottom:10px; margin-left:0px; margin-right:0px; margin-top:10px; text-align:justify">Grid connected projects may be either i) Ground Mounted PV or ii) Rooftop PV</p>
+
+<p style="box-sizing:border-box; font-family:Montserrat,&quot;Helvetica Neue&quot;,Helvetica,Arial,sans-serif; font-size:14px; letter-spacing:1px; margin-bottom:10px; margin-left:0px; margin-right:0px; margin-top:10px; text-align:justify">i) Ground Mounted PV</p>
+
+<ul style="box-sizing:border-box; font-family:Montserrat,&quot;Helvetica Neue&quot;,Helvetica,Arial,sans-serif; font-size:14px; margin-bottom:10px; margin-left:0px; margin-right:0px; margin-top:10px; padding-left:0px; padding-right:0px">
+	<li style="box-sizing: border-box; margin: 10px 0px 10px 25px;">
+	<p style="text-align:start"><span style="font-size:12pt"><span style="font-style:normal"><span style="font-weight:normal"><span style="white-space:normal"><span style="text-decoration:none"><span style="font-family:&quot;Times New Roman&quot;,serif"><span style="color:#222222">&nbsp;<strong>Implementation of 750 MW (Phase-II, Batch-I), 2000 MW (Phase-II, Batch-III), 5000 MW (Phase-II, Batch-IV) Solar PV projects under National Solar Mission and ISTS, STU and Floating Solar Projects under Standard Bidding Guidelines</strong>: </span></span></span></span></span></span></span></p>
+
+	<p style="text-align:start"><span style="font-size:12pt"><span style="font-style:normal"><span style="font-weight:normal"><span style="white-space:normal"><span style="text-decoration:none"><span style="font-family:&quot;Times New Roman&quot;,serif"><span style="color:#222222">&nbsp;</span></span></span></span></span></span></span></p>
+
+	<p style="text-align:start"><span style="font-size:12pt"><span style="font-style:normal"><span style="font-weight:normal"><span style="white-space:normal"><span style="text-decoration:none"><span style="font-family:&quot;Times New Roman&quot;,serif"><span style="color:#222222">SECI is one of the nodal agencies appointed by MNRE for the implementation of various phases and Schemes under the National Solar Mission. SECI has been implementing large scale Grid Connected Solar PV Projects under various stages.&nbsp;</span></span></span></span></span></span></span></p>
+	</li>
+</ul>
+
+<p style="box-sizing:border-box; font-family:Montserrat,&quot;Helvetica Neue&quot;,Helvetica,Arial,sans-serif; font-size:14px; letter-spacing:1px; margin-bottom:10px; margin-left:35.45pt; margin-right:0px; margin-top:10px; text-align:justify">For more details,&nbsp;<a href="https://www.seci.co.in/jnnsm/phase-ii-batch-i" style="box-sizing: border-box; background: 0px 0px; color: rgb(66, 139, 202); text-decoration-line: none; margin: 0px; transition: all 0.5s ease 0s;" target="_blank" title="click here">click here<img alt="image" src="https://seci.co.in/images/extlink.png" style="border:0px solid; box-sizing:border-box; vertical-align:middle" /></a></p>
+
+<ul style="box-sizing:border-box; font-family:Montserrat,&quot;Helvetica Neue&quot;,Helvetica,Arial,sans-serif; font-size:14px; margin-bottom:10px; margin-left:0px; margin-right:0px; margin-top:10px; padding-left:0px; padding-right:0px">
+	<li style="box-sizing: border-box; margin: 10px 0px 10px 25px;">&nbsp;</li>
+</ul>
+
+<p style="box-sizing:border-box; font-family:Montserrat,&quot;Helvetica Neue&quot;,Helvetica,Arial,sans-serif; font-size:14px; letter-spacing:1px; margin-bottom:10px; margin-left:0px; margin-right:0px; margin-top:10px; text-align:justify"><strong style="box-sizing:border-box; font-weight:700">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Title</strong>:&nbsp;<strong style="box-sizing:border-box; font-weight:700">Mega solar 5MW plant in Jodhpur, Rajasthan</strong></p>
+
+<p style="box-sizing:border-box; font-family:Montserrat,&quot;Helvetica Neue&quot;,Helvetica,Arial,sans-serif; font-size:14px; letter-spacing:1px; margin-bottom:10px; margin-left:0px; margin-right:0px; margin-top:10px; text-align:justify">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;<img alt="" src="https://seci.co.in/other-page/3/web-data/images/grid_connected_pv2.jpg" style="border:0px; box-sizing:border-box; height:143px; vertical-align:middle; width:222px" /></p>
+
+<p style="box-sizing:border-box; font-family:Montserrat,&quot;Helvetica Neue&quot;,Helvetica,Arial,sans-serif; font-size:14px; letter-spacing:1px; margin-bottom:10px; margin-left:0px; margin-right:0px; margin-top:10px; text-align:justify"><strong style="box-sizing:border-box; font-weight:700">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Courtesy: MNRE</strong></p>
+
+<ul style="box-sizing:border-box; font-family:Montserrat,&quot;Helvetica Neue&quot;,Helvetica,Arial,sans-serif; font-size:14px; margin-bottom:10px; margin-left:0px; margin-right:0px; margin-top:10px; padding-left:0px; padding-right:0px">
+	<li style="box-sizing: border-box; margin: 10px 0px 10px 25px;"><strong style="box-sizing:border-box; font-weight:700">Solar Power Projects:&nbsp;</strong></li>
+</ul>
+
+<p style="box-sizing:border-box; font-family:Montserrat,&quot;Helvetica Neue&quot;,Helvetica,Arial,sans-serif; font-size:14px; letter-spacing:1px; margin-bottom:10px; margin-left:35.45pt; margin-right:0px; margin-top:10px; text-align:justify">SECI is going to implement a 10 MW Solar plant at Madhya Pradesh, out of the remaining capacity of JNNSM Phase I under the bundling scheme.&nbsp;</p>
+
+<p style="box-sizing:border-box; font-family:Montserrat,&quot;Helvetica Neue&quot;,Helvetica,Arial,sans-serif; font-size:14px; letter-spacing:1px; margin-bottom:10px; margin-left:0px; margin-right:0px; margin-top:10px; text-align:justify">ii) Rooftop PV</p>
+
+<p style="box-sizing:border-box; font-family:Montserrat,&quot;Helvetica Neue&quot;,Helvetica,Arial,sans-serif; font-size:14px; letter-spacing:1px; margin-bottom:10px; margin-left:35.45pt; margin-right:0px; margin-top:10px; text-align:justify">Roof-top solar PV installations are becoming a popular green energy option for not only meeting own electricity load but also injecting surplus generation into the grid. &nbsp;Schools, hospitals, storehouses, bus stations, railway stations etc.provide ample spaces to set up PV projects. There is a high possibility of natural load-generation balance if roof-top PV solar systems are installed.</p>
+
+<p style="box-sizing:border-box; font-family:Montserrat,&quot;Helvetica Neue&quot;,Helvetica,Arial,sans-serif; font-size:14px; letter-spacing:1px; margin-bottom:10px; margin-left:35.45pt; margin-right:0px; margin-top:10px; text-align:justify">&nbsp;</p>
+
+<p>&nbsp;</p>
+
+<p><strong style="box-sizing:border-box; color:#428bca; font-family:montserrat,helvetica neue,helvetica,arial,sans-serif; font-size:30px; font-weight:700; margin-bottom:10px">Grid Connected Rooftop PV</strong></p>
+
+<p>&nbsp;</p>
+
+<p style="box-sizing:border-box; font-family:Montserrat,&quot;Helvetica Neue&quot;,Helvetica,Arial,sans-serif; font-size:14px; letter-spacing:1px; margin-bottom:10px; margin-left:0px; margin-right:0px; margin-top:10px; text-align:justify">SECI has been entrusted by MNRE for implementation of a Large scale Grid connected Rooftop pilot projects, with 30% subsidy support from National Clean Energy Fund (NCEF). This programme is being successfully implemented across 16 big and small cities, and projects for around 19.00 MW have been sanctioned in 3 phases.</p>
+
+<p style="box-sizing:border-box; font-family:Montserrat,&quot;Helvetica Neue&quot;,Helvetica,Arial,sans-serif; font-size:14px; letter-spacing:1px; margin-bottom:10px; margin-left:0px; margin-right:0px; margin-top:10px; text-align:justify">Out of this, projects of capacity around 14.8 MW have been completed.</p>
+
+<p style="box-sizing:border-box; font-family:Montserrat,&quot;Helvetica Neue&quot;,Helvetica,Arial,sans-serif; font-size:14px; letter-spacing:1px; margin-bottom:10px; margin-left:0px; margin-right:0px; margin-top:10px; text-align:justify">4th&nbsp;phase (of 50 MW) is also under execution. 13.4MW have been sanctioned in the 4th phase.</p>
+
+<p style="box-sizing:border-box; font-family:Montserrat,&quot;Helvetica Neue&quot;,Helvetica,Arial,sans-serif; font-size:14px; letter-spacing:1px; margin-bottom:10px; margin-left:0px; margin-right:0px; margin-top:10px; text-align:justify"><img alt="grid_connected_rooftop_pv" src="https://seci.co.in/images/grid_connected_rooftop_pv1.jpg" style="border:0px; box-sizing:border-box; height:217px; vertical-align:middle; width:500px" /></p>
+
+<h2 style="box-sizing:border-box; font-family:Montserrat,&quot;Helvetica Neue&quot;,Helvetica,Arial,sans-serif; font-size:20px; font-weight:bold; letter-spacing:1px; line-height:1.1; margin-bottom:8px; margin-left:0px; margin-right:0px; margin-top:8px">Grid Connected Rooftop PV Programme: Documents and relevant Notifications</h2>
+
+<h3 style="box-sizing:border-box; font-family:Montserrat,&quot;Helvetica Neue&quot;,Helvetica,Arial,sans-serif; font-size:19px; font-weight:bold; letter-spacing:1px; line-height:1.1; margin-bottom:6px; margin-left:0px; margin-right:0px; margin-top:6px"><a href="/upload/static/files/Rooftop%20Model%20Tender%20document(1).pdf" style="box-sizing: border-box; background: 0px 0px; color: rgb(66, 139, 202); text-decoration-line: none; margin: 0px; transition: all 0.5s ease 0s;" target="_blank" title="Model tender document / guidelines for Urban Local Bodies / DISCOMs for implementing grid connected rooftop SPV systems">Model tender document / guidelines for Urban Local Bodies / DISCOMs for implementing grid connected rooftop SPV systems<img alt="" border="0" src="https://seci.co.in/other-page/3/images/pdf_icon.png" style="border:0px; box-sizing:border-box; height:16px; vertical-align:middle; width:12px" /></a></h3>
+
+<h2 style="box-sizing:border-box; font-family:Montserrat,&quot;Helvetica Neue&quot;,Helvetica,Arial,sans-serif; font-size:20px; font-weight:bold; letter-spacing:1px; line-height:1.1; margin-bottom:8px; margin-left:0px; margin-right:0px; margin-top:8px"><u style="box-sizing:border-box">Phase I</u></h2>
+
+<p style="box-sizing:border-box; font-family:Montserrat,&quot;Helvetica Neue&quot;,Helvetica,Arial,sans-serif; font-size:14px; letter-spacing:1px; margin-bottom:10px; margin-left:0px; margin-right:0px; margin-top:10px; text-align:justify"><a href="/upload/static/files/521b16fc2a160NotificationofsuccessfulbiddersforrooftopprojectsphaseII.pdf" style="box-sizing: border-box; background: 0px 0px; color: rgb(66, 139, 202); text-decoration-line: none; margin: 0px; transition: all 0.5s ease 0s;" target="_blank" title="&lt;font color=">Allocation of Rooftop PV Projects (Phase-II); Notification to successful bidders<img alt="image" src="https://seci.co.in/images/pdf_icon.png" style="border:0px solid; box-sizing:border-box; vertical-align:middle" /></a></p>
+
+<h2 style="box-sizing:border-box; font-family:Montserrat,&quot;Helvetica Neue&quot;,Helvetica,Arial,sans-serif; font-size:20px; font-weight:bold; letter-spacing:1px; line-height:1.1; margin-bottom:8px; margin-left:0px; margin-right:0px; margin-top:8px"><u style="box-sizing:border-box">Phase II</u></h2>
+
+<p style="box-sizing:border-box; font-family:Montserrat,&quot;Helvetica Neue&quot;,Helvetica,Arial,sans-serif; font-size:14px; letter-spacing:1px; margin-bottom:10px; margin-left:0px; margin-right:0px; margin-top:10px; text-align:justify"><a href="/upload/static/files/521b16fc2a160NotificationofsuccessfulbiddersforrooftopprojectsphaseII.pdf" style="box-sizing: border-box; background: 0px 0px; color: rgb(66, 139, 202); text-decoration-line: none; margin: 0px; transition: all 0.5s ease 0s;" target="_blank" title="&lt;font color=">Notification of Successful Bidders for Allocation of Roof Top PV Projects in Selected Cities/States-Phase-II<img alt="image" border="0" src="https://seci.co.in/images/pdf_icon.png" style="border:0px; box-sizing:border-box; vertical-align:middle" /></a></p>
+
+<h2 style="box-sizing:border-box; font-family:Montserrat,&quot;Helvetica Neue&quot;,Helvetica,Arial,sans-serif; font-size:20px; font-weight:bold; letter-spacing:1px; line-height:1.1; margin-bottom:8px; margin-left:0px; margin-right:0px; margin-top:8px"><u style="box-sizing:border-box">Phase III</u></h2>
+
+<p style="box-sizing:border-box; font-family:Montserrat,&quot;Helvetica Neue&quot;,Helvetica,Arial,sans-serif; font-size:14px; letter-spacing:1px; margin-bottom:10px; margin-left:0px; margin-right:0px; margin-top:10px; text-align:justify"><a href="/upload/static/files/5232e24cdea97RFSFORROOFTOPPVSYSTEMPHASEIII.pdf" style="box-sizing: border-box; background: 0px 0px; color: rgb(66, 139, 202); text-decoration-line: none; margin: 0px; transition: all 0.5s ease 0s;" target="_blank" title="&lt;font color=">RFS for Implementation of Grid Connected Roof Top Solar PV System Schemes in Selected Cities/States in India (PHASE-III)<img alt="image" border="0" src="https://seci.co.in/images/pdf_icon.png" style="border:0px; box-sizing:border-box; vertical-align:middle" /></a></p>
+
+<p style="box-sizing:border-box; font-family:Montserrat,&quot;Helvetica Neue&quot;,Helvetica,Arial,sans-serif; font-size:14px; letter-spacing:1px; margin-bottom:10px; margin-left:0px; margin-right:0px; margin-top:10px; text-align:justify"><a href="/upload/static/files/525543cacd314Amendment1toRooftopPhaseIIIdated09_10_2013.pdf" style="box-sizing: border-box; background: 0px 0px; color: rgb(66, 139, 202); text-decoration-line: none; margin: 0px; transition: all 0.5s ease 0s;" target="_blank" title="&lt;font color=">Amendment-1 to RfS for Grid connected Rooftop Solar PV Projects (Phase-III)<img alt="image" border="0" src="https://seci.co.in/images/pdf_icon.png" style="border:0px; box-sizing:border-box; vertical-align:middle" /></a></p>
+
+<p style="box-sizing:border-box; font-family:Montserrat,&quot;Helvetica Neue&quot;,Helvetica,Arial,sans-serif; font-size:14px; letter-spacing:1px; margin-bottom:10px; margin-left:0px; margin-right:0px; margin-top:10px; text-align:justify"><a href="/upload/static/files/52a86919ea66cRTPVPhaseIII.pdf" style="box-sizing: border-box; background: 0px 0px; color: rgb(66, 139, 202); text-decoration-line: none; margin: 0px; transition: all 0.5s ease 0s;" target="_blank" title="&lt;font color=">Notification of Successful Bidders for Allocation of Roof Top PV Projects in Phase-III<img alt="image" border="0" src="https://seci.co.in/images/pdf_icon.png" style="border:0px; box-sizing:border-box; vertical-align:middle" /></a></p>
+
+<h2 style="box-sizing:border-box; font-family:Montserrat,&quot;Helvetica Neue&quot;,Helvetica,Arial,sans-serif; font-size:20px; font-weight:bold; letter-spacing:1px; line-height:1.1; margin-bottom:8px; margin-left:0px; margin-right:0px; margin-top:8px"><a href="/upload/static/files/Status%20of%20subsidies%20released%20to%20vendors%20under%2026%206%20MWp%20scheme_07_09_15.pdf" style="box-sizing: border-box; background: 0px 0px; color: rgb(66, 139, 202); text-decoration-line: none; margin: 0px; transition: all 0.5s ease 0s;" target="_blank" title="Status of Subsidies- 26.6 MWp Scheme-Updated on 07-09-2015">Status of Subsidies- 26.6 MWp Scheme-Updated on 07-09-2015<img alt="" border="0" src="https://seci.co.in/other-page/3/images/pdf_icon.png" style="border:0px; box-sizing:border-box; height:16px; vertical-align:middle; width:12px" /></a></h2>
+
+<h2 style="box-sizing:border-box; font-family:Montserrat,&quot;Helvetica Neue&quot;,Helvetica,Arial,sans-serif; font-size:20px; font-weight:bold; letter-spacing:1px; line-height:1.1; margin-bottom:8px; margin-left:0px; margin-right:0px; margin-top:8px"><u style="box-sizing:border-box">Phase IV</u></h2>
+
+<p style="box-sizing:border-box; font-family:Montserrat,&quot;Helvetica Neue&quot;,Helvetica,Arial,sans-serif; font-size:14px; letter-spacing:1px; margin-bottom:10px; margin-left:0px; margin-right:0px; margin-top:10px; text-align:justify"><a href="/upload/static/files/53306bca9c91eRFSFORROOFTOPPHASEIV24032014FINAL.pdf" style="box-sizing: border-box; background: 0px 0px; color: rgb(66, 139, 202); text-decoration-line: none; margin: 0px; transition: all 0.5s ease 0s;" target="_blank" title="&lt;font color=">Request for Selection (RFS) for Implementation of Grid connected Roof Top Solar PV System Scheme in selected Cities/States in India (Phase-IV)<img alt="image" border="0" src="https://seci.co.in/images/pdf_icon.png" style="border:0px; box-sizing:border-box; vertical-align:middle" /></a></p>
+
+<p style="box-sizing:border-box; font-family:Montserrat,&quot;Helvetica Neue&quot;,Helvetica,Arial,sans-serif; font-size:14px; letter-spacing:1px; margin-bottom:10px; margin-left:0px; margin-right:0px; margin-top:10px; text-align:justify"><a href="/upload/static/files/5349cec82d92aRoofTopPhaseIVClarificationsandAmendmentsFinal.pdf" style="box-sizing: border-box; background: 0px 0px; color: rgb(66, 139, 202); text-decoration-line: none; margin: 0px; transition: all 0.5s ease 0s;" target="_blank" title="&lt;font color=">Amendments No-1 to RFS No. SECI/Cont./SRT-IV/70/2014 dated 24-03-2014 for Implementation of Grid Connected Roof Top (Phase-IV)<img alt="image" border="0" src="https://seci.co.in/images/pdf_icon.png" style="border:0px; box-sizing:border-box; vertical-align:middle" /></a></p>
+
+<p style="box-sizing:border-box; font-family:Montserrat,&quot;Helvetica Neue&quot;,Helvetica,Arial,sans-serif; font-size:14px; letter-spacing:1px; margin-bottom:10px; margin-left:0px; margin-right:0px; margin-top:10px; text-align:justify"><a href="/upload/static/files/534fdebd8fb08RTPhaseIVAmendmentsII.pdf" style="box-sizing: border-box; background: 0px 0px; color: rgb(66, 139, 202); text-decoration-line: none; margin: 0px; transition: all 0.5s ease 0s;" target="_blank" title="&lt;font color=">Amendments No-2 to Tender for Implementation of Grid Connected Roof Top Solar PV System scheme in selected cities/states in India (Phase-IV)<img alt="image" border="0" src="https://seci.co.in/images/pdf_icon.png" style="border:0px; box-sizing:border-box; vertical-align:middle" /></a></p>
+
+<p style="box-sizing:border-box; font-family:Montserrat,&quot;Helvetica Neue&quot;,Helvetica,Arial,sans-serif; font-size:14px; letter-spacing:1px; margin-bottom:10px; margin-left:0px; margin-right:0px; margin-top:10px; text-align:justify"><a href="/upload/static/files/535e535a94a7eRTPhaseIVAmendmentsIII.pdf" style="box-sizing: border-box; background: 0px 0px; color: rgb(66, 139, 202); text-decoration-line: none; margin: 0px; transition: all 0.5s ease 0s;" target="_blank" title="&lt;font color=">Amendments No-3 to tender for Implementation of Grid Connected Roof Top Solar PV System scheme in selected cities/states in India (Phase-IV)<img alt="image" border="0" src="https://seci.co.in/images/pdf_icon.png" style="border:0px; box-sizing:border-box; vertical-align:middle" /></a></p>
+
+<p style="box-sizing:border-box; font-family:Montserrat,&quot;Helvetica Neue&quot;,Helvetica,Arial,sans-serif; font-size:14px; letter-spacing:1px; margin-bottom:10px; margin-left:0px; margin-right:0px; margin-top:10px; text-align:justify"><a href="/upload/static/files/53626f22aecf5RooftopPhaseIVClarificationsII.pdf" style="background: 0px 0px; box-sizing: border-box; color: rgb(66, 139, 202); text-decoration-line: none; margin: 0px; transition: all 0.5s ease 0s;" target="_blank" title="&lt;font color=">Clarification No-2 to tender for Implementation of Grid Connected Roof Top Solar PV System scheme in selected cities/states in India (Phase-IV)<img alt="image" border="0" src="https://seci.co.in/images/pdf_icon.png" style="border:0px; box-sizing:border-box; vertical-align:middle" /></a></p>
+
+<p style="box-sizing:border-box; font-family:Montserrat,&quot;Helvetica Neue&quot;,Helvetica,Arial,sans-serif; font-size:14px; letter-spacing:1px; margin-bottom:10px; margin-left:0px; margin-right:0px; margin-top:10px; text-align:justify"><a href="/upload/static/files/53c39fb099ffbNotificationtoMatchtheL1pricewebsite.pdf" style="box-sizing: border-box; background: 0px 0px; color: rgb(66, 139, 202); text-decoration-line: none; margin: 0px; transition: all 0.5s ease 0s;" target="_blank" title="&lt;font color=">Roof Top Ph IV Notification of the L1 bidders of different States in Part-A and Part-B for price matching by L2, L3,L4... and so on.<img alt="image" border="0" src="https://seci.co.in/images/pdf_icon.png" style="border:0px; box-sizing:border-box; vertical-align:middle" /></a></p>
+
+<p style="box-sizing:border-box; font-family:Montserrat,&quot;Helvetica Neue&quot;,Helvetica,Arial,sans-serif; font-size:14px; letter-spacing:1px; margin-bottom:10px; margin-left:0px; margin-right:0px; margin-top:10px; text-align:justify"><a href="/upload/static/files/5421488fa463fNotificationofSuccessfulBidderforRooftopPhaseIVPartA.pdf" style="box-sizing: border-box; background: 0px 0px; color: rgb(66, 139, 202); text-decoration-line: none; margin: 0px; transition: all 0.5s ease 0s;" target="_blank" title="&lt;font color=">Notification of Succesful Bidders for allocation of Roof Top PV Projects under Part A- Phase IV<img alt="image" border="0" src="https://seci.co.in/images/pdf_icon.png" style="border:0px; box-sizing:border-box; vertical-align:middle" /></a></p>
+
+<p style="box-sizing:border-box; font-family:Montserrat,&quot;Helvetica Neue&quot;,Helvetica,Arial,sans-serif; font-size:14px; letter-spacing:1px; margin-bottom:10px; margin-left:0px; margin-right:0px; margin-top:10px; text-align:justify"><a href="/upload/static/files/5461ceb21f8ceNotificationforRESCOModelPhaseIV.pdf" style="box-sizing: border-box; background: 0px 0px; color: rgb(66, 139, 202); text-decoration-line: none; margin: 0px; transition: all 0.5s ease 0s;" target="_blank" title="&lt;font color=">Notification of Successful Bidders under RESCO Model: Roof TOp Grid Connected PV projects under Part B- Phase IV<img alt="image" border="0" src="https://seci.co.in/images/pdf_icon.png" style="border:0px; box-sizing:border-box; vertical-align:middle" /></a></p>
+
+<p style="box-sizing:border-box; font-family:Montserrat,&quot;Helvetica Neue&quot;,Helvetica,Arial,sans-serif; font-size:14px; letter-spacing:1px; margin-bottom:10px; margin-left:0px; margin-right:0px; margin-top:10px; text-align:justify"><strong style="box-sizing:border-box; font-weight:700"><a href="/upload/static/files/Status%20of%20subsidies%20as%20on%2031092015%20-32_5%20MWp%20Capacity%20(Phase%20IV-Part%20I).pdf" style="box-sizing: border-box; background: 0px 0px; color: rgb(66, 139, 202); text-decoration-line: none; margin: 0px; transition: all 0.5s ease 0s;" target="_blank" title="Status of Subsidies- 32.5 MWp Capacity (Phase IV-Part I)-Updated on 31-09-2015">Status of Subsidies- 32.5 MWp Capacity (Phase IV-Part I)-Updated on 31-09-2015<img alt="" border="0" src="https://seci.co.in/other-page/3/images/pdf_icon.png" style="border:0px; box-sizing:border-box; height:16px; vertical-align:middle; width:12px" /></a></strong></p>
+
+<h2 style="box-sizing:border-box; font-family:Montserrat,&quot;Helvetica Neue&quot;,Helvetica,Arial,sans-serif; font-size:20px; font-weight:bold; letter-spacing:1px; line-height:1.1; margin-bottom:8px; margin-left:0px; margin-right:0px; margin-top:8px"><u style="box-sizing:border-box">Phase IV - Part II</u></h2>
+
+<p style="box-sizing:border-box; font-family:Montserrat,&quot;Helvetica Neue&quot;,Helvetica,Arial,sans-serif; font-size:14px; letter-spacing:1px; margin-bottom:10px; margin-left:0px; margin-right:0px; margin-top:10px; text-align:justify"><a href="/upload/static/files/Subsidy%20disbursement%20Status-50%20MWp%20Scheme31Jan17.pdf" style="box-sizing: border-box; background: 0px 0px; color: rgb(66, 139, 202); text-decoration-line: none; margin: 0px; transition: all 0.5s ease 0s;" target="_blank">Subsidy disbursement Status-50 MWp Scheme31Jan17</a></p>
+
+<p style="box-sizing:border-box; font-family:Montserrat,&quot;Helvetica Neue&quot;,Helvetica,Arial,sans-serif; font-size:14px; letter-spacing:1px; margin-bottom:10px; margin-left:0px; margin-right:0px; margin-top:10px; text-align:justify"><a href="/upload/static/files/Subsidy%20disbursement%20Status-26_6%20MWp%20Scheme%20-%2031-01-17.pdf" style="box-sizing: border-box; background: 0px 0px; color: rgb(66, 139, 202); text-decoration-line: none; margin: 0px; transition: all 0.5s ease 0s;" target="_blank">Subsidy disbursement Status-26.6 MWp Scheme - 31-01-17</a></p>
+
+<p style="box-sizing:border-box; font-family:Montserrat,&quot;Helvetica Neue&quot;,Helvetica,Arial,sans-serif; font-size:14px; letter-spacing:1px; margin-bottom:10px; margin-left:0px; margin-right:0px; margin-top:10px; text-align:justify"><a href="/upload/static/files/Subsidy%20disbursement%20Status-24%20MWp%20Scheme_31Jan17.pdf" style="box-sizing: border-box; background: 0px 0px; color: rgb(66, 139, 202); text-decoration-line: none; margin: 0px; transition: all 0.5s ease 0s;" target="_blank">Subsidy disbursement Status-24 MWp Scheme_31Jan17</a></p>
+
+<p style="box-sizing:border-box; font-family:Montserrat,&quot;Helvetica Neue&quot;,Helvetica,Arial,sans-serif; font-size:14px; letter-spacing:1px; margin-bottom:10px; margin-left:0px; margin-right:0px; margin-top:10px; text-align:justify"><a href="/upload/static/files/54f0646955dc4RFSFORROOFTOPPHIVPart2CAPEXTENDER27_02_2015.pdf" style="box-sizing: border-box; background: 0px 0px; color: rgb(66, 139, 202); text-decoration-line: none; margin: 0px; transition: all 0.5s ease 0s;" target="_blank" title="RfS for Grid Connected Roof Top Solar PV (Ph IV Part 2) &amp; Empanelment of Applicants">RfS for Grid Connected Roof Top Solar PV (Ph IV Part 2) &amp; Empanelment of Applicants<img alt="image" border="0" src="https://seci.co.in/images/pdf_icon.png" style="border:0px; box-sizing:border-box; vertical-align:middle" /></a></p>
+
+<p style="box-sizing:border-box; font-family:Montserrat,&quot;Helvetica Neue&quot;,Helvetica,Arial,sans-serif; font-size:14px; letter-spacing:1px; margin-bottom:10px; margin-left:0px; margin-right:0px; margin-top:10px; text-align:justify"><a href="/upload/static/files/550a62debd305AmendmentNo1clarificationtoRFSIVPart2prebidquerries.pdf" style="box-sizing: border-box; background: 0px 0px; color: rgb(66, 139, 202); text-decoration-line: none; margin: 0px; transition: all 0.5s ease 0s;" target="_blank" title="Amendment No - 1 and Clarification to Grid Cnnected Rooftop solar PV RFS Ph-IV, Part-2 ">Amendment No - 1 and Clarification to Grid Cnnected Rooftop solar PV RFS Ph-IV, Part-2&nbsp;<img alt="image" border="0" src="https://seci.co.in/images/pdf_icon.png" style="border:0px; box-sizing:border-box; vertical-align:middle" /></a></p>
+
+<p style="box-sizing:border-box; font-family:Montserrat,&quot;Helvetica Neue&quot;,Helvetica,Arial,sans-serif; font-size:14px; letter-spacing:1px; margin-bottom:10px; margin-left:0px; margin-right:0px; margin-top:10px; text-align:justify"><a href="/upload/static/files/55113c7db6bd3AmendmentNo2toRFSPhaseIVPart2.pdf" style="box-sizing: border-box; background: 0px 0px; color: rgb(66, 139, 202); text-decoration-line: none; margin: 0px; transition: all 0.5s ease 0s;" target="_blank" title="Amendment No - 2 to Grid Cnnected Rooftop solar PV RFS Ph-IV, Part-2 ">Amendment No - 2 to Grid Cnnected Rooftop solar PV RFS Ph-IV, Part-2&nbsp;<img alt="image" border="0" src="https://seci.co.in/images/pdf_icon.png" style="border:0px; box-sizing:border-box; vertical-align:middle" /></a></p>
+
+<p style="box-sizing:border-box; font-family:Montserrat,&quot;Helvetica Neue&quot;,Helvetica,Arial,sans-serif; font-size:14px; letter-spacing:1px; margin-bottom:10px; margin-left:0px; margin-right:0px; margin-top:10px; text-align:justify"><a href="/upload/static/files/5511390336e78AmendmentNo2toRFSPhaseIVPart2.pdf" style="box-sizing: border-box; background: 0px 0px; color: rgb(66, 139, 202); text-decoration-line: none; margin: 0px; transition: all 0.5s ease 0s;" target="_blank" title="Amendment No - 2 to Grid Cnnected Rooftop solar PV RFS Ph-IV, Part-2 ">Amendment No - 2 to Grid Cnnected Rooftop solar PV RFS Ph-IV, Part-2&nbsp;<img alt="image" border="0" src="https://seci.co.in/images/pdf_icon.png" style="border:0px; box-sizing:border-box; vertical-align:middle" /></a></p>
+
+<p style="box-sizing:border-box; font-family:Montserrat,&quot;Helvetica Neue&quot;,Helvetica,Arial,sans-serif; font-size:14px; letter-spacing:1px; margin-bottom:10px; margin-left:0px; margin-right:0px; margin-top:10px; text-align:justify"><u style="box-sizing:border-box"><a href="/upload/static/files/55a7a82d918b7NotificationtobiddersforMatchingofL1PriceforRooftopPhaseIVPart2.pdf" style="box-sizing: border-box; background: 0px 0px; color: rgb(66, 139, 202); text-decoration-line: none; margin: 0px; transition: all 0.5s ease 0s;" target="_blank" title="Notification to bidders for Matching of L1 Price for Rooftop Phase-IV-Part-2">Notification to bidders for Matching of L1 Price for Rooftop Phase-IV-Part-2<img alt="image" border="0" src="https://seci.co.in/images/pdf_icon.png" style="border:0px; box-sizing:border-box; vertical-align:middle" /></a></u></p>
+
+<h2 style="box-sizing:border-box; font-family:Montserrat,&quot;Helvetica Neue&quot;,Helvetica,Arial,sans-serif; font-size:20px; font-weight:bold; letter-spacing:1px; line-height:1.1; margin-bottom:8px; margin-left:0px; margin-right:0px; margin-top:8px"><u style="box-sizing:border-box">73-MW Scheme for Warehouse</u></h2>
+
+<p style="box-sizing:border-box; font-family:Montserrat,&quot;Helvetica Neue&quot;,Helvetica,Arial,sans-serif; font-size:14px; letter-spacing:1px; margin-bottom:10px; margin-left:0px; margin-right:0px; margin-top:10px; text-align:justify"><a href="/upload/static/files/552fe99b6f650RFSFORROOFTOPWAREHOUSESCHEME16042015.pdf" style="box-sizing: border-box; background: 0px 0px; color: rgb(66, 139, 202); text-decoration-line: none; margin: 0px; transition: all 0.5s ease 0s;" target="_blank" title="RFS for Grid Connected Solar Rooftop PV in Warehouses in selected states in India">RFS for Grid Connected Solar Rooftop PV in Warehouses in selected states in India<img alt="image" border="0" src="https://seci.co.in/images/pdf_icon.png" style="border:0px; box-sizing:border-box; vertical-align:middle" /></a></p>
+
+<p style="box-sizing:border-box; font-family:Montserrat,&quot;Helvetica Neue&quot;,Helvetica,Arial,sans-serif; font-size:14px; letter-spacing:1px; margin-bottom:10px; margin-left:0px; margin-right:0px; margin-top:10px; text-align:justify"><a href="/upload/static/files/555373ba4395aFinalAmendmentClarificationsforRooftopWarehouseScheme13052015final.pdf" style="box-sizing: border-box; background: 0px 0px; color: rgb(66, 139, 202); text-decoration-line: none; margin: 0px; transition: all 0.5s ease 0s;" target="_blank" title="Amendment-01 to RFS for Grid connected Rooftop PV in Warehouses in selected states">Amendment-01 to RFS for Grid connected Rooftop PV in Warehouses in selected states<img alt="image" border="0" src="https://seci.co.in/images/pdf_icon.png" style="border:0px; box-sizing:border-box; vertical-align:middle" /></a></p>
+
+<p style="box-sizing:border-box; font-family:Montserrat,&quot;Helvetica Neue&quot;,Helvetica,Arial,sans-serif; font-size:14px; letter-spacing:1px; margin-bottom:10px; margin-left:0px; margin-right:0px; margin-top:10px; text-align:justify"><a href="/upload/static/files/5576af4ec1193Extensionoflastdateofbidsubmission.pdf" style="background: 0px 0px; box-sizing: border-box; color: rgb(66, 139, 202); text-decoration-line: none; margin: 0px; transition: all 0.5s ease 0s;" target="_blank" title="Extension of Last date for submission of Bids for 73 MW Roof Top Warehouse Scheme in selected states">Extension of Last date for submission of Bids for 73 MW Roof Top Warehouse Scheme in selected states<img alt="image" border="0" src="https://seci.co.in/images/pdf_icon.png" style="border:0px; box-sizing:border-box; vertical-align:middle" /></a></p>
+
+<p style="box-sizing:border-box; font-family:Montserrat,&quot;Helvetica Neue&quot;,Helvetica,Arial,sans-serif; font-size:14px; letter-spacing:1px; margin-bottom:10px; margin-left:0px; margin-right:0px; margin-top:10px; text-align:justify"><a href="/upload/static/files/55afa5dedbeefAmendmentNo2forRooftopWarehouseScheme.pdf" style="box-sizing: border-box; background: 0px 0px; color: rgb(66, 139, 202); text-decoration-line: none; margin: 0px; transition: all 0.5s ease 0s;" target="_blank" title="Amendments No-2 to RFS for implementation of Grid Connected Roof Top Warehouse Scheme">Amendments No-2 to RFS for implementation of Grid Connected Roof Top Warehouse Scheme<img alt="image" src="https://seci.co.in/images/pdf_icon.png" style="border:0px; box-sizing:border-box; vertical-align:middle" /></a></p>
+
+<p style="box-sizing:border-box; font-family:Montserrat,&quot;Helvetica Neue&quot;,Helvetica,Arial,sans-serif; font-size:14px; letter-spacing:1px; margin-bottom:10px; margin-left:0px; margin-right:0px; margin-top:10px; text-align:justify"><a href="/upload/static/files/55bb1ea6d0687Extensionoflastdateforsubmissionofbidsfor73MWRooftopsolarPVwarehouseschemeupto14082015at2_30p_m (1).pdf" style="box-sizing: border-box; background: 0px 0px; color: rgb(66, 139, 202); text-decoration-line: none; margin: 0px; transition: all 0.5s ease 0s;" target="_blank" title="Extension of last date for submission of Bids for 73MW Rooftop Solar PV Warehouse scheme">Extension of last date for submission of Bids for 73MW Rooftop Solar PV Warehouse scheme<img alt="image" src="https://seci.co.in/images/pdf_icon.png" style="border:0px; box-sizing:border-box; height:16px; vertical-align:middle; width:12px" /></a></p>
+
+<h2 style="box-sizing:border-box; font-family:Montserrat,&quot;Helvetica Neue&quot;,Helvetica,Arial,sans-serif; font-size:20px; font-weight:bold; letter-spacing:1px; line-height:1.1; margin-bottom:8px; margin-left:0px; margin-right:0px; margin-top:8px"><u style="box-sizing:border-box">50 MW Scheme for CPWD</u></h2>
+
+<p style="box-sizing:border-box; font-family:Montserrat,&quot;Helvetica Neue&quot;,Helvetica,Arial,sans-serif; font-size:14px; letter-spacing:1px; margin-bottom:10px; margin-left:0px; margin-right:0px; margin-top:10px; text-align:justify"><a href="/upload/static/files/55f025b1187dbRoofTopTenderonCPWD.pdf" style="box-sizing: border-box; background: 0px 0px; color: rgb(66, 139, 202); text-decoration-line: none; margin: 0px; transition: all 0.5s ease 0s;" target="_blank" title="50 MW - Roof Top Tender on CPWD">50 MW - Roof Top Tender on CPWD<img alt="image" border="0" src="https://seci.co.in/images/pdf_icon.png" style="border:0px; box-sizing:border-box; vertical-align:middle" /></a></p>
+
+<p style="box-sizing:border-box; font-family:Montserrat,&quot;Helvetica Neue&quot;,Helvetica,Arial,sans-serif; font-size:14px; letter-spacing:1px; margin-bottom:10px; margin-left:0px; margin-right:0px; margin-top:10px; text-align:justify"><a href="/upload/static/files/55f80fbb4d8e7CorrigendaNo1onCPWDtender.pdf" style="box-sizing: border-box; background: 0px 0px; color: rgb(66, 139, 202); text-decoration-line: none; margin: 0px; transition: all 0.5s ease 0s;" target="_blank" title="Corrigendum No-1 to tender for Implementation of Grid Connected Roof Top Scheme on the Roofs of CPWD">Corrigendum No-1 to tender for Implementation of Grid Connected Roof Top Scheme on the Roofs of CPWD<img alt="image" border="0" src="https://seci.co.in/images/pdf_icon.png" style="border:0px; box-sizing:border-box; vertical-align:middle" /></a></p>
+
+<h2 style="box-sizing:border-box; font-family:Montserrat,&quot;Helvetica Neue&quot;,Helvetica,Arial,sans-serif; font-size:20px; font-weight:bold; letter-spacing:1px; line-height:1.1; margin-bottom:8px; margin-left:0px; margin-right:0px; margin-top:8px">&nbsp;</h2>
+
+<p><strong style="box-sizing:border-box; color:#428bca; font-family:montserrat,helvetica neue,helvetica,arial,sans-serif; font-size:30px; font-weight:700; margin-bottom:10px">Off-grid PV</strong></p>
+
+<p>&nbsp;</p>
+
+<p>Lack of access to modern forms of energy in the rural areas is a major barrier to inclusive growth of the country. Large numbers of households use kerosene for cooking and lighting requirements. JNNSM Phase II has envisaged to give a major thrust to off-grid solar power applications in areas where grid has not reached, or the areas where electricity supply is poor. SECI plans to focus on Solar off grid generating systems, solar home lighting systems and various other forms of solar based heating/cooling/thermal applications in domestic, commercial and industrial segments, in line with the Phase II targets.&nbsp;</p>
+
+<p>Title: 1 kWp Solar Power Plant in Manipur</p>
+
+<p>&nbsp;</p>
+
+<p>Courtesy: MNRE</p>
+
+<p>Low Cost Solar Lanterns<br />
+Solar lanterns are increasingly finding applications in the rural areas for lighting purpose with key features such as LEDs, mobile charging, battery back-up etc.&nbsp; However, the prices of such lanterns continue to be prohibitively high for the rural population and thus out of their reach. Solar lanterns can be immensely useful, particularly for children&rsquo;s study besides household and other economic activities. They have a huge potential to replace current use of kerosene lamps, thus can contribute towards significant reduction in subsidy burden on this account. Solar lanterns are pollution-free and environment-friendly.&nbsp;</p>
+
+<p>With a view to safeguard customers from spurious and unreliable products flooding the market and to have competitive pressure on high prices so as to achieve large scale rapid diffusion of solar lanterns in the rural areas across the country, SECI has embarked on development of 6 Lakh robust and efficient solar lanterns for distribution in the rural areas of the country. The Lanterns are currently being manufactured.&nbsp;&nbsp;</p>
+
+<p>&nbsp; &nbsp; &nbsp;&nbsp;</p>
+
+<p>Solar Street Lights<br />
+Solar Street Lighting Systems are solar powered photovoltaic modules that convert sunlight directly into electricity in the day time, which is stored in a battery and is used for the purpose of street-lighting during the night.&nbsp;</p>
+
+<p>Many organizations/agencies have been approached for getting the solar street lights installed in various parts of the country. SECI would be undertaking these projects in a competitive manner through EPC contracts. Both stand-alone and centralized PV-based systems would be implemented.</p>
+
+<p>SECI has implemented the installation of 400 solar street lights in Jharkhand, being funded under the CSR activities of PFC. The streetlights have already been installed.</p>
+
+<p>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</p>
+
+<p>Micro/Mini Grid for Village electrification<br />
+Microgrids are modern, small-scale versions of the centralized electricity system. They are very effective for achievement of community-level electrification in remote areas, using renewable energy sources and have a low carbon footprint. Microgrids generate, distribute, and regulate the flow of electricity to consumers locally. Microgrids are an idealway to integrate various renewable resources and allow for community participation in the electricity enterprise.&nbsp;</p>
+
+<p>SECI is implementing mini/micro grid projects (consisting of 5 kW to 25 kW capacity) through Solar PV, covering areas which are not connected to the grid through CSR support from PSUs. Tenders have been called for capacity of 101 kWp for 3 villages in Haryana.</p>
+
+<p>These projects are proposed to be developed through appropriate business models that would encourage public-private participation.</p>
+
+<p>&nbsp;</p>
+ 
+			</p>
+			
+		</div>
+	</div>	
+  </div>
+</section>
+
+
+
+        </div>
+    </form>
+    <footer class="mt-20">
+        
+        <div class="owl-slider c-sldr">
+            <div id="carousel2" class="owl-carousel">
+                
+                <div class="item">
+                    <a href="https://data.gov.in/" target="_blank">
+                        <img class="owl-lazy" data-src="https://seci.co.in/upload/banner/637209746755983231.png" alt="Government Open Data License - India"></a>
+                </div>
+                
+                <div class="item">
+                    <a href="https://secure.mygov.in/home/blog/" target="_blank">
+                        <img class="owl-lazy" data-src="https://seci.co.in/upload/banner/637209749776206524.png" alt="Blogs Under MyGov"></a>
+                </div>
+                
+                <div class="item">
+                    <a href="https://www.mygov.in/" target="_blank">
+                        <img class="owl-lazy" data-src="https://seci.co.in/upload/banner/637209750424193668.png" alt="My Gov"></a>
+                </div>
+                
+                <div class="item">
+                    <a href="https://www.india.gov.in/" target="_blank">
+                        <img class="owl-lazy" data-src="https://seci.co.in/upload/banner/637209751605467786.png" alt="National Portal of India"></a>
+                </div>
+                
+                <div class="item">
+                    <a href="https://egreetings.gov.in/" target="_blank">
+                        <img class="owl-lazy" data-src="https://seci.co.in/upload/banner/637209752457829424.png" alt="eGreetings"></a>
+                </div>
+                
+                <div class="item">
+                    <a href="http://meity.gov.in/" target="_blank">
+                        <img class="owl-lazy" data-src="https://seci.co.in/upload/banner/637209753361445086.png" alt="Meity Gov"></a>
+                </div>
+                
+                <div class="item">
+                    <a href="https://www.pmindia.gov.in/en/" target="_blank">
+                        <img class="owl-lazy" data-src="https://seci.co.in/upload/banner/637209754704287520.png" alt="Prime Minister's Office"></a>
+                </div>
+                
+                <div class="item">
+                    <a href="http://www.digitalindia.gov.in/" target="_blank">
+                        <img class="owl-lazy" data-src="https://seci.co.in/upload/banner/637209755477116760.png" alt="DIGITAL INDIA"></a>
+                </div>
+                
+                <div class="item">
+                    <a href="https://self4society.mygov.in/" target="_blank">
+                        <img class="owl-lazy" data-src="https://seci.co.in/upload/banner/637209756577764534.png" alt="SELF4SOCIETY"></a>
+                </div>
+                
+                <div class="item">
+                    <a href="https://transformingindia.mygov.in/" target="_blank">
+                        <img class="owl-lazy" data-src="https://seci.co.in/upload/banner/637209757844825207.png" alt="Transforming India"></a>
+                </div>
+                
+                <div class="item">
+                    <a href="https://innovate.mygov.in/" target="_blank">
+                        <img class="owl-lazy" data-src="https://seci.co.in/upload/banner/637209759193919831.png" alt="innovate"></a>
+                </div>
+                
+                <div class="item">
+                    <a href="https://swachhbharat.mygov.in/" target="_blank">
+                        <img class="owl-lazy" data-src="https://seci.co.in/upload/banner/637209761176150524.png" alt="Swachh Bharat"></a>
+                </div>
+                
+                <div class="item">
+                    <a href="https://quiz.mygov.in/" target="_blank">
+                        <img class="owl-lazy" data-src="https://seci.co.in/upload/banner/637209762798843520.png" alt="Quiz mygov"></a>
+                </div>
+                
+            </div>
+        </div>
+        
+        <div class="ft-bg">
+            <div class="container">
+                <div class="row">
+                    <!-- <div class="col-md-12 col-sm-12 col-xs-12 text-right">
+			  <p class="num-visit mb-0 d-inline-block">
+				Number of Visits : 
+			  </p>
+			<div id="sfcjdw8fp4npcejb2uzs7cqb1p957nsclme" class="d-inline-block"></div>
+<script type="text/javascript" src="https://counter7.wheredoyoucomefrom.ovh/private/counter.js?c=jdw8fp4npcejb2uzs7cqb1p957nsclme&down=async" async></script>
+<noscript><a href="https://www.freecounterstat.com" title="free page counter"><img src="https://counter7.wheredoyoucomefrom.ovh/private/freecounterstat.php?c=jdw8fp4npcejb2uzs7cqb1p957nsclme" border="0" title="free page counter" alt="free page counter"></a></noscript>
+
+			  <p class="text-dark mb-0 font-weight-500">
+				Last Updated on : 18/December/2019
+			  </p>
+			</div> -->
+                    <div class="col-md-12 col-xs-12 text-center right-col-body">
+                        <!-- <h4>Quick Links</h4> -->
+                        <p class="font-weight-500 text-dark mb-0 text-center" style="padding-top: 5px;">
+                            
+                            <!-- hitwebcounter -->
+                            Visitors count since
+                            May 3, 2025
+                            :
+                            3188395
+                            <br />
+                            Website last updated :
+                            May 3, 2025
+                            
+                        </p>
+                        <ul class="text-center">
+                            <li><i class="fa fa-star" style="font-size: 14px;"></i><a href="https://seci.co.in/vigilance/vigilance-complaint-form">Lodge Complaint</a> </li>
+
+                            <li><i class="fa fa-star" style="font-size: 14px;"></i><a href="https://seci.co.in/grievance-portal">
+                                Feedback form</a> </li>
+                            <li><i class="fa fa-star" style="font-size: 14px;"></i><a href="https://seci.co.in/site/map">
+                                SiteMap</a> </li>
+                            <li><i class="fa fa-star" style="font-size: 14px;"></i><a href="https://seci.co.in/page/help">
+                                Help</a> </li>
+                            
+                            <li><i class="fa fa-star" style="font-size: 14px;"></i><a href="https://seci.co.in/page/related-links">
+                                Related Links</a> </li>
+                            
+                            <li><i class="fa fa-star" style="font-size: 14px;"></i><a href="https://seci.co.in/page/website-policies-and-disclaimer">
+                                Website Policies and Disclaimer</a> </li>
+                            <li><i class="fa fa-star" style="font-size: 14px;"></i><a href="https://seci.co.in/archives/data_archives">
+                                Archives</a> </li>
+                            <li><i class="fa fa-star" style="font-size: 14px;"></i><a href="http://secicms.pragyaware.com/">Upcoming new website</a> </li>
+                        </ul>
+                    </div>
+                    <div class="col-md-4 col-sm-5 col-xs-12">
+                        
+                        
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="bg-ft">
+            <div class="container">
+                <div class="row">
+                    <div class="col-sm-7">
+                        <p class="mb-0 f-10-L">
+                            Official Website Of Solar Energy Corporation Of India Ltd.
+                            
+                        </p>
+                    </div>
+                    <div class="col-sm-5">
+                        <p class="mb-0 f-10 ">
+                            Design &amp; Developed by <a href="https://www.paramountinfosystem.com" target="_blank">Paramount Infosystem Pvt. Ltd.</a>
+                        </p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </footer>
+    <a id="top-btn"></a>
+    <!--Jquery Library-->
+
+
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.4.1/js/bootstrap.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/OwlCarousel2/2.3.4/owl.carousel.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/jquery.marquee/1.3.1/jquery.marquee.min.js"></script>
+
+    <script src="https://seci.co.in/js/custom.js"></script>
+
+    <script>
+
+        function _search(_id) {
+            if (document.getElementById("ctl00_txtsearch").value.trim() == "") {
+                document.getElementById("ctl00_txtsearch").focus();
+                return false;
+            }
+            var hdeditbigid = document.getElementById("ctl00_txtsearch").value;
+            var _url = document.getElementById("ctl00_hdurl").value;
+            window.location = '' + _url + 'search-content-search/data?val=' + hdeditbigid + '';
+
+
+        }
+    </script>
+    <script> $(".marquee").on("mouseover", function (e) {
+            $(this).marquee("toggle");
+        });</script>
+    
+        <script type="text/javascript">
+            function _langalert(_id) {
+                if ($("#" + _id).attr("disabled") == "disabled") {
+                    return false;
+                }
+                else {
+                    var r = confirm(document.getElementById("Header1_lbllangmsg").innerHTML);
+                    if (r == true) {
+                        return true;
+                    } else {
+                        return false;
+                    }
+                }
+
+
+            }
+
+        </script>
+
+
+    
+</body>
+</html>

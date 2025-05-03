@@ -1,0 +1,43 @@
+<svg viewBox="0 0 100 100" xmlns="http://www.w3.org/2000/svg">
+  <!-- Panel Base -->
+  <rect x="10" y="15" width="80" height="60" fill="#0091ad" rx="2" ry="2" />
+  
+  <!-- Panel Grid -->
+  <g fill="none" stroke="#023047" stroke-width="1">
+    <!-- Horizontal lines -->
+    <line x1="10" y1="30" x2="90" y2="30" />
+    <line x1="10" y1="45" x2="90" y2="45" />
+    <line x1="10" y1="60" x2="90" y2="60" />
+    
+    <!-- Vertical lines -->
+    <line x1="30" y1="15" x2="30" y2="75" />
+    <line x1="50" y1="15" x2="50" y2="75" />
+    <line x1="70" y1="15" x2="70" y2="75" />
+  </g>
+  
+  <!-- Panel Shine -->
+  <polygon points="10,15 30,15 10,35" fill="#61c9e7" stroke="none" />
+  <polygon points="50,15 70,15 70,35 50,35" fill="#61c9e7" stroke="none" />
+  
+  <!-- Panel Border -->
+  <rect x="10" y="15" width="80" height="60" fill="none" stroke="#023047" stroke-width="2" rx="2" ry="2" />
+  
+  <!-- Stand -->
+  <polygon points="30,75 70,75 60,85 40,85" fill="#023047" />
+  
+  <!-- Connection Wire -->
+  <path d="M50,75 L50,85 L80,85 L80,95" fill="none" stroke="#023047" stroke-width="2" stroke-linecap="round" />
+  
+  <!-- Sun Symbol -->
+  <circle cx="80" cy="10" r="8" fill="#ffb703" />
+  <g stroke="#ffb703" stroke-width="2" stroke-linecap="round">
+    <line x1="80" y1="0" x2="80" y2="-4" />
+    <line x1="80" y1="24" x2="80" y2="20" />
+    <line x1="66" y1="10" x2="70" y2="10" />
+    <line x1="94" y1="10" x2="90" y2="10" />
+    <line x1="70" y1="0" x2="73" y2="3" />
+    <line x1="90" y1="20" x2="87" y2="17" />
+    <line x1="70" y1="20" x2="73" y2="17" />
+    <line x1="90" y1="0" x2="87" y2="3" />
+  </g>
+</svg>

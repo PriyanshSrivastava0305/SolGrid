@@ -1,0 +1,52 @@
+<!-- Project Details Popup Template -->
+<div class="popup-container">
+    <div class="popup-header">
+      <h3 class="popup-title">{{project.name}}</h3>
+      <p class="popup-subtitle">{{project.developer}} | {{project.status}}</p>
+    </div>
+    
+    <div class="popup-content">
+      <div class="popup-detail">
+        <span class="popup-label">Capacity:</span>
+        <span class="popup-value">{{project.capacity}} MW</span>
+      </div>
+      
+      <div class="popup-detail">
+        <span class="popup-label">Type:</span>
+        <span class="popup-value">{{project.type}}</span>
+      </div>
+      
+      <div class="popup-detail">
+        <span class="popup-label">Technology:</span>
+        <span class="popup-value">{{project.technology}}</span>
+      </div>
+      
+      <div class="popup-detail">
+        <span class="popup-label">Commissioned:</span>
+        <span class="popup-value">{{project.commissioningDate}}</span>
+      </div>
+      
+      <div class="popup-detail">
+        <span class="popup-label">Location:</span>
+        <span class="popup-value">{{project.district}}, {{project.state}}</span>
+      </div>
+      
+      {{#if project.gridConnection}}
+      <div class="popup-detail">
+        <span class="popup-label">Grid Connection:</span>
+        <span class="popup-value">{{project.gridConnection}}</span>
+      </div>
+      {{/if}}
+      
+      {{#if project.ppaDetails}}
+      <div class="popup-detail">
+        <span class="popup-label">PPA:</span>
+        <span class="popup-value">{{project.ppaDetails}}</span>
+      </div>
+      {{/if}}
+    </div>
+    
+    <div class="popup-footer">
+      <a href="#/project/{{project.id}}" class="popup-link">View Full Details</a>
+    </div>
+  </div>

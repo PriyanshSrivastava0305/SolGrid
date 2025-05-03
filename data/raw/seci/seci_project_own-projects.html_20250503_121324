@@ -1,0 +1,716 @@
+
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta charset="utf-8" /><meta name="viewport" content="width=device-width, initial-scale=1" /><meta http-equiv="x-dns-prefetch-control" content="on" /><title>
+	Solar Energy Corporation of India Limited(SECI), A Government of
+        India Enterprise, Under Ministry of New and Renewable Energy
+</title>
+
+    <link rel="SHORTCUT ICON" href="https://seci.co.in/images/favicon.ico">
+    <!-- Bootstrap core CSS -->
+    <link href="https://seci.co.in/css/bootstrap.css" rel="stylesheet">
+    <!-- ICONS CSS -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css" /><link href="https://cdnjs.cloudflare.com/ajax/libs/OwlCarousel2/2.3.4/assets/owl.carousel.min.css" rel="stylesheet" />
+    <link href="https://seci.co.in/css/style.css" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css?family=Rubik:400,500&amp;display=swap" rel="stylesheet" />
+
+    <style>
+        .rptanchorcss:hover {
+            text-decoration: none;
+        }
+
+        section#main .row .col-md-8 div, section#main .row .col-md-8 p {
+            text-align: justify;
+        }
+
+        .nav > li > a {
+            display: inline-block;
+            padding: 10px 0px 10px 0px;
+            margin-right: 0px;
+            transition: 150ms;
+        }
+
+        .mnev li {
+            margin-right: 18px
+        }
+
+        .mnev_hindi li {
+            margin-right: 18px
+        }
+
+            .mnev_hindi li a {
+                font-weight: bold !important;
+            }
+
+            .mnev li:last-child, .mnev_hindi li:last-child {
+                margin-right: 0px
+            }
+
+            .mnev li li, .mnev_hindi li li {
+                margin-right: 0px;
+            }
+
+        @media(min-width:768px) {
+            .mnev .show, .mnev_hindi .show {
+                display: inline-block !important;
+            }
+        }
+
+        @media(max-width:767px) {
+            #srch {
+                display: none;
+            }
+        }
+
+        @media(max-width:991px) {
+            .nav > li > a {
+                display: inline-block;
+                padding: 10px 0px 10px 20px;
+                margin-right: 0px;
+            }
+
+            .pdmob {
+                padding: 8px 10px;
+            }
+        }
+
+        @media(min-width:992px)and (max-width:1199px) {
+            .nav > li > a {
+                padding: 10px 0px 10px 0px;
+                margin-right: 0px;
+            }
+        }
+
+        @media(min-width:1200px) {
+            .mnev, .mnev_hindi {
+                justify-content: space-between;
+                flex: 1;
+                margin: auto !important;
+                display: flex;
+            }
+        }
+
+        p.f-10, .f-10 a {
+            font-size: 10px !important;
+            padding-top: 2px;
+            text-align: right;
+        }
+
+        p.f-10-L, .f-10-L a {
+            font-size: 10px !important;
+            padding-top: 2px;
+            text-align: left;
+        }
+    </style>
+    
+
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+
+</head>
+<body>
+    <form name="aspnetForm" method="post" action="./own-projects" id="aspnetForm">
+<div>
+<input type="hidden" name="__EVENTTARGET" id="__EVENTTARGET" value="" />
+<input type="hidden" name="__EVENTARGUMENT" id="__EVENTARGUMENT" value="" />
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="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" />
+</div>
+
+<script type="text/javascript">
+//<![CDATA[
+var theForm = document.forms['aspnetForm'];
+if (!theForm) {
+    theForm = document.aspnetForm;
+}
+function __doPostBack(eventTarget, eventArgument) {
+    if (!theForm.onsubmit || (theForm.onsubmit() != false)) {
+        theForm.__EVENTTARGET.value = eventTarget;
+        theForm.__EVENTARGUMENT.value = eventArgument;
+        theForm.submit();
+    }
+}
+//]]>
+</script>
+
+
+<div>
+
+	<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="DFDC333A" />
+	<input type="hidden" name="__VIEWSTATEENCRYPTED" id="__VIEWSTATEENCRYPTED" value="" />
+	<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="I2fQXPn25iAEskTbvS5V9eHIWNvRlqwahK/ZP7ddTbrxJpezi4QoeSze1VaEBpV1uY7kvNc1lcoKoVZ+LhGFGUJNiqBvzXbupCx0cwv+Hc1zS6an5E1V9i0mFU0hOrHpwTT/KI5+pGc/6HxRluwzxejxQ8M33KGXaBlaY24ZmZbDvW9WSLMza+y54MceadX+0JqucpErX2u8ngfElGuNiaUksVzKPvOEt575P+l8of7KXgJTac4OTbE2vQDwfwZEkU08vrXycZ85NSlWFxQwjQ==" />
+</div>
+        <div>
+            <header class="banner">
+                <div class="top-bar">
+                    <div class="container">
+                        <div class="row">
+                            <div class="col-md-6 col-sm-4 col-xs-7 no-padding-md">
+                                <div class="tb-link">
+                                    
+                                    <a href="https://www.facebook.com/SeciLimited/" target="_blank" title="Facebook"><i
+                                        class="fa fa-facebook sbtn s-fb"></i></a>
+                                    
+                                    <a href="https://twitter.com/seci_ltd" target="_blank" title="Twitter"><i class="fa fa-twitter sbtn s-tw"></i></a>
+                                    
+                                    <a href="https://www.linkedin.com/company/solar-energy-corporation-of-india" target="_blank" title="Linkedin"><i class="fa fa-linkedin sbtn s-ln"></i></a>
+                                    
+                                    <a href="https://www.youtube.com/channel/UCZG2Q72sTiocplOo8Bdqp6A" target="_blank" title="Youtube"><i class="fa fa-youtube sbtn s-yt"></i></a>
+                                    
+                                    <a href="https://www.bharat-electronictender.com" target="_blank" title="E-Tender"><i class="fa fa-folder sbtn s-fl"></i></a>
+                                    
+                                    <a href="https://email.gov.in/" target="_blank" title="Mail"><i class="fa fa-envelope sbtn s-mail"></i></a>
+                                    
+                                </div>
+                            </div>
+                            <div class="col-md-6 col-sm-8 col-xs-5 no-padding-md">
+                                <div class="pull-right">
+                                    <div class="tb-link hidden-xs">
+                                        <a href="#main"><i class="fa fa-level-down"></i>Skip to main content</a>
+                                    </div>
+                                    <div class="tb-link hidden-xs">
+                                        <a href="#" title="SiteMap"><i class="fa fa-sitemap"></i></a>
+                                    </div>
+                                    <div class="tb-link hidden-xs">
+                                        <a href="javascript:;" id="sizeDown" title="Smaller Font">
+                                            <img src="https://seci.co.in/images/a-min.png" class="size-font" alt="Smaller Font" /></a>
+                                        <a href="javascript:;" id="normal" title="Orignal Font">
+                                            <img src="https://seci.co.in/images/a-nor.png" class="size-font" alt="Orignal Font" /></a>
+                                        <a href="javascript:;" id="sizeUp" title="Larger Font">
+                                            <img src="https://seci.co.in/images/a-max.png" class="size-font" alt="Larger Font" /></a>
+                                    </div>
+                                    <div class="tb-link">
+                                        <span id="theme-dark"></span><span id="theme-default"></span>
+                                    </div>
+                                    <div class="tb-link">
+                                        
+                                                <a onclick="javascript:return _langalert(this.id);" id="ctl00_rptlanguage_ctl00_lnklang" class="rptanchorcss" href="javascript:__doPostBack(&#39;ctl00$rptlanguage$ctl00$lnklang&#39;,&#39;&#39;)">English |</a>
+                                                <input type="hidden" name="ctl00$rptlanguage$ctl00$hdlanid" id="ctl00_rptlanguage_ctl00_hdlanid" value="1" />
+                                                <input type="hidden" name="ctl00$rptlanguage$ctl00$hdlangcode" id="ctl00_rptlanguage_ctl00_hdlangcode" value="en" />
+                                            
+                                                <a onclick="javascript:return _langalert(this.id);" id="ctl00_rptlanguage_ctl01_lnklang" class="rptanchorcss" href="javascript:__doPostBack(&#39;ctl00$rptlanguage$ctl01$lnklang&#39;,&#39;&#39;)">हिंदी |</a>
+                                                <input type="hidden" name="ctl00$rptlanguage$ctl01$hdlanid" id="ctl00_rptlanguage_ctl01_hdlanid" value="2" />
+                                                <input type="hidden" name="ctl00$rptlanguage$ctl01$hdlangcode" id="ctl00_rptlanguage_ctl01_hdlangcode" value="hi" />
+                                            
+                                        
+                                        
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="container">
+                    <div class="row logo-bar">
+                        <div class="col-md-2 col-sm-3 hidden-xs">
+                            
+                        </div>
+                        <div class="col-md-8 col-sm-6 col-xs-12">
+                            <a href="https://seci.co.in/">
+                                <img src="https://seci.co.in/Upload/Main/638606419379092967.jpg" alt="solor_logo"
+                                    class="img-responsive" />
+                            </a>
+                        </div>
+                        <div class="col-md-2 col-sm-3 hidden-xs">
+                            
+                        </div>
+                    </div>
+                </div>
+                <div class="navbar-bg relative">
+                    <div class="container">
+                        <div class="row">
+                            <div class="col-md-12 no-padding">
+                                <!-- nav start -->
+                                <nav class="navbar navbar-default">
+                                    <div class="navbar-header">
+                                        <div class="input-group search hidden-md hidden-lg">
+                                            <input type="search" class="form-control" placeholder="Keyword ...">
+                                            <a href="" class="input-group-addon "><i class="fa fa-search"></i></a>
+                                        </div>
+                                        <button type="button" class="navbar-toggle hidden-sm" data-toggle="collapse" data-target="#myNavbar">
+                                            <span class="icon-bar"></span><span class="icon-bar"></span><span class="icon-bar"></span>
+                                        </button>
+                                    </div>
+                                    <div class="collapse navbar-collapse" id="myNavbar">
+                                        <ul class="nav navbar-nav mnev"><li class="active"><a href="https://seci.co.in/">Home</a></li><li class="dropdown"><a class="dropdown-toggle" role="button" aria-haspopup="true" aria-expanded="false" href="https://seci.co.in/about/introduction">About Us </a><span class="fa fa-caret-down pdmob" data-toggle="dropdown"></span><ul class="dropdown-menu"><li><a href="https://seci.co.in/about/introduction">About SECI</a></li><li><a href="https://seci.co.in/about/vision-and-mission">Vision And Mission</a></li><li><a href="https://seci.co.in/about/board-of-directors">Board of Directors & CVO</a></li><li><a href="https://seci.co.in/about/organizational-structure">Senior Executives</a></li><li><a href="https://seci.co.in/about/senior-executives">Contact Details of Senior Executives</a></li><li><a href="https://seci.co.in/about/code-of-conduct">Code of Conduct</a></li><li><a href="https://seci.co.in/about/csr-and-sustainability-policy-of-seci">SECI CSR</a></li><li><a href="https://seci.co.in/about/committees-of-the-board">Committees of the Board</a></li><li><a href="https://seci.co.in/about/secis-qehs-policy-and-objectives">SECI’s QEHS Policy and Objectives</a></li>  </ul>  </li>   <li class="dropdown"><a class="dropdown-toggle" href="https://seci.co.in/jnnsm/solar">Govt Schemes/Tenders  </a><span class="fa fa-caret-down pdmob" data-toggle="dropdown"></span>   <ul class="dropdown-menu"><li><a href="https://seci.co.in/jnnsm/solar">SOLAR</a></li><li><a href="https://seci.co.in/jnnsm/wind">WIND</a></li><li><a href="https://seci.co.in/jnnsm/hybrid">HYBRID</a></li><li><a href="https://seci.co.in/jnnsm/solar-park">Solar Park</a></li><li><a href="https://seci.co.in/jnnsm/green-hydrogen-and-green-ammonia">Green Hydrogen and Green Ammonia</a></li><li><a href="https://seci.co.in/jnnsm/energy-storage-systems-ess">Energy Storage Systems (ESS)</a></li><li><a href="https://seci.co.in/jnnsm/pli-scheme">PLI SCHEME</a></li><li><a href="https://seci.co.in/jnnsm/standard-bidding-guidelines">Standard Bidding Guidelines</a></li><li><a href="https://seci.co.in/jnnsm/statutory-requirements">Statutory Requirements</a></li><li><a href="https://seci.co.in/jnnsm/mission-document">Mission Document</a></li><li><a href="https://seci.co.in/jnnsm/phase-ii-batch-i">Phase-II, Batch-I</a></li><li><a href="https://seci.co.in/jnnsm/phase-ii-batch-iii">Phase-II, Batch-III</a></li><li><a href="https://seci.co.in/jnnsm/phase-ii-batch-iv">Phase-II, Batch- IV</a></li>  </ul>   </li>   <li class="dropdown"><a class="dropdown-toggle" href="https://seci.co.in/business/solar-thermal">Business   </a><span class="fa fa-caret-down pdmob" data-toggle="dropdown"></span>  <ul class="dropdown-menu"><li><a href="https://seci.co.in/business/power-trading">Power Trading</a></li><li><a href="https://seci.co.in/business/own-projects">Own Projects </a></li><li><a href="https://seci.co.in/business/project-management-consultancy">Project Management Consultancy</a></li><li><a href="https://seci.co.in/business/solar-photovoltaic">Solar Photovoltaic</a></li><li><a href="https://seci.co.in/business/solar-thermal">Solar Thermal</a></li><li><a href="https://seci.co.in/business/solarization-of-ports">Solarization of Ports</a></li><li><a href="https://seci.co.in/business/consultancy-services">Consultancy Services</a></li><li><a href="https://seci.co.in/business/r-and-d">R & D</a></li> </ul> </li>  <li class="dropdown"><a class="dropdown-toggle" href="https://seci.co.in/document/documents-faq">Documents/FAQ  </a><span class="fa fa-caret-down pdmob" data-toggle="dropdown"></span>  <ul class="dropdown-menu"><li><a href="https://seci.co.in/document/documents-faq">Documents/FAQ</a></li><li><a href="https://seci.co.in/document/publications">Publications</a></li><li><a href="https://seci.co.in/document/faq">FAQ</a></li><li><a href="https://seci.co.in/document/mou">MoU</a></li> </ul> </li>  <li class="dropdown"><a class="dropdown-toggle" href="https://seci.co.in/financial/digital-payment-modes">Financials  </a><span class="fa fa-caret-down pdmob" data-toggle="dropdown"></span>  <ul class="dropdown-menu"><li><a href="https://seci.co.in/financial/digital-payment-modes">Payment Modes</a></li><li><a href="https://seci.co.in/financial/monthly-payment">Monthly Payment</a></li><li><a href="https://seci.co.in/financial/annual-reports">Annual/ Periodic Financial Reports</a></li><li><a href="https://seci.co.in/financial/treds">TReDS</a></li><li><a href="https://seci.co.in/financial/tcs-reports">TCS Reports</a></li><li><a href="https://seci.co.in/financial/psm">PSM </a></li><li><a href="https://seci.co.in/financial/annual-return">Annual Return</a></li><li><a href="https://seci.co.in/financial/vendor-portal">Vendor Payment Status</a></li> </ul> </li>  <li><a href="https://seci.co.in/rti/seci_rti/particulars-of-pios">RTI</a></li>  <li class="dropdown"><a class="dropdown-toggle" href="https://seci.co.in/ists/solar">Projects under NSM    </a> <span class="fa fa-caret-down pdmob" data-toggle="dropdown"></span>   <ul class="dropdown-menu">      <li><a href="https://seci.co.in/ists/solar">Solar</a></li>      <li><a href="https://seci.co.in/ists/wind">Wind</a></li>      <li><a href="https://seci.co.in/ists/hybrid">Hybrid</a></li>      <li><a href="https://seci.co.in/ists/drc">DRC</a></li>      <li><a href="https://seci.co.in/ists/others">Others</a></li>  </ul>  </li><li class="dropdown"><a class="dropdown-toggle" role="button" aria-haspopup="true" aria-expanded="false" href="https://seci.co.in/vigilance/vigilance-at-seci">Vigilance</a><span class="fa fa-caret-down pdmob" data-toggle="dropdown"></span><ul class="dropdown-menu"><li><a href="https://seci.co.in/vigilance/vigilance-at-seci">Vigilance at SECI</a></li><li><a href="https://seci.co.in/vigilance/profile-of-cvo-seci">Profile of CVO, SECI</a></li><li><a href="https://seci.co.in/vigilance/contact-details-–-vigilance">Contact Details – Vigilance</a></li><li><a href="https://seci.co.in/vigilance/manuals-and-policies">Manuals & Guidelines </a></li><li><a href="https://seci.co.in/vigilance/intensive-examinations">Intensive Examinations</a></li><li><a href="https://seci.co.in/vigilance/seci-whistle-blower-policy">SECI Whistle Blower Policy</a></li><li><a href="https://seci.co.in/vigilance/pidpi">PIDPI</a></li><li><a href="https://seci.co.in/vigilance/complaint-handling-policy">Complaint Handling Policy</a></li><li><a href="https://seci.co.in/vigilance/vigilance-complaint-form">Vigilance Complaint Form</a></li><li><a href="https://seci.co.in/vigilance/vigilance-journal">Vigilance Journal </a></li><li><a href="https://seci.co.in/vigilance/vigilance-awareness-campaign-2024">Vigilance Awareness Campaign 2024</a></li>  </ul>  </li>  <li class="dropdown"><a class="dropdown-toggle" href="https://seci.co.in/page/careers">Careers    </a> <span class="fa fa-caret-down pdmob" data-toggle="dropdown"></span>   <ul class="dropdown-menu">      <li><a href="https://seci.co.in/page/careers">Jobs at SECI</a></li>      <li><a href="https://seci.co.in/page/seci-internship">SECI Internship</a></li>  </ul>  </li>  <li><a href="https://seci.co.in/contactus">Contact</a></li>  <li><a id="srch" style="padding:10px;"><i class="fa fa-search"></i></a></li></ul>
+                                    </div>
+                                </nav>
+                                <!-- nav end -->
+                            </div>
+                        </div>
+                        <div class="row hidden-xs hidden-sm" id="show-srch">
+                            <div class="col-md-12">
+                                <div class="input-group search">
+                                    <input name="ctl00$txtsearch" type="text" id="ctl00_txtsearch" class="form-control" placeholder="Keyword ..." />
+                                    <a onclick="javascript: _search('txtsearch');" class="input-group-addon"><i class="fa fa-arrow-right"></i></a>
+                                </div>
+                            </div>
+                        </div>
+                        <input type="hidden" name="ctl00$hdurl" id="ctl00_hdurl" value="https://seci.co.in/" />
+                    </div>
+                </div>
+            </header>
+            <div class="marquee_position">
+                <marquee class="marquee_text" behavior="scroll" direction="left" scrolldelay="70" scrollamount="4"
+                    onmouseover="this.stop();" onmouseout="this.start();">
+                    &nbsp;
+                  <i class="fa fa-star"></i> <a color="red"  href="https://www.seci.co.in/financial/digital-payment-modes" target="_blank">Payment Modes</a><i class="fa fa-star"></i> <a color="red"  href="https://pledge.cvc.nic.in/" target="_blank">Integrity Pledge</a><i class="fa fa-star"></i> <a color="red"  href="https://www.seci.co.in/financial/vendor-portal" target="_blank">Vendor Payment Status</a><i class="fa fa-star"></i> <a color="red"  href="/upload/static/files/CVC%20CIRCULAR%20DATED%2001082024.pdf" target="_blank">Vigilance Awareness Week 2024</a><i class="fa fa-star"></i> <a color="red"  href="https://cvc.gov.in/files/vigilance-awareness-week-pdf/VAW-2024-06_Audio.mpeg" target="_blank">Audio Jingles for Vigilance Awareness Week 2024</a><i class="fa fa-star"></i> <a color="red"  href="/upload/static/files/Unique%20Business%20Model%20of%20SECI%20Ltd.pdf" target="_blank">Unique Business Model of SECI Ltd</a>
+
+                </marquee>
+            </div>
+            
+
+<div class="breadcrumb-bg">
+	<div class="container">
+		<div class="row">
+			<div class="col-sm-12">
+				<ul>
+					<li><a href="https://seci.co.in/">Home</a></li>
+					<li><i class="fa fa-chevron-right"></i></li>
+					<li>Own Projects </li>
+				</ul>
+			</div>
+		</div>
+	</div>
+</div>
+<!-- Main Content Start -->
+<section id="main">
+  <div class="container">
+	<div class="row">
+		
+	</div>
+	<div class="row">
+		<div class="col-md-4 col-sm-4 col-xs-12 mb-20">
+				<p class="sidebar-heading"> Business </p>
+			<ul class="page-sidebar">
+            <li><a href="https://seci.co.in/business/power-trading">Power Trading</a></li><li class="active"><a href="https://seci.co.in/business/own-projects">Own Projects </a></li><li><a href="https://seci.co.in/business/project-management-consultancy">Project Management Consultancy</a></li><li><a href="https://seci.co.in/business/solar-photovoltaic">Solar Photovoltaic</a></li><li><a href="https://seci.co.in/business/solar-thermal">Solar Thermal</a></li><li><a href="https://seci.co.in/business/solarization-of-ports">Solarization of Ports</a></li><li><a href="https://seci.co.in/business/consultancy-services">Consultancy Services</a></li><li><a href="https://seci.co.in/business/r-and-d">R & D</a></li>
+				
+			</ul>
+		</div>
+		
+		<div class="col-md-8 col-sm-8 col-xs-12 mb-20">
+			<h1 class="inner-page-heading">Own Projects </h1>
+			<p>
+				<p style="text-align:justify"><span style="font-size:11pt"><span style="line-height:150%"><span style="font-family:Arial,sans-serif"><span lang="EN-GB" style="font-size:14.0pt"><span style="line-height:150%"><span style="font-family:&quot;Times New Roman&quot;,serif">As a RE project developer, SECI has installed 122.7 MW of RE projects and 1325 MW of projects are in pipeline. Through its own projects, SECI has supplied 72 MU of RE in FY 2023-24. </span></span></span></span></span></span></p>
+
+<p style="text-align:justify">&nbsp;</p>
+
+<p style="text-align:justify"><span style="font-size:11pt"><span style="line-height:150%"><span style="font-family:Arial,sans-serif"><span lang="EN-GB" style="font-size:14.0pt"><span style="line-height:150%"><span style="font-family:&quot;Times New Roman&quot;,serif">Projects which were commissioned in FY 2023-24 are:</span></span></span></span></span></span></p>
+
+<p style="text-align:justify"><span style="font-size:11pt"><span style="line-height:150%"><span style="font-family:Arial,sans-serif"><span lang="EN-GB" style="font-size:14.0pt"><span style="line-height:150%"><span style="font-family:&quot;Times New Roman&quot;,serif">&raquo; 1.7 MW solar project in Lakshadweep accompanied by a 1.4 MWh Battery Energy Storage System (BESS), aimed at decreasing diesel usage in the islands.</span></span></span></span></span></span></p>
+
+<p style="text-align:justify"><span style="font-size:11pt"><span style="line-height:150%"><span style="font-family:Arial,sans-serif"><span lang="EN-GB" style="font-size:14.0pt"><span style="line-height:150%"><span style="font-family:&quot;Times New Roman&quot;,serif">&raquo; 100 MW solar project in Chhattisgarh featuring a 40 MW/120 MWh BESS, intended to provide solar energy during peak evening demand periods.</span></span></span></span></span></span></p>
+
+<p style="text-align:justify">&nbsp;</p>
+
+<p style="text-align:justify"><span style="font-size:11pt"><span style="line-height:150%"><span style="font-family:Arial,sans-serif"><span lang="EN-GB" style="font-size:14.0pt"><span style="line-height:150%"><span style="font-family:&quot;Times New Roman&quot;,serif">Details of SECI&rsquo;s own projects which are operational are as follows: </span></span></span></span></span></span></p>
+
+<table cellspacing="0" class="Table" style="border-collapse:collapse; border:none; width:614px">
+	<tbody>
+		<tr>
+			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:1px solid black; height:52px; padding:0cm 7px 0cm 7px; vertical-align:top; width:72px">
+			<p style="margin-left:1px"><span style="font-size:11pt"><span style="line-height:115%"><span style="font-family:Arial,sans-serif"><strong><span lang="EN-GB" style="font-size:14.0pt"><span style="line-height:115%"><span style="font-family:&quot;Times New Roman&quot;,serif">S.no</span></span></span></strong></span></span></span></p>
+			</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:1px solid black; height:52px; padding:0cm 7px 0cm 7px; vertical-align:top; width:248px">
+			<p style="margin-left:1px"><span style="font-size:11pt"><span style="line-height:115%"><span style="font-family:Arial,sans-serif"><strong><span lang="EN-GB" style="font-size:14.0pt"><span style="line-height:115%"><span style="font-family:&quot;Times New Roman&quot;,serif">Name of the Project</span></span></span></strong></span></span></span></p>
+			</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:1px solid black; height:52px; padding:0cm 7px 0cm 7px; vertical-align:top; width:294px">
+			<p style="margin-left:1px"><span style="font-size:11pt"><span style="line-height:115%"><span style="font-family:Arial,sans-serif"><strong><span lang="EN-GB" style="font-size:14.0pt"><span style="line-height:115%"><span style="font-family:&quot;Times New Roman&quot;,serif">Location of the project</span></span></span></strong></span></span></span></p>
+			</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:87px; padding:0cm 7px 0cm 7px; vertical-align:top; width:72px">
+			<p><span style="font-size:11pt"><span style="line-height:115%"><span style="font-family:Arial,sans-serif"><span lang="EN-GB" style="font-size:14.0pt"><span style="line-height:115%"><span style="font-family:&quot;Times New Roman&quot;,serif">1</span></span></span></span></span></span></p>
+			</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:87px; padding:0cm 7px 0cm 7px; vertical-align:top; width:248px">
+			<p><span style="font-size:11pt"><span style="line-height:115%"><span style="font-family:Arial,sans-serif"><span lang="EN-GB" style="font-size:14.0pt"><span style="line-height:115%"><span style="font-family:&quot;Times New Roman&quot;,serif">100 MW Solar PV with 40 MW/120 MWh BESS</span></span></span></span></span></span></p>
+			</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:87px; padding:0cm 7px 0cm 7px; vertical-align:top; width:294px">
+			<p style="margin-left:1px"><span style="font-size:11pt"><span style="line-height:115%"><span style="font-family:Arial,sans-serif"><span lang="EN-GB" style="font-size:14.0pt"><span style="line-height:115%"><span style="font-family:&quot;Times New Roman&quot;,serif">Village Dhaba, Rajnandgaon, Chhattisgarh , Pin Code- 491441</span></span></span></span></span></span></p>
+			</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:71px; padding:0cm 7px 0cm 7px; vertical-align:top; width:72px">
+			<p style="margin-left:1px"><span style="font-size:11pt"><span style="line-height:115%"><span style="font-family:Arial,sans-serif"><span lang="EN-GB" style="font-size:14.0pt"><span style="line-height:115%"><span style="font-family:&quot;Times New Roman&quot;,serif">2</span></span></span></span></span></span></p>
+			</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:71px; padding:0cm 7px 0cm 7px; vertical-align:top; width:248px">
+			<p style="margin-left:1px"><span style="font-size:11pt"><span style="line-height:115%"><span style="font-family:Arial,sans-serif"><span lang="EN-GB" style="font-size:14.0pt"><span style="line-height:115%"><span style="font-family:&quot;Times New Roman&quot;,serif">1 MW Grid Connected Rooftop Solar PV projects</span></span></span></span></span></span></p>
+			</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:71px; padding:0cm 7px 0cm 7px; vertical-align:top; width:294px">
+			<p style="margin-left:1px"><span style="font-size:11pt"><span style="line-height:115%"><span style="font-family:Arial,sans-serif"><span lang="EN-GB" style="font-size:14.0pt"><span style="line-height:115%"><span style="font-family:&quot;Times New Roman&quot;,serif">Port Blair, Pin code- 744101</span></span></span></span></span></span></p>
+			</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:88px; padding:0cm 7px 0cm 7px; vertical-align:top; width:72px">
+			<p style="margin-left:1px"><span style="font-size:11pt"><span style="line-height:115%"><span style="font-family:Arial,sans-serif"><span lang="EN-GB" style="font-size:14.0pt"><span style="line-height:115%"><span style="font-family:&quot;Times New Roman&quot;,serif">3</span></span></span></span></span></span></p>
+			</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:88px; padding:0cm 7px 0cm 7px; vertical-align:top; width:248px">
+			<p style="margin-left:1px"><span style="font-size:11pt"><span style="line-height:115%"><span style="font-family:Arial,sans-serif"><span lang="EN-GB" style="font-size:14.0pt"><span style="line-height:115%"><span style="font-family:&quot;Times New Roman&quot;,serif">10 MW Solar PV DRDO Project</span></span></span></span></span></span></p>
+			</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:88px; padding:0cm 7px 0cm 7px; vertical-align:top; width:294px">
+			<p style="margin-left:1px"><span style="font-size:11pt"><span style="line-height:115%"><span style="font-family:Arial,sans-serif"><span lang="EN-GB" style="font-size:14.0pt"><span style="line-height:115%"><span style="font-family:&quot;Times New Roman&quot;,serif">Village Virapura, Dist Kolar, Karnataka, Pin code- 563126</span></span></span></span></span></span></p>
+			</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:210px; padding:0cm 7px 0cm 7px; vertical-align:top; width:72px">
+			<p style="margin-left:1px">&nbsp;</p>
+			</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:210px; padding:0cm 7px 0cm 7px; vertical-align:top; width:248px">
+			<p style="margin-left:1px"><span style="font-size:11pt"><span style="line-height:115%"><span style="font-family:Arial,sans-serif"><span lang="EN-GB" style="font-size:14.0pt"><span style="line-height:115%"><span style="font-family:&quot;Times New Roman&quot;,serif">Site 1: 300KW Solar Power Plant</span></span></span></span></span></span></p>
+
+			<p style="margin-left:1px"><span style="font-size:11pt"><span style="line-height:115%"><span style="font-family:Arial,sans-serif">&nbsp;</span></span></span></p>
+
+			<p style="margin-left:1px"><span style="font-size:11pt"><span style="line-height:115%"><span style="font-family:Arial,sans-serif"><span lang="EN-GB" style="font-size:14.0pt"><span style="line-height:115%"><span style="font-family:&quot;Times New Roman&quot;,serif">Site-2</span></span></span></span></span></span></p>
+
+			<p style="margin-left:1px"><span style="font-size:11pt"><span style="line-height:115%"><span style="font-family:Arial,sans-serif"><span lang="EN-GB" style="font-size:14.0pt"><span style="line-height:115%"><span style="font-family:&quot;Times New Roman&quot;,serif">1400 KW Solar Power Plant</span></span></span></span></span></span></p>
+
+			<p style="margin-left:1px"><span style="font-size:11pt"><span style="line-height:115%"><span style="font-family:Arial,sans-serif">&nbsp;</span></span></span></p>
+			</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:210px; padding:0cm 7px 0cm 7px; vertical-align:top; width:294px">
+			<p style="margin-left:1px"><span style="font-size:11pt"><span style="line-height:115%"><span style="font-family:Arial,sans-serif"><span lang="EN-GB" style="font-size:14.0pt"><span style="line-height:115%"><span style="font-family:&quot;Times New Roman&quot;,serif">Site 1: Near Agatti Airport,</span></span></span></span></span></span></p>
+
+			<p style="margin-left:1px"><span style="font-size:11pt"><span style="line-height:115%"><span style="font-family:Arial,sans-serif"><span lang="EN-GB" style="font-size:14.0pt"><span style="line-height:115%"><span style="font-family:&quot;Times New Roman&quot;,serif">Agatti, Lakshadweep Pin code- 682553</span></span></span></span></span></span></p>
+
+			<p style="margin-left:1px"><span style="font-size:11pt"><span style="line-height:115%"><span style="font-family:Arial,sans-serif">&nbsp;</span></span></span></p>
+
+			<p style="margin-left:1px"><span style="font-size:11pt"><span style="line-height:115%"><span style="font-family:Arial,sans-serif"><span lang="EN-GB" style="font-size:14.0pt"><span style="line-height:115%"><span style="font-family:&quot;Times New Roman&quot;,serif">Site 2: Near Helipad,</span></span></span></span></span></span></p>
+
+			<p style="margin-left:1px"><span style="font-size:11pt"><span style="line-height:115%"><span style="font-family:Arial,sans-serif"><span lang="EN-GB" style="font-size:14.0pt"><span style="line-height:115%"><span style="font-family:&quot;Times New Roman&quot;,serif">Kavaratti- Lakshadweep 682555,</span></span></span></span></span></span></p>
+
+			<p style="margin-left:1px"><span style="font-size:11pt"><span style="line-height:115%"><span style="font-family:Arial,sans-serif">&nbsp;</span></span></span></p>
+			</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:67px; padding:0cm 7px 0cm 7px; vertical-align:top; width:72px">
+			<p style="margin-left:1px"><span style="font-size:11pt"><span style="line-height:115%"><span style="font-family:Arial,sans-serif"><span lang="EN-GB" style="font-size:14.0pt"><span style="line-height:115%"><span style="font-family:&quot;Times New Roman&quot;,serif">4</span></span></span></span></span></span></p>
+			</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:67px; padding:0cm 7px 0cm 7px; vertical-align:top; width:248px">
+			<p style="margin-left:1px"><span style="font-size:11pt"><span style="line-height:115%"><span style="font-family:Arial,sans-serif"><span lang="EN-GB" style="font-size:14.0pt"><span style="line-height:115%"><span style="font-family:&quot;Times New Roman&quot;,serif">25 MW solar with 50 MWh battery energy storage project</span></span></span></span></span></span></p>
+			</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:67px; padding:0cm 7px 0cm 7px; vertical-align:top; width:294px">
+			<p style="margin-left:1px"><span style="font-size:11pt"><span style="line-height:115%"><span style="font-family:Arial,sans-serif"><span lang="EN-GB" style="font-size:14.0pt"><span style="line-height:115%"><span style="font-family:&quot;Times New Roman&quot;,serif">Taru, Leh, Pincode 194101</span></span></span></span></span></span></p>
+			</td>
+		</tr>
+	</tbody>
+</table>
+
+<p style="margin-left:-37px">&nbsp;</p>
+
+<p style="margin-top:13px; text-align:justify"><span style="font-size:11pt"><span style="line-height:115%"><span style="font-family:Arial,sans-serif"><span lang="EN-GB" style="font-size:14.0pt"><span style="line-height:115%"><span style="font-family:&quot;Times New Roman&quot;,serif">A total of 1.3 GW projects are in progress. SECI is also targeting to expand it own projects&rsquo; portfolio to 10 GW by 2030. </span></span></span></span></span></span></p>
+
+<p style="margin-left:-37px; margin-right:-21px; text-align:justify">&nbsp;</p>
+
+<table cellspacing="0" class="Table" style="border-collapse:collapse; border:none; width:602px">
+	<tbody>
+		<tr>
+			<td colspan="5" style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:1px solid black; height:54px; padding:7px 7px 7px 7px; vertical-align:top; width:602px">
+			<p align="center" style="text-align:center"><span style="font-size:11pt"><span style="line-height:115%"><span style="font-family:Arial,sans-serif"><strong><span lang="EN-GB" style="font-size:14.0pt"><span style="line-height:115%"><span style="font-family:&quot;Times New Roman&quot;,serif">Projects under construction/ in pipeline</span></span></span></strong></span></span></span></p>
+			</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:43px; padding:7px 7px 7px 7px; vertical-align:top; width:70px">
+			<p align="center" style="text-align:center"><span style="font-size:11pt"><span style="line-height:115%"><span style="font-family:Arial,sans-serif"><strong><span lang="EN-GB" style="font-size:14.0pt"><span style="line-height:115%"><span style="font-family:&quot;Times New Roman&quot;,serif">S. No.</span></span></span></strong></span></span></span></p>
+			</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:43px; padding:7px 7px 7px 7px; vertical-align:top; width:116px">
+			<p align="center" style="text-align:center"><span style="font-size:11pt"><span style="line-height:115%"><span style="font-family:Arial,sans-serif"><strong><span lang="EN-GB" style="font-size:14.0pt"><span style="line-height:115%"><span style="font-family:&quot;Times New Roman&quot;,serif">Type</span></span></span></strong></span></span></span></p>
+			</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:43px; padding:7px 7px 7px 7px; vertical-align:top; width:156px">
+			<p align="center" style="text-align:center"><span style="font-size:11pt"><span style="line-height:115%"><span style="font-family:Arial,sans-serif"><strong><span lang="EN-GB" style="font-size:14.0pt"><span style="line-height:115%"><span style="font-family:&quot;Times New Roman&quot;,serif">Location</span></span></span></strong></span></span></span></p>
+			</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:43px; padding:7px 7px 7px 7px; vertical-align:top; width:137px">
+			<p align="center" style="text-align:center"><span style="font-size:11pt"><span style="line-height:115%"><span style="font-family:Arial,sans-serif"><strong><span lang="EN-GB" style="font-size:14.0pt"><span style="line-height:115%"><span style="font-family:&quot;Times New Roman&quot;,serif">Capacity (MW)</span></span></span></strong></span></span></span></p>
+			</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:43px; padding:7px 7px 7px 7px; vertical-align:top; width:124px">
+			<p align="center" style="text-align:center"><span style="font-size:11pt"><span style="line-height:115%"><span style="font-family:Arial,sans-serif"><strong><span lang="EN-GB" style="font-size:14.0pt"><span style="line-height:115%"><span style="font-family:&quot;Times New Roman&quot;,serif">Status</span></span></span></strong></span></span></span></p>
+			</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:46px; padding:7px 7px 7px 7px; vertical-align:top; width:70px">
+			<p align="center" style="text-align:center"><span style="font-size:11pt"><span style="line-height:115%"><span style="font-family:Arial,sans-serif"><span lang="EN-GB" style="font-size:14.0pt"><span style="line-height:115%"><span style="font-family:&quot;Times New Roman&quot;,serif">1</span></span></span></span></span></span></p>
+			</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:46px; padding:7px 7px 7px 7px; vertical-align:top; width:116px">
+			<p align="center" style="text-align:center"><span style="font-size:11pt"><span style="line-height:115%"><span style="font-family:Arial,sans-serif"><span lang="EN-GB" style="font-size:14.0pt"><span style="line-height:115%"><span style="font-family:&quot;Times New Roman&quot;,serif">Floating solar</span></span></span></span></span></span></p>
+			</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:46px; padding:7px 7px 7px 7px; vertical-align:top; width:156px">
+			<p align="center" style="text-align:center"><span style="font-size:11pt"><span style="line-height:115%"><span style="font-family:Arial,sans-serif"><span lang="EN-GB" style="font-size:14.0pt"><span style="line-height:115%"><span style="font-family:&quot;Times New Roman&quot;,serif">Getalsud, Jharkhand</span></span></span></span></span></span></p>
+			</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:46px; padding:7px 7px 7px 7px; vertical-align:top; width:137px">
+			<p align="center" style="text-align:center"><span style="font-size:11pt"><span style="line-height:115%"><span style="font-family:Arial,sans-serif"><span lang="EN-GB" style="font-size:14.0pt"><span style="line-height:115%"><span style="font-family:&quot;Times New Roman&quot;,serif">100</span></span></span></span></span></span></p>
+			</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:46px; padding:7px 7px 7px 7px; vertical-align:top; width:124px">
+			<p align="center" style="text-align:center"><span style="font-size:11pt"><span style="line-height:115%"><span style="font-family:Arial,sans-serif"><span lang="EN-GB" style="font-size:14.0pt"><span style="line-height:115%"><span style="font-family:&quot;Times New Roman&quot;,serif">Under Construction</span></span></span></span></span></span></p>
+			</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:65px; padding:7px 7px 7px 7px; vertical-align:top; width:70px">
+			<p align="center" style="text-align:center"><span style="font-size:11pt"><span style="line-height:115%"><span style="font-family:Arial,sans-serif"><span lang="EN-GB" style="font-size:14.0pt"><span style="line-height:115%"><span style="font-family:&quot;Times New Roman&quot;,serif">2</span></span></span></span></span></span></p>
+			</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:65px; padding:7px 7px 7px 7px; vertical-align:top; width:116px">
+			<p align="center" style="text-align:center"><span style="font-size:11pt"><span style="line-height:115%"><span style="font-family:Arial,sans-serif"><span lang="EN-GB" style="font-size:14.0pt"><span style="line-height:115%"><span style="font-family:&quot;Times New Roman&quot;,serif">Solar + BESS</span></span></span></span></span></span></p>
+			</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:65px; padding:7px 7px 7px 7px; vertical-align:top; width:156px">
+			<p align="center" style="text-align:center"><span style="font-size:11pt"><span style="line-height:115%"><span style="font-family:Arial,sans-serif"><span lang="EN-GB" style="font-size:14.0pt"><span style="line-height:115%"><span style="font-family:&quot;Times New Roman&quot;,serif">Leh, UT of Ladakh</span></span></span></span></span></span></p>
+			</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:65px; padding:7px 7px 7px 7px; vertical-align:top; width:137px">
+			<p align="center" style="text-align:center"><span style="font-size:11pt"><span style="line-height:115%"><span style="font-family:Arial,sans-serif"><span lang="EN-GB" style="font-size:14.0pt"><span style="line-height:115%"><span style="font-family:&quot;Times New Roman&quot;,serif">25</span></span></span></span></span></span></p>
+			</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:65px; padding:7px 7px 7px 7px; vertical-align:top; width:124px">
+			<p align="center" style="text-align:center"><span style="font-size:11pt"><span style="line-height:115%"><span style="font-family:Arial,sans-serif"><span lang="EN-GB" style="font-size:14.0pt"><span style="line-height:115%"><span style="font-family:&quot;Times New Roman&quot;,serif">NOA issued in Oct 24</span></span></span></span></span></span></p>
+			</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:54px; padding:7px 7px 7px 7px; vertical-align:top; width:70px">
+			<p align="center" style="text-align:center"><span style="font-size:11pt"><span style="line-height:115%"><span style="font-family:Arial,sans-serif"><span lang="EN-GB" style="font-size:14.0pt"><span style="line-height:115%"><span style="font-family:&quot;Times New Roman&quot;,serif">3</span></span></span></span></span></span></p>
+			</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:54px; padding:7px 7px 7px 7px; vertical-align:top; width:116px">
+			<p align="center" style="text-align:center"><span style="font-size:11pt"><span style="line-height:115%"><span style="font-family:Arial,sans-serif"><span lang="EN-GB" style="font-size:14.0pt"><span style="line-height:115%"><span style="font-family:&quot;Times New Roman&quot;,serif">Solar (DCR)</span></span></span></span></span></span></p>
+			</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:54px; padding:7px 7px 7px 7px; vertical-align:top; width:156px">
+			<p align="center" style="text-align:center"><span style="font-size:11pt"><span style="line-height:115%"><span style="font-family:Arial,sans-serif"><span lang="EN-GB" style="font-size:14.0pt"><span style="line-height:115%"><span style="font-family:&quot;Times New Roman&quot;,serif">Ramagiri, Andhra Pradesh</span></span></span></span></span></span></p>
+			</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:54px; padding:7px 7px 7px 7px; vertical-align:top; width:137px">
+			<p align="center" style="text-align:center"><span style="font-size:11pt"><span style="line-height:115%"><span style="font-family:Arial,sans-serif"><span lang="EN-GB" style="font-size:14.0pt"><span style="line-height:115%"><span style="font-family:&quot;Times New Roman&quot;,serif">300</span></span></span></span></span></span></p>
+			</td>
+			<td rowspan="3" style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:54px; padding:7px 7px 7px 7px; vertical-align:top; width:124px">
+			<p align="center" style="text-align:center"><span style="font-size:11pt"><span style="line-height:115%"><span style="font-family:Arial,sans-serif"><span lang="EN-GB" style="font-size:14.0pt"><span style="line-height:115%"><span style="font-family:&quot;Times New Roman&quot;,serif">Investment approval in process</span></span></span></span></span></span></p>
+			</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:57px; padding:7px 7px 7px 7px; vertical-align:top; width:70px">
+			<p align="center" style="text-align:center"><span style="font-size:11pt"><span style="line-height:115%"><span style="font-family:Arial,sans-serif"><span lang="EN-GB" style="font-size:14.0pt"><span style="line-height:115%"><span style="font-family:&quot;Times New Roman&quot;,serif">4</span></span></span></span></span></span></p>
+			</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:57px; padding:7px 7px 7px 7px; vertical-align:top; width:116px">
+			<p align="center" style="text-align:center"><span style="font-size:11pt"><span style="line-height:115%"><span style="font-family:Arial,sans-serif"><span lang="EN-GB" style="font-size:14.0pt"><span style="line-height:115%"><span style="font-family:&quot;Times New Roman&quot;,serif">Solar (DCR)</span></span></span></span></span></span></p>
+			</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:57px; padding:7px 7px 7px 7px; vertical-align:top; width:156px">
+			<p align="center" style="text-align:center"><span style="font-size:11pt"><span style="line-height:115%"><span style="font-family:Arial,sans-serif"><span lang="EN-GB" style="font-size:14.0pt"><span style="line-height:115%"><span style="font-family:&quot;Times New Roman&quot;,serif">Radhanesda, Gujarat</span></span></span></span></span></span></p>
+			</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:57px; padding:7px 7px 7px 7px; vertical-align:top; width:137px">
+			<p align="center" style="text-align:center"><span style="font-size:11pt"><span style="line-height:115%"><span style="font-family:Arial,sans-serif"><span lang="EN-GB" style="font-size:14.0pt"><span style="line-height:115%"><span style="font-family:&quot;Times New Roman&quot;,serif">700</span></span></span></span></span></span></p>
+			</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:58px; padding:7px 7px 7px 7px; vertical-align:top; width:70px">
+			<p align="center" style="text-align:center"><span style="font-size:11pt"><span style="line-height:115%"><span style="font-family:Arial,sans-serif"><span lang="EN-GB" style="font-size:14.0pt"><span style="line-height:115%"><span style="font-family:&quot;Times New Roman&quot;,serif">5</span></span></span></span></span></span></p>
+			</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:58px; padding:7px 7px 7px 7px; vertical-align:top; width:116px">
+			<p align="center" style="text-align:center"><span style="font-size:11pt"><span style="line-height:115%"><span style="font-family:Arial,sans-serif"><span lang="EN-GB" style="font-size:14.0pt"><span style="line-height:115%"><span style="font-family:&quot;Times New Roman&quot;,serif">Solar (DCR)</span></span></span></span></span></span></p>
+			</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:58px; padding:7px 7px 7px 7px; vertical-align:top; width:156px">
+			<p align="center" style="text-align:center"><span style="font-size:11pt"><span style="line-height:115%"><span style="font-family:Arial,sans-serif"><span lang="EN-GB" style="font-size:14.0pt"><span style="line-height:115%"><span style="font-family:&quot;Times New Roman&quot;,serif">Madhya Pradesh</span></span></span></span></span></span></p>
+			</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:58px; padding:7px 7px 7px 7px; vertical-align:top; width:137px">
+			<p align="center" style="text-align:center"><span style="font-size:11pt"><span style="line-height:115%"><span style="font-family:Arial,sans-serif"><span lang="EN-GB" style="font-size:14.0pt"><span style="line-height:115%"><span style="font-family:&quot;Times New Roman&quot;,serif">200</span></span></span></span></span></span></p>
+			</td>
+		</tr>
+	</tbody>
+</table>
+ 
+			</p>
+			
+		</div>
+	</div>	
+  </div>
+</section>
+
+
+
+        </div>
+    </form>
+    <footer class="mt-20">
+        
+        <div class="owl-slider c-sldr">
+            <div id="carousel2" class="owl-carousel">
+                
+                <div class="item">
+                    <a href="https://data.gov.in/" target="_blank">
+                        <img class="owl-lazy" data-src="https://seci.co.in/upload/banner/637209746755983231.png" alt="Government Open Data License - India"></a>
+                </div>
+                
+                <div class="item">
+                    <a href="https://secure.mygov.in/home/blog/" target="_blank">
+                        <img class="owl-lazy" data-src="https://seci.co.in/upload/banner/637209749776206524.png" alt="Blogs Under MyGov"></a>
+                </div>
+                
+                <div class="item">
+                    <a href="https://www.mygov.in/" target="_blank">
+                        <img class="owl-lazy" data-src="https://seci.co.in/upload/banner/637209750424193668.png" alt="My Gov"></a>
+                </div>
+                
+                <div class="item">
+                    <a href="https://www.india.gov.in/" target="_blank">
+                        <img class="owl-lazy" data-src="https://seci.co.in/upload/banner/637209751605467786.png" alt="National Portal of India"></a>
+                </div>
+                
+                <div class="item">
+                    <a href="https://egreetings.gov.in/" target="_blank">
+                        <img class="owl-lazy" data-src="https://seci.co.in/upload/banner/637209752457829424.png" alt="eGreetings"></a>
+                </div>
+                
+                <div class="item">
+                    <a href="http://meity.gov.in/" target="_blank">
+                        <img class="owl-lazy" data-src="https://seci.co.in/upload/banner/637209753361445086.png" alt="Meity Gov"></a>
+                </div>
+                
+                <div class="item">
+                    <a href="https://www.pmindia.gov.in/en/" target="_blank">
+                        <img class="owl-lazy" data-src="https://seci.co.in/upload/banner/637209754704287520.png" alt="Prime Minister's Office"></a>
+                </div>
+                
+                <div class="item">
+                    <a href="http://www.digitalindia.gov.in/" target="_blank">
+                        <img class="owl-lazy" data-src="https://seci.co.in/upload/banner/637209755477116760.png" alt="DIGITAL INDIA"></a>
+                </div>
+                
+                <div class="item">
+                    <a href="https://self4society.mygov.in/" target="_blank">
+                        <img class="owl-lazy" data-src="https://seci.co.in/upload/banner/637209756577764534.png" alt="SELF4SOCIETY"></a>
+                </div>
+                
+                <div class="item">
+                    <a href="https://transformingindia.mygov.in/" target="_blank">
+                        <img class="owl-lazy" data-src="https://seci.co.in/upload/banner/637209757844825207.png" alt="Transforming India"></a>
+                </div>
+                
+                <div class="item">
+                    <a href="https://innovate.mygov.in/" target="_blank">
+                        <img class="owl-lazy" data-src="https://seci.co.in/upload/banner/637209759193919831.png" alt="innovate"></a>
+                </div>
+                
+                <div class="item">
+                    <a href="https://swachhbharat.mygov.in/" target="_blank">
+                        <img class="owl-lazy" data-src="https://seci.co.in/upload/banner/637209761176150524.png" alt="Swachh Bharat"></a>
+                </div>
+                
+                <div class="item">
+                    <a href="https://quiz.mygov.in/" target="_blank">
+                        <img class="owl-lazy" data-src="https://seci.co.in/upload/banner/637209762798843520.png" alt="Quiz mygov"></a>
+                </div>
+                
+            </div>
+        </div>
+        
+        <div class="ft-bg">
+            <div class="container">
+                <div class="row">
+                    <!-- <div class="col-md-12 col-sm-12 col-xs-12 text-right">
+			  <p class="num-visit mb-0 d-inline-block">
+				Number of Visits : 
+			  </p>
+			<div id="sfcjdw8fp4npcejb2uzs7cqb1p957nsclme" class="d-inline-block"></div>
+<script type="text/javascript" src="https://counter7.wheredoyoucomefrom.ovh/private/counter.js?c=jdw8fp4npcejb2uzs7cqb1p957nsclme&down=async" async></script>
+<noscript><a href="https://www.freecounterstat.com" title="free page counter"><img src="https://counter7.wheredoyoucomefrom.ovh/private/freecounterstat.php?c=jdw8fp4npcejb2uzs7cqb1p957nsclme" border="0" title="free page counter" alt="free page counter"></a></noscript>
+
+			  <p class="text-dark mb-0 font-weight-500">
+				Last Updated on : 18/December/2019
+			  </p>
+			</div> -->
+                    <div class="col-md-12 col-xs-12 text-center right-col-body">
+                        <!-- <h4>Quick Links</h4> -->
+                        <p class="font-weight-500 text-dark mb-0 text-center" style="padding-top: 5px;">
+                            
+                            <!-- hitwebcounter -->
+                            Visitors count since
+                            May 3, 2025
+                            :
+                            3188394
+                            <br />
+                            Website last updated :
+                            May 3, 2025
+                            
+                        </p>
+                        <ul class="text-center">
+                            <li><i class="fa fa-star" style="font-size: 14px;"></i><a href="https://seci.co.in/vigilance/vigilance-complaint-form">Lodge Complaint</a> </li>
+
+                            <li><i class="fa fa-star" style="font-size: 14px;"></i><a href="https://seci.co.in/grievance-portal">
+                                Feedback form</a> </li>
+                            <li><i class="fa fa-star" style="font-size: 14px;"></i><a href="https://seci.co.in/site/map">
+                                SiteMap</a> </li>
+                            <li><i class="fa fa-star" style="font-size: 14px;"></i><a href="https://seci.co.in/page/help">
+                                Help</a> </li>
+                            
+                            <li><i class="fa fa-star" style="font-size: 14px;"></i><a href="https://seci.co.in/page/related-links">
+                                Related Links</a> </li>
+                            
+                            <li><i class="fa fa-star" style="font-size: 14px;"></i><a href="https://seci.co.in/page/website-policies-and-disclaimer">
+                                Website Policies and Disclaimer</a> </li>
+                            <li><i class="fa fa-star" style="font-size: 14px;"></i><a href="https://seci.co.in/archives/data_archives">
+                                Archives</a> </li>
+                            <li><i class="fa fa-star" style="font-size: 14px;"></i><a href="http://secicms.pragyaware.com/">Upcoming new website</a> </li>
+                        </ul>
+                    </div>
+                    <div class="col-md-4 col-sm-5 col-xs-12">
+                        
+                        
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="bg-ft">
+            <div class="container">
+                <div class="row">
+                    <div class="col-sm-7">
+                        <p class="mb-0 f-10-L">
+                            Official Website Of Solar Energy Corporation Of India Ltd.
+                            
+                        </p>
+                    </div>
+                    <div class="col-sm-5">
+                        <p class="mb-0 f-10 ">
+                            Design &amp; Developed by <a href="https://www.paramountinfosystem.com" target="_blank">Paramount Infosystem Pvt. Ltd.</a>
+                        </p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </footer>
+    <a id="top-btn"></a>
+    <!--Jquery Library-->
+
+
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.4.1/js/bootstrap.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/OwlCarousel2/2.3.4/owl.carousel.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/jquery.marquee/1.3.1/jquery.marquee.min.js"></script>
+
+    <script src="https://seci.co.in/js/custom.js"></script>
+
+    <script>
+
+        function _search(_id) {
+            if (document.getElementById("ctl00_txtsearch").value.trim() == "") {
+                document.getElementById("ctl00_txtsearch").focus();
+                return false;
+            }
+            var hdeditbigid = document.getElementById("ctl00_txtsearch").value;
+            var _url = document.getElementById("ctl00_hdurl").value;
+            window.location = '' + _url + 'search-content-search/data?val=' + hdeditbigid + '';
+
+
+        }
+    </script>
+    <script> $(".marquee").on("mouseover", function (e) {
+            $(this).marquee("toggle");
+        });</script>
+    
+        <script type="text/javascript">
+            function _langalert(_id) {
+                if ($("#" + _id).attr("disabled") == "disabled") {
+                    return false;
+                }
+                else {
+                    var r = confirm(document.getElementById("Header1_lbllangmsg").innerHTML);
+                    if (r == true) {
+                        return true;
+                    } else {
+                        return false;
+                    }
+                }
+
+
+            }
+
+        </script>
+
+
+    
+</body>
+</html>

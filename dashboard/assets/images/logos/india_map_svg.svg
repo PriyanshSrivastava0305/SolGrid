@@ -1,0 +1,45 @@
+<svg viewBox="0 0 400 600" xmlns="http://www.w3.org/2000/svg">
+  <!-- Simplified outline of India -->
+  <path d="M 210,40 
+           C 190,50 175,65 165,85 
+           L 150,120 L 130,130 L 110,160 
+           L 90,190 L 70,240 L 50,290 
+           L 60,340 L 40,380 L 60,410 
+           L 80,440 L 90,480 L 110,510 
+           L 150,530 L 180,550 L 220,560 
+           L 270,540 L 320,520 L 350,490 
+           L 360,450 L 370,400 L 350,370 
+           L 340,320 L 330,280 L 350,250 
+           L 340,220 L 320,190 L 310,140 
+           L 280,100 L 250,70 L 210,40 Z" 
+           fill="none" stroke="#023047" stroke-width="4" />
+  
+  <!-- Jammu and Kashmir simplified -->
+  <path d="M 210,40 
+           C 240,30 270,30 290,50 
+           C 310,70 320,90 310,110 
+           C 300,120 280,100 250,70 
+           C 240,60 225,50 210,40 Z"
+           fill="none" stroke="#023047" stroke-width="4" />
+           
+  <!-- Eastern states simplified -->
+  <path d="M 350,250 
+           C 370,240 380,230 390,210 
+           C 395,190 390,180 370,180 
+           C 350,190 340,220 350,250 Z"
+           fill="none" stroke="#023047" stroke-width="4" />
+           
+  <!-- Solar icon overlay -->
+  <g transform="translate(210, 300) scale(0.7)">
+    <circle cx="0" cy="0" r="25" fill="#ffb703" stroke="#023047" stroke-width="2" />
+    <!-- Rays -->
+    <line x1="0" y1="-40" x2="0" y2="-30" stroke="#ffb703" stroke-width="4" />
+    <line x1="0" y1="30" x2="0" y2="40" stroke="#ffb703" stroke-width="4" />
+    <line x1="-40" y1="0" x2="-30" y2="0" stroke="#ffb703" stroke-width="4" />
+    <line x1="30" y1="0" x2="40" y2="0" stroke="#ffb703" stroke-width="4" />
+    <line x1="-28" y1="-28" x2="-21" y2="-21" stroke="#ffb703" stroke-width="4" />
+    <line x1="21" y1="21" x2="28" y2="28" stroke="#ffb703" stroke-width="4" />
+    <line x1="-28" y1="28" x2="-21" y2="21" stroke="#ffb703" stroke-width="4" />
+    <line x1="21" y1="-21" x2="28" y2="-28" stroke="#ffb703" stroke-width="4" />
+  </g>
+</svg>

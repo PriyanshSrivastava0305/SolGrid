@@ -1,0 +1,368 @@
+2025-05-03 11:55:16,429 - __main__ - INFO - Current database version: 0
+2025-05-03 11:55:16,445 - storage.database - INFO - Created database engine for sqlite:///C:\Users\linar\OneDrive\Desktop\SolGrid\data\solar_detective.db
+2025-05-03 11:56:12,719 - __main__ - INFO - Running all scrapers...
+2025-05-03 11:56:12,830 - __main__ - ERROR - Error in main application: cannot import name 'DATA_SOURCES' from 'config' (C:\Users\linar\OneDrive\Desktop\SolGrid\config.py)
+Traceback (most recent call last):
+  File "C:\Users\linar\OneDrive\Desktop\SolGrid\main.py", line 173, in <module>
+    main()
+  File "C:\Users\linar\OneDrive\Desktop\SolGrid\main.py", line 148, in main
+    run_scrapers('all')
+  File "C:\Users\linar\OneDrive\Desktop\SolGrid\main.py", line 37, in run_scrapers
+    from scrapers.mnre_scraper import MNREScraper
+  File "C:\Users\linar\OneDrive\Desktop\SolGrid\scrapers\mnre_scraper.py", line 12, in <module>
+    from config import DATA_SOURCES
+ImportError: cannot import name 'DATA_SOURCES' from 'config' (C:\Users\linar\OneDrive\Desktop\SolGrid\config.py). Did you mean: 'NEWS_SOURCES'?
+2025-05-03 11:56:39,617 - __main__ - INFO - Running all scrapers...
+2025-05-03 11:56:39,687 - __main__ - ERROR - Error in main application: No module named 'data_collection'
+Traceback (most recent call last):
+  File "C:\Users\linar\OneDrive\Desktop\SolGrid\main.py", line 173, in <module>
+    main()
+  File "C:\Users\linar\OneDrive\Desktop\SolGrid\main.py", line 148, in main
+    run_scrapers('all')
+  File "C:\Users\linar\OneDrive\Desktop\SolGrid\main.py", line 37, in run_scrapers
+    from scrapers.mnre_scraper import MNREScraper
+  File "C:\Users\linar\OneDrive\Desktop\SolGrid\scrapers\mnre_scraper.py", line 13, in <module>
+    from data_collection.scraper_base import BaseScraper
+ModuleNotFoundError: No module named 'data_collection'
+2025-05-03 11:57:53,110 - __main__ - INFO - Running all scrapers...
+2025-05-03 11:57:53,180 - __main__ - ERROR - Error in main application: No module named 'data_collection'
+Traceback (most recent call last):
+  File "C:\Users\linar\OneDrive\Desktop\SolGrid\main.py", line 173, in <module>
+    main()
+  File "C:\Users\linar\OneDrive\Desktop\SolGrid\main.py", line 148, in main
+    run_scrapers('all')
+  File "C:\Users\linar\OneDrive\Desktop\SolGrid\main.py", line 37, in run_scrapers
+    from scrapers.mnre_scraper import MNREScraper
+  File "C:\Users\linar\OneDrive\Desktop\SolGrid\scrapers\mnre_scraper.py", line 13, in <module>
+    from data_collection.scraper_base import BaseScraper
+ModuleNotFoundError: No module named 'data_collection'
+2025-05-03 11:59:58,150 - __main__ - INFO - Running all scrapers...
+2025-05-03 11:59:58,274 - __main__ - ERROR - Error in main application: No module named 'data_collection'
+Traceback (most recent call last):
+  File "C:\Users\linar\OneDrive\Desktop\SolGrid\main.py", line 173, in <module>
+    main()
+  File "C:\Users\linar\OneDrive\Desktop\SolGrid\main.py", line 148, in main
+    run_scrapers('all')
+  File "C:\Users\linar\OneDrive\Desktop\SolGrid\main.py", line 38, in run_scrapers
+    from scrapers.seci_scraper import SECIScraper
+  File "C:\Users\linar\OneDrive\Desktop\SolGrid\scrapers\seci_scraper.py", line 13, in <module>
+    from data_collection.scraper_base import BaseScraper
+ModuleNotFoundError: No module named 'data_collection'
+2025-05-03 12:01:57,919 - __main__ - INFO - Running all scrapers...
+2025-05-03 12:01:57,996 - __main__ - ERROR - Error in main application: No module named 'base_scraper'
+Traceback (most recent call last):
+  File "C:\Users\linar\OneDrive\Desktop\SolGrid\main.py", line 173, in <module>
+    main()
+  File "C:\Users\linar\OneDrive\Desktop\SolGrid\main.py", line 148, in main
+    run_scrapers('all')
+  File "C:\Users\linar\OneDrive\Desktop\SolGrid\main.py", line 39, in run_scrapers
+    from scrapers.posco_scraper import POSCOScraper
+  File "C:\Users\linar\OneDrive\Desktop\SolGrid\scrapers\posco_scraper.py", line 13, in <module>
+    from base_scraper import BaseScraper
+ModuleNotFoundError: No module named 'base_scraper'
+2025-05-03 12:04:11,240 - __main__ - INFO - Running all scrapers...
+2025-05-03 12:04:11,319 - __main__ - ERROR - Error in main application: cannot import name 'POSCOScraper' from 'scrapers.posco_scraper' (C:\Users\linar\OneDrive\Desktop\SolGrid\scrapers\posco_scraper.py)
+Traceback (most recent call last):
+  File "C:\Users\linar\OneDrive\Desktop\SolGrid\main.py", line 173, in <module>
+    main()
+  File "C:\Users\linar\OneDrive\Desktop\SolGrid\main.py", line 148, in main
+    run_scrapers('all')
+  File "C:\Users\linar\OneDrive\Desktop\SolGrid\main.py", line 39, in run_scrapers
+    from scrapers.posco_scraper import POSCOScraper
+ImportError: cannot import name 'POSCOScraper' from 'scrapers.posco_scraper' (C:\Users\linar\OneDrive\Desktop\SolGrid\scrapers\posco_scraper.py). Did you mean: 'posco_scraper'?
+2025-05-03 12:04:48,379 - __main__ - INFO - Running all scrapers...
+2025-05-03 12:04:48,569 - __main__ - ERROR - Error in main application: No module named 'base_scraper'
+Traceback (most recent call last):
+  File "C:\Users\linar\OneDrive\Desktop\SolGrid\main.py", line 173, in <module>
+    main()
+  File "C:\Users\linar\OneDrive\Desktop\SolGrid\main.py", line 148, in main
+    run_scrapers('all')
+  File "C:\Users\linar\OneDrive\Desktop\SolGrid\main.py", line 40, in run_scrapers
+    from scrapers.pdf_scraper import PDFScraper
+  File "C:\Users\linar\OneDrive\Desktop\SolGrid\scrapers\pdf_scraper.py", line 14, in <module>
+    from base_scraper import BaseScraper
+ModuleNotFoundError: No module named 'base_scraper'
+2025-05-03 12:09:16,448 - __main__ - INFO - Running all scrapers...
+2025-05-03 12:09:16,771 - __main__ - ERROR - Error in main application: No module named 'rasterio'
+Traceback (most recent call last):
+  File "C:\Users\linar\OneDrive\Desktop\SolGrid\main.py", line 173, in <module>
+    main()
+  File "C:\Users\linar\OneDrive\Desktop\SolGrid\main.py", line 148, in main
+    run_scrapers('all')
+  File "C:\Users\linar\OneDrive\Desktop\SolGrid\main.py", line 42, in run_scrapers
+    from scrapers.satellite_scraper import SatelliteScraper
+  File "C:\Users\linar\OneDrive\Desktop\SolGrid\scrapers\satellite_scraper.py", line 10, in <module>
+    import rasterio
+ModuleNotFoundError: No module named 'rasterio'
+2025-05-03 12:11:12,052 - __main__ - INFO - Running all scrapers...
+2025-05-03 12:11:12,511 - __main__ - ERROR - Error in main application: Can't instantiate abstract class SatelliteScraper without an implementation for abstract method 'scrape'
+Traceback (most recent call last):
+  File "C:\Users\linar\OneDrive\Desktop\SolGrid\main.py", line 173, in <module>
+    main()
+  File "C:\Users\linar\OneDrive\Desktop\SolGrid\main.py", line 148, in main
+    run_scrapers('all')
+  File "C:\Users\linar\OneDrive\Desktop\SolGrid\main.py", line 50, in run_scrapers
+    'satellite': SatelliteScraper()
+                 ^^^^^^^^^^^^^^^^^^
+TypeError: Can't instantiate abstract class SatelliteScraper without an implementation for abstract method 'scrape'
+2025-05-03 12:12:01,142 - __main__ - INFO - Running all scrapers...
+2025-05-03 12:12:01,536 - __main__ - INFO - Running all scrapers...
+2025-05-03 12:12:01,536 - __main__ - INFO - Running mnre scraper...
+2025-05-03 12:12:01,536 - scraper_mnre - INFO - Starting MNRE data scraping
+2025-05-03 12:12:13,331 - root - ERROR - Failed to get https://mnre.gov.in/solar/current-status/: 404 Client Error: Not Found for url: https://mnre.gov.in/solar/current-status/
+2025-05-03 12:12:13,331 - scraper_mnre - ERROR - Failed to access MNRE website
+2025-05-03 12:12:13,332 - __main__ - INFO - Running seci scraper...
+2025-05-03 12:12:13,333 - scraper_seci - INFO - Starting SECI data scraping
+2025-05-03 12:12:13,842 - scraper_seci - INFO - Saved raw data to C:\Users\linar\OneDrive\Desktop\SolGrid\data\raw\seci\seci_main_page.html_20250503_121213
+2025-05-03 12:12:13,853 - scraper_seci - INFO - Scraping project listing page: https://www.seci.co.in/web-data/docs/list-of-solar-projectssolar-tenders
+2025-05-03 12:12:14,345 - scraper_seci - INFO - Saved raw data to C:\Users\linar\OneDrive\Desktop\SolGrid\data\raw\seci\seci_list-of-solar-projectssolar-tenders_page.html_20250503_121214
+2025-05-03 12:12:15,169 - scraper_seci - INFO - Saved raw data to C:\Users\linar\OneDrive\Desktop\SolGrid\data\raw\seci\seci_project_senior-executives.html_20250503_121215
+2025-05-03 12:12:15,729 - scraper_seci - INFO - Saved raw data to C:\Users\linar\OneDrive\Desktop\SolGrid\data\raw\seci\seci_project_solar.html_20250503_121215
+2025-05-03 12:12:16,087 - scraper_seci - INFO - Saved raw data to C:\Users\linar\OneDrive\Desktop\SolGrid\data\raw\seci\seci_project_solar-park.html_20250503_121216
+2025-05-03 12:12:16,504 - scraper_seci - INFO - Saved raw data to C:\Users\linar\OneDrive\Desktop\SolGrid\data\raw\seci\seci_project_own-projects.html_20250503_121216
+2025-05-03 12:12:16,932 - scraper_seci - INFO - Saved raw data to C:\Users\linar\OneDrive\Desktop\SolGrid\data\raw\seci\seci_project_project-management-consultancy.html_20250503_121216
+2025-05-03 12:12:17,365 - scraper_seci - INFO - Saved raw data to C:\Users\linar\OneDrive\Desktop\SolGrid\data\raw\seci\seci_project_solar-photovoltaic.html_20250503_121217
+2025-05-03 12:12:17,770 - scraper_seci - INFO - Saved raw data to C:\Users\linar\OneDrive\Desktop\SolGrid\data\raw\seci\seci_project_solar-thermal.html_20250503_121217
+2025-05-03 12:12:18,138 - scraper_seci - INFO - Saved raw data to C:\Users\linar\OneDrive\Desktop\SolGrid\data\raw\seci\seci_project_solarization-of-ports.html_20250503_121218
+2025-05-03 12:12:18,512 - scraper_seci - INFO - Saved raw data to C:\Users\linar\OneDrive\Desktop\SolGrid\data\raw\seci\seci_project_solar.html_20250503_121218
+2025-05-03 12:12:18,876 - scraper_seci - INFO - Saved raw data to C:\Users\linar\OneDrive\Desktop\SolGrid\data\raw\seci\seci_project_solar.html_20250503_121218
+2025-05-03 12:12:18,890 - scraper_seci - INFO - Scraping project listing page: https://www.seci.co.in/web-data/docs/list-of-solar-projectscommissioned-projects
+2025-05-03 12:12:19,356 - scraper_seci - INFO - Saved raw data to C:\Users\linar\OneDrive\Desktop\SolGrid\data\raw\seci\seci_list-of-solar-projectscommissioned-projects_page.html_20250503_121219
+2025-05-03 12:12:19,808 - scraper_seci - INFO - Saved raw data to C:\Users\linar\OneDrive\Desktop\SolGrid\data\raw\seci\seci_project_senior-executives.html_20250503_121219
+2025-05-03 12:12:20,211 - scraper_seci - INFO - Saved raw data to C:\Users\linar\OneDrive\Desktop\SolGrid\data\raw\seci\seci_project_solar.html_20250503_121220
+2025-05-03 12:12:20,611 - scraper_seci - INFO - Saved raw data to C:\Users\linar\OneDrive\Desktop\SolGrid\data\raw\seci\seci_project_solar-park.html_20250503_121220
+2025-05-03 12:12:21,004 - scraper_seci - INFO - Saved raw data to C:\Users\linar\OneDrive\Desktop\SolGrid\data\raw\seci\seci_project_own-projects.html_20250503_121221
+2025-05-03 12:12:21,389 - scraper_seci - INFO - Saved raw data to C:\Users\linar\OneDrive\Desktop\SolGrid\data\raw\seci\seci_project_project-management-consultancy.html_20250503_121221
+2025-05-03 12:12:21,836 - scraper_seci - INFO - Saved raw data to C:\Users\linar\OneDrive\Desktop\SolGrid\data\raw\seci\seci_project_solar-photovoltaic.html_20250503_121221
+2025-05-03 12:12:22,202 - scraper_seci - INFO - Saved raw data to C:\Users\linar\OneDrive\Desktop\SolGrid\data\raw\seci\seci_project_solar-thermal.html_20250503_121222
+2025-05-03 12:12:22,582 - scraper_seci - INFO - Saved raw data to C:\Users\linar\OneDrive\Desktop\SolGrid\data\raw\seci\seci_project_solarization-of-ports.html_20250503_121222
+2025-05-03 12:12:22,943 - scraper_seci - INFO - Saved raw data to C:\Users\linar\OneDrive\Desktop\SolGrid\data\raw\seci\seci_project_solar.html_20250503_121222
+2025-05-03 12:12:23,316 - scraper_seci - INFO - Saved raw data to C:\Users\linar\OneDrive\Desktop\SolGrid\data\raw\seci\seci_project_solar.html_20250503_121223
+2025-05-03 12:12:23,332 - scraper_seci - INFO - Scraping project listing page: https://www.seci.co.in/web-data/docs/list-of-solar-projectsongoing-projects
+2025-05-03 12:12:23,821 - scraper_seci - INFO - Saved raw data to C:\Users\linar\OneDrive\Desktop\SolGrid\data\raw\seci\seci_list-of-solar-projectsongoing-projects_page.html_20250503_121223
+2025-05-03 12:12:24,291 - scraper_seci - INFO - Saved raw data to C:\Users\linar\OneDrive\Desktop\SolGrid\data\raw\seci\seci_project_senior-executives.html_20250503_121224
+2025-05-03 12:12:24,681 - scraper_seci - INFO - Saved raw data to C:\Users\linar\OneDrive\Desktop\SolGrid\data\raw\seci\seci_project_solar.html_20250503_121224
+2025-05-03 12:12:25,064 - scraper_seci - INFO - Saved raw data to C:\Users\linar\OneDrive\Desktop\SolGrid\data\raw\seci\seci_project_solar-park.html_20250503_121225
+2025-05-03 12:12:25,484 - scraper_seci - INFO - Saved raw data to C:\Users\linar\OneDrive\Desktop\SolGrid\data\raw\seci\seci_project_own-projects.html_20250503_121225
+2025-05-03 12:12:25,881 - scraper_seci - INFO - Saved raw data to C:\Users\linar\OneDrive\Desktop\SolGrid\data\raw\seci\seci_project_project-management-consultancy.html_20250503_121225
+2025-05-03 12:12:26,276 - scraper_seci - INFO - Saved raw data to C:\Users\linar\OneDrive\Desktop\SolGrid\data\raw\seci\seci_project_solar-photovoltaic.html_20250503_121226
+2025-05-03 12:12:26,708 - scraper_seci - INFO - Saved raw data to C:\Users\linar\OneDrive\Desktop\SolGrid\data\raw\seci\seci_project_solar-thermal.html_20250503_121226
+2025-05-03 12:12:27,074 - scraper_seci - INFO - Saved raw data to C:\Users\linar\OneDrive\Desktop\SolGrid\data\raw\seci\seci_project_solarization-of-ports.html_20250503_121227
+2025-05-03 12:12:27,470 - scraper_seci - INFO - Saved raw data to C:\Users\linar\OneDrive\Desktop\SolGrid\data\raw\seci\seci_project_solar.html_20250503_121227
+2025-05-03 12:12:27,851 - scraper_seci - INFO - Saved raw data to C:\Users\linar\OneDrive\Desktop\SolGrid\data\raw\seci\seci_project_solar.html_20250503_121227
+2025-05-03 12:12:28,392 - scraper_seci - INFO - Saved raw data to C:\Users\linar\OneDrive\Desktop\SolGrid\data\raw\seci\seci_tenders_page.html_20250503_121228
+2025-05-03 12:12:28,409 - scraper_seci - INFO - Scraped 12 solar projects from SECI
+2025-05-03 12:12:28,409 - __main__ - INFO - Running posco scraper...
+2025-05-03 12:12:28,409 - posoco_scraper - INFO - Starting POSOCO data scraping
+2025-05-03 12:12:28,409 - posoco_scraper - INFO - Scraping renewable reports
+2025-05-03 12:12:38,897 - posoco_scraper - INFO - Downloaded PDF: data\raw\posoco\2025-05-03_Solar Eclipse 21 June 2020_Analysis of its impact on the Indian Power System-A Report.pdf
+2025-05-03 12:12:43,307 - posoco_scraper - INFO - Downloaded PDF: data\raw\posoco\2025-05-03_Solar Eclipse of 21.06.20 Possible Effects and Preparation – A Report.pdf
+2025-05-03 12:12:53,065 - posoco_scraper - INFO - Downloaded PDF: data\raw\posoco\2025-05-03_Solar Eclipse Analysis of its Impact on the Indian Power System – A Report.pdf
+2025-05-03 12:13:03,420 - posoco_scraper - INFO - Downloaded PDF: data\raw\posoco\2025-05-03_Solar Eclipse Indian Power System likely impacts and preparedness- A Report.pdf
+2025-05-03 12:13:03,425 - posoco_scraper - INFO - Scraping grid connectivity data
+2025-05-03 12:13:03,428 - posoco_scraper - INFO - Scraping dispatch data
+2025-05-03 12:13:03,431 - posoco_scraper - INFO - POSOCO data scraping completed
+2025-05-03 12:13:03,431 - __main__ - INFO - Running pdf scraper...
+2025-05-03 12:13:03,432 - pdf_scraper - INFO - Starting PDF scraping process
+2025-05-03 12:13:03,432 - pdf_scraper - WARNING - No PDF files found in data\pdfs
+2025-05-03 12:13:03,433 - __main__ - INFO - Running news scraper...
+2025-05-03 12:13:03,433 - news_scraper - INFO - Starting news scraping
+2025-05-03 12:13:03,433 - news_scraper - INFO - Scraping source: PV Magazine India
+2025-05-03 12:13:03,434 - news_scraper - ERROR - Error scraping source PV Magazine India: 'search_pattern'
+2025-05-03 12:13:03,434 - news_scraper - INFO - Scraping source: ETEnergyWorld
+2025-05-03 12:13:03,434 - news_scraper - ERROR - Error scraping source ETEnergyWorld: 'search_pattern'
+2025-05-03 12:13:03,435 - news_scraper - INFO - Scraping source: Mercom India
+2025-05-03 12:13:03,435 - news_scraper - ERROR - Error scraping source Mercom India: 'search_pattern'
+2025-05-03 12:13:03,435 - news_scraper - WARNING - No projects extracted from news articles
+2025-05-03 12:13:03,435 - __main__ - INFO - Running satellite scraper...
+2025-05-03 12:13:03,436 - SatelliteScraper - INFO - Starting satellite data scraping
+2025-05-03 12:13:03,436 - SatelliteScraper - INFO - Processing location: Bhadla Solar Park, Rajasthan
+2025-05-03 12:13:03,436 - SatelliteScraper - INFO - Downloading sentinel-2 image for location: 26.9124, 71.917
+2025-05-03 12:13:03,476 - SatelliteScraper - INFO - Saved placeholder image to data\satellite\sentinel-2_26.9124_71.9170.tif
+2025-05-03 12:13:03,476 - SatelliteScraper - INFO - Detecting solar arrays in data\satellite\sentinel-2_26.9124_71.9170.tif
+2025-05-03 12:13:03,489 - SatelliteScraper - INFO - Detected 2 potential solar arrays
+2025-05-03 12:13:03,490 - SatelliteScraper - INFO - Processing location: Charanka Solar Park, Gujarat
+2025-05-03 12:13:03,490 - SatelliteScraper - INFO - Downloading sentinel-2 image for location: 23.673, 72.5726
+2025-05-03 12:13:03,516 - SatelliteScraper - INFO - Saved placeholder image to data\satellite\sentinel-2_23.6730_72.5726.tif
+2025-05-03 12:13:03,516 - SatelliteScraper - INFO - Detecting solar arrays in data\satellite\sentinel-2_23.6730_72.5726.tif
+2025-05-03 12:13:03,525 - SatelliteScraper - INFO - Detected 2 potential solar arrays
+2025-05-03 12:13:03,525 - SatelliteScraper - INFO - Processing location: Pavagada Solar Park, Karnataka
+2025-05-03 12:13:03,526 - SatelliteScraper - INFO - Downloading sentinel-2 image for location: 14.8971, 77.5876
+2025-05-03 12:13:03,552 - SatelliteScraper - INFO - Saved placeholder image to data\satellite\sentinel-2_14.8971_77.5876.tif
+2025-05-03 12:13:03,552 - SatelliteScraper - INFO - Detecting solar arrays in data\satellite\sentinel-2_14.8971_77.5876.tif
+2025-05-03 12:13:03,562 - SatelliteScraper - INFO - Detected 3 potential solar arrays
+2025-05-03 12:13:03,563 - SatelliteScraper - INFO - Processing location: Bhanpura, Madhya Pradesh
+2025-05-03 12:13:03,563 - SatelliteScraper - INFO - Downloading sentinel-2 image for location: 25.2138, 75.8647
+2025-05-03 12:13:03,588 - SatelliteScraper - INFO - Saved placeholder image to data\satellite\sentinel-2_25.2138_75.8647.tif
+2025-05-03 12:13:03,588 - SatelliteScraper - INFO - Detecting solar arrays in data\satellite\sentinel-2_25.2138_75.8647.tif
+2025-05-03 12:13:03,598 - SatelliteScraper - INFO - Detected 2 potential solar arrays
+2025-05-03 12:13:03,598 - SatelliteScraper - INFO - Processing location: Dhule, Maharashtra
+2025-05-03 12:13:03,598 - SatelliteScraper - INFO - Downloading sentinel-2 image for location: 21.2514, 73.246
+2025-05-03 12:13:03,625 - SatelliteScraper - INFO - Saved placeholder image to data\satellite\sentinel-2_21.2514_73.2460.tif
+2025-05-03 12:13:03,625 - SatelliteScraper - INFO - Detecting solar arrays in data\satellite\sentinel-2_21.2514_73.2460.tif
+2025-05-03 12:13:03,632 - SatelliteScraper - INFO - Detected 2 potential solar arrays
+2025-05-03 12:13:03,633 - SatelliteScraper - INFO - Completed satellite scraping, found 11 potential installations
+2025-05-03 12:13:03,634 - __main__ - INFO - Processing data...
+2025-05-03 12:13:03,791 - __main__ - ERROR - Error in main application: cannot import name 'setup_logger' from 'utility_func' (C:\Users\linar\OneDrive\Desktop\SolGrid\utility_func.py)
+Traceback (most recent call last):
+  File "C:\Users\linar\OneDrive\Desktop\SolGrid\main.py", line 173, in <module>
+    main()
+  File "C:\Users\linar\OneDrive\Desktop\SolGrid\main.py", line 152, in main
+    process_data()
+  File "C:\Users\linar\OneDrive\Desktop\SolGrid\main.py", line 70, in process_data
+    from processing.data_processor import DataProcessor
+  File "C:\Users\linar\OneDrive\Desktop\SolGrid\processing\data_processor.py", line 16, in <module>
+    from utility_func import setup_logger, clean_text, standardize_date
+ImportError: cannot import name 'setup_logger' from 'utility_func' (C:\Users\linar\OneDrive\Desktop\SolGrid\utility_func.py). Did you mean: 'get_logger'?
+2025-05-03 12:13:04,868 - __main__ - INFO - Running all scrapers...
+2025-05-03 12:13:05,244 - __main__ - INFO - Running all scrapers...
+2025-05-03 12:13:05,244 - __main__ - INFO - Running mnre scraper...
+2025-05-03 12:13:05,244 - scraper_mnre - INFO - Starting MNRE data scraping
+2025-05-03 12:13:16,879 - root - ERROR - Failed to get https://mnre.gov.in/solar/current-status/: 404 Client Error: Not Found for url: https://mnre.gov.in/solar/current-status/
+2025-05-03 12:13:16,880 - scraper_mnre - ERROR - Failed to access MNRE website
+2025-05-03 12:13:16,880 - __main__ - INFO - Running seci scraper...
+2025-05-03 12:13:16,882 - scraper_seci - INFO - Starting SECI data scraping
+2025-05-03 12:13:17,381 - scraper_seci - INFO - Saved raw data to C:\Users\linar\OneDrive\Desktop\SolGrid\data\raw\seci\seci_main_page.html_20250503_121317
+2025-05-03 12:13:17,394 - scraper_seci - INFO - Scraping project listing page: https://www.seci.co.in/web-data/docs/list-of-solar-projectssolar-tenders
+2025-05-03 12:13:17,873 - scraper_seci - INFO - Saved raw data to C:\Users\linar\OneDrive\Desktop\SolGrid\data\raw\seci\seci_list-of-solar-projectssolar-tenders_page.html_20250503_121317
+2025-05-03 12:13:18,519 - scraper_seci - INFO - Saved raw data to C:\Users\linar\OneDrive\Desktop\SolGrid\data\raw\seci\seci_project_senior-executives.html_20250503_121318
+2025-05-03 12:13:18,924 - scraper_seci - INFO - Saved raw data to C:\Users\linar\OneDrive\Desktop\SolGrid\data\raw\seci\seci_project_solar.html_20250503_121318
+2025-05-03 12:13:19,330 - scraper_seci - INFO - Saved raw data to C:\Users\linar\OneDrive\Desktop\SolGrid\data\raw\seci\seci_project_solar-park.html_20250503_121319
+2025-05-03 12:13:19,762 - scraper_seci - INFO - Saved raw data to C:\Users\linar\OneDrive\Desktop\SolGrid\data\raw\seci\seci_project_own-projects.html_20250503_121319
+2025-05-03 12:13:20,163 - scraper_seci - INFO - Saved raw data to C:\Users\linar\OneDrive\Desktop\SolGrid\data\raw\seci\seci_project_project-management-consultancy.html_20250503_121320
+2025-05-03 12:13:20,607 - scraper_seci - INFO - Saved raw data to C:\Users\linar\OneDrive\Desktop\SolGrid\data\raw\seci\seci_project_solar-photovoltaic.html_20250503_121320
+2025-05-03 12:13:21,004 - scraper_seci - INFO - Saved raw data to C:\Users\linar\OneDrive\Desktop\SolGrid\data\raw\seci\seci_project_solar-thermal.html_20250503_121321
+2025-05-03 12:13:21,355 - scraper_seci - INFO - Saved raw data to C:\Users\linar\OneDrive\Desktop\SolGrid\data\raw\seci\seci_project_solarization-of-ports.html_20250503_121321
+2025-05-03 12:13:21,741 - scraper_seci - INFO - Saved raw data to C:\Users\linar\OneDrive\Desktop\SolGrid\data\raw\seci\seci_project_solar.html_20250503_121321
+2025-05-03 12:13:22,105 - scraper_seci - INFO - Saved raw data to C:\Users\linar\OneDrive\Desktop\SolGrid\data\raw\seci\seci_project_solar.html_20250503_121322
+2025-05-03 12:13:22,121 - scraper_seci - INFO - Scraping project listing page: https://www.seci.co.in/web-data/docs/list-of-solar-projectscommissioned-projects
+2025-05-03 12:13:22,715 - scraper_seci - INFO - Saved raw data to C:\Users\linar\OneDrive\Desktop\SolGrid\data\raw\seci\seci_list-of-solar-projectscommissioned-projects_page.html_20250503_121322
+2025-05-03 12:13:23,223 - scraper_seci - INFO - Saved raw data to C:\Users\linar\OneDrive\Desktop\SolGrid\data\raw\seci\seci_project_senior-executives.html_20250503_121323
+2025-05-03 12:13:23,614 - scraper_seci - INFO - Saved raw data to C:\Users\linar\OneDrive\Desktop\SolGrid\data\raw\seci\seci_project_solar.html_20250503_121323
+2025-05-03 12:13:24,028 - scraper_seci - INFO - Saved raw data to C:\Users\linar\OneDrive\Desktop\SolGrid\data\raw\seci\seci_project_solar-park.html_20250503_121324
+2025-05-03 12:13:24,428 - scraper_seci - INFO - Saved raw data to C:\Users\linar\OneDrive\Desktop\SolGrid\data\raw\seci\seci_project_own-projects.html_20250503_121324
+2025-05-03 12:13:24,824 - scraper_seci - INFO - Saved raw data to C:\Users\linar\OneDrive\Desktop\SolGrid\data\raw\seci\seci_project_project-management-consultancy.html_20250503_121324
+2025-05-03 12:13:25,236 - scraper_seci - INFO - Saved raw data to C:\Users\linar\OneDrive\Desktop\SolGrid\data\raw\seci\seci_project_solar-photovoltaic.html_20250503_121325
+2025-05-03 12:13:25,599 - scraper_seci - INFO - Saved raw data to C:\Users\linar\OneDrive\Desktop\SolGrid\data\raw\seci\seci_project_solar-thermal.html_20250503_121325
+2025-05-03 12:13:25,960 - scraper_seci - INFO - Saved raw data to C:\Users\linar\OneDrive\Desktop\SolGrid\data\raw\seci\seci_project_solarization-of-ports.html_20250503_121325
+2025-05-03 12:13:26,342 - scraper_seci - INFO - Saved raw data to C:\Users\linar\OneDrive\Desktop\SolGrid\data\raw\seci\seci_project_solar.html_20250503_121326
+2025-05-03 12:13:26,720 - scraper_seci - INFO - Saved raw data to C:\Users\linar\OneDrive\Desktop\SolGrid\data\raw\seci\seci_project_solar.html_20250503_121326
+2025-05-03 12:13:26,735 - scraper_seci - INFO - Scraping project listing page: https://www.seci.co.in/web-data/docs/list-of-solar-projectsongoing-projects
+2025-05-03 12:13:27,241 - scraper_seci - INFO - Saved raw data to C:\Users\linar\OneDrive\Desktop\SolGrid\data\raw\seci\seci_list-of-solar-projectsongoing-projects_page.html_20250503_121327
+2025-05-03 12:13:27,767 - scraper_seci - INFO - Saved raw data to C:\Users\linar\OneDrive\Desktop\SolGrid\data\raw\seci\seci_project_senior-executives.html_20250503_121327
+2025-05-03 12:13:28,179 - scraper_seci - INFO - Saved raw data to C:\Users\linar\OneDrive\Desktop\SolGrid\data\raw\seci\seci_project_solar.html_20250503_121328
+2025-05-03 12:13:28,559 - scraper_seci - INFO - Saved raw data to C:\Users\linar\OneDrive\Desktop\SolGrid\data\raw\seci\seci_project_solar-park.html_20250503_121328
+2025-05-03 12:13:28,951 - scraper_seci - INFO - Saved raw data to C:\Users\linar\OneDrive\Desktop\SolGrid\data\raw\seci\seci_project_own-projects.html_20250503_121328
+2025-05-03 12:13:29,465 - scraper_seci - INFO - Saved raw data to C:\Users\linar\OneDrive\Desktop\SolGrid\data\raw\seci\seci_project_project-management-consultancy.html_20250503_121329
+2025-05-03 12:13:29,847 - scraper_seci - INFO - Saved raw data to C:\Users\linar\OneDrive\Desktop\SolGrid\data\raw\seci\seci_project_solar-photovoltaic.html_20250503_121329
+2025-05-03 12:13:30,242 - scraper_seci - INFO - Saved raw data to C:\Users\linar\OneDrive\Desktop\SolGrid\data\raw\seci\seci_project_solar-thermal.html_20250503_121330
+2025-05-03 12:13:30,574 - scraper_seci - INFO - Saved raw data to C:\Users\linar\OneDrive\Desktop\SolGrid\data\raw\seci\seci_project_solarization-of-ports.html_20250503_121330
+2025-05-03 12:13:30,964 - scraper_seci - INFO - Saved raw data to C:\Users\linar\OneDrive\Desktop\SolGrid\data\raw\seci\seci_project_solar.html_20250503_121330
+2025-05-03 12:13:31,363 - scraper_seci - INFO - Saved raw data to C:\Users\linar\OneDrive\Desktop\SolGrid\data\raw\seci\seci_project_solar.html_20250503_121331
+2025-05-03 12:13:31,848 - scraper_seci - INFO - Saved raw data to C:\Users\linar\OneDrive\Desktop\SolGrid\data\raw\seci\seci_tenders_page.html_20250503_121331
+2025-05-03 12:13:31,863 - scraper_seci - INFO - Scraped 12 solar projects from SECI
+2025-05-03 12:13:31,863 - __main__ - INFO - Running posco scraper...
+2025-05-03 12:13:31,863 - posoco_scraper - INFO - Starting POSOCO data scraping
+2025-05-03 12:13:31,865 - posoco_scraper - INFO - Scraping renewable reports
+2025-05-03 12:13:45,577 - posoco_scraper - INFO - Downloaded PDF: data\raw\posoco\2025-05-03_Solar Eclipse 21 June 2020_Analysis of its impact on the Indian Power System-A Report.pdf
+2025-05-03 12:13:51,545 - posoco_scraper - INFO - Downloaded PDF: data\raw\posoco\2025-05-03_Solar Eclipse of 21.06.20 Possible Effects and Preparation – A Report.pdf
+2025-05-03 12:14:00,602 - posoco_scraper - INFO - Downloaded PDF: data\raw\posoco\2025-05-03_Solar Eclipse Analysis of its Impact on the Indian Power System – A Report.pdf
+2025-05-03 12:14:11,926 - posoco_scraper - INFO - Downloaded PDF: data\raw\posoco\2025-05-03_Solar Eclipse Indian Power System likely impacts and preparedness- A Report.pdf
+2025-05-03 12:14:11,927 - posoco_scraper - INFO - Scraping grid connectivity data
+2025-05-03 12:14:11,928 - posoco_scraper - INFO - Scraping dispatch data
+2025-05-03 12:14:11,930 - posoco_scraper - INFO - POSOCO data scraping completed
+2025-05-03 12:14:11,930 - __main__ - INFO - Running pdf scraper...
+2025-05-03 12:14:11,930 - pdf_scraper - INFO - Starting PDF scraping process
+2025-05-03 12:14:11,931 - pdf_scraper - WARNING - No PDF files found in data\pdfs
+2025-05-03 12:14:11,932 - __main__ - INFO - Running news scraper...
+2025-05-03 12:14:11,932 - news_scraper - INFO - Starting news scraping
+2025-05-03 12:14:11,932 - news_scraper - INFO - Scraping source: PV Magazine India
+2025-05-03 12:14:11,934 - news_scraper - ERROR - Error scraping source PV Magazine India: 'search_pattern'
+2025-05-03 12:14:11,934 - news_scraper - INFO - Scraping source: ETEnergyWorld
+2025-05-03 12:14:11,934 - news_scraper - ERROR - Error scraping source ETEnergyWorld: 'search_pattern'
+2025-05-03 12:14:11,935 - news_scraper - INFO - Scraping source: Mercom India
+2025-05-03 12:14:11,935 - news_scraper - ERROR - Error scraping source Mercom India: 'search_pattern'
+2025-05-03 12:14:11,935 - news_scraper - WARNING - No projects extracted from news articles
+2025-05-03 12:14:11,936 - __main__ - INFO - Running satellite scraper...
+2025-05-03 12:14:11,936 - SatelliteScraper - INFO - Starting satellite data scraping
+2025-05-03 12:14:11,936 - SatelliteScraper - INFO - Processing location: Bhadla Solar Park, Rajasthan
+2025-05-03 12:14:11,936 - SatelliteScraper - INFO - Downloading sentinel-2 image for location: 26.9124, 71.917
+2025-05-03 12:14:11,937 - SatelliteScraper - INFO - Image already exists at data\satellite\sentinel-2_26.9124_71.9170.tif
+2025-05-03 12:14:11,937 - SatelliteScraper - INFO - Detecting solar arrays in data\satellite\sentinel-2_26.9124_71.9170.tif
+2025-05-03 12:14:11,951 - SatelliteScraper - INFO - Detected 2 potential solar arrays
+2025-05-03 12:14:11,952 - SatelliteScraper - INFO - Processing location: Charanka Solar Park, Gujarat
+2025-05-03 12:14:11,952 - SatelliteScraper - INFO - Downloading sentinel-2 image for location: 23.673, 72.5726
+2025-05-03 12:14:11,952 - SatelliteScraper - INFO - Image already exists at data\satellite\sentinel-2_23.6730_72.5726.tif
+2025-05-03 12:14:11,952 - SatelliteScraper - INFO - Detecting solar arrays in data\satellite\sentinel-2_23.6730_72.5726.tif
+2025-05-03 12:14:11,955 - SatelliteScraper - INFO - Detected 3 potential solar arrays
+2025-05-03 12:14:11,955 - SatelliteScraper - INFO - Processing location: Pavagada Solar Park, Karnataka
+2025-05-03 12:14:11,955 - SatelliteScraper - INFO - Downloading sentinel-2 image for location: 14.8971, 77.5876
+2025-05-03 12:14:11,956 - SatelliteScraper - INFO - Image already exists at data\satellite\sentinel-2_14.8971_77.5876.tif
+2025-05-03 12:14:11,956 - SatelliteScraper - INFO - Detecting solar arrays in data\satellite\sentinel-2_14.8971_77.5876.tif
+2025-05-03 12:14:11,958 - SatelliteScraper - INFO - Detected 1 potential solar arrays
+2025-05-03 12:14:11,959 - SatelliteScraper - INFO - Processing location: Bhanpura, Madhya Pradesh
+2025-05-03 12:14:11,959 - SatelliteScraper - INFO - Downloading sentinel-2 image for location: 25.2138, 75.8647
+2025-05-03 12:14:11,959 - SatelliteScraper - INFO - Image already exists at data\satellite\sentinel-2_25.2138_75.8647.tif
+2025-05-03 12:14:11,959 - SatelliteScraper - INFO - Detecting solar arrays in data\satellite\sentinel-2_25.2138_75.8647.tif
+2025-05-03 12:14:11,961 - SatelliteScraper - INFO - Detected 1 potential solar arrays
+2025-05-03 12:14:11,962 - SatelliteScraper - INFO - Processing location: Dhule, Maharashtra
+2025-05-03 12:14:11,962 - SatelliteScraper - INFO - Downloading sentinel-2 image for location: 21.2514, 73.246
+2025-05-03 12:14:11,962 - SatelliteScraper - INFO - Image already exists at data\satellite\sentinel-2_21.2514_73.2460.tif
+2025-05-03 12:14:11,962 - SatelliteScraper - INFO - Detecting solar arrays in data\satellite\sentinel-2_21.2514_73.2460.tif
+2025-05-03 12:14:11,964 - SatelliteScraper - INFO - Detected 3 potential solar arrays
+2025-05-03 12:14:11,964 - SatelliteScraper - INFO - Completed satellite scraping, found 10 potential installations
+2025-05-03 12:14:11,965 - __main__ - INFO - Processing data...
+2025-05-03 12:14:12,080 - __main__ - ERROR - Error in main application: cannot import name 'setup_logger' from 'utility_func' (C:\Users\linar\OneDrive\Desktop\SolGrid\utility_func.py)
+Traceback (most recent call last):
+  File "C:\Users\linar\OneDrive\Desktop\SolGrid\main.py", line 173, in <module>
+    main()
+  File "C:\Users\linar\OneDrive\Desktop\SolGrid\main.py", line 152, in main
+    process_data()
+  File "C:\Users\linar\OneDrive\Desktop\SolGrid\main.py", line 70, in process_data
+    from processing.data_processor import DataProcessor
+  File "C:\Users\linar\OneDrive\Desktop\SolGrid\processing\data_processor.py", line 16, in <module>
+    from utility_func import setup_logger, clean_text, standardize_date
+ImportError: cannot import name 'setup_logger' from 'utility_func' (C:\Users\linar\OneDrive\Desktop\SolGrid\utility_func.py). Did you mean: 'get_logger'?
+2025-05-03 12:15:37,096 - __main__ - INFO - Running all scrapers...
+2025-05-03 12:15:37,622 - __main__ - INFO - Running all scrapers...
+2025-05-03 12:15:37,623 - __main__ - INFO - Running mnre scraper...
+2025-05-03 12:15:37,623 - scraper_mnre - INFO - Starting MNRE data scraping
+2025-05-03 12:15:37,623 - scraper_mnre - INFO - Trying URL: https://mnre.gov.in/solar/
+2025-05-03 12:15:38,105 - scraper_mnre - INFO - Saved raw data to C:\Users\linar\OneDrive\Desktop\SolGrid\data\raw\mnre\mnre_solar_page.html_20250503_121538
+2025-05-03 12:15:38,124 - scraper_mnre - INFO - Trying URL: https://mnre.gov.in/solar/current-status/
+2025-05-03 12:15:49,551 - root - ERROR - Failed to get https://mnre.gov.in/solar/current-status/: 404 Client Error: Not Found for url: https://mnre.gov.in/solar/current-status/
+2025-05-03 12:15:49,551 - scraper_mnre - INFO - Trying URL: https://mnre.gov.in/solar-energy/overview/
+2025-05-03 12:16:00,690 - root - ERROR - Failed to get https://mnre.gov.in/solar-energy/overview/: 404 Client Error: Not Found for url: https://mnre.gov.in/solar-energy/overview/
+2025-05-03 12:16:00,690 - scraper_mnre - INFO - Trying URL: https://mnre.gov.in/solar/schemes/
+2025-05-03 12:16:00,954 - scraper_mnre - INFO - Saved raw data to C:\Users\linar\OneDrive\Desktop\SolGrid\data\raw\mnre\mnre_schemes_page.html_20250503_121600
+2025-05-03 12:16:00,974 - scraper_mnre - INFO - Searching path: https://mnre.gov.in/solar/solar-energy
+2025-05-03 12:16:12,150 - root - ERROR - Failed to get https://mnre.gov.in/solar/solar-energy: 404 Client Error: Not Found for url: https://mnre.gov.in/solar/solar-energy
+2025-05-03 12:16:12,151 - scraper_mnre - INFO - Searching path: https://mnre.gov.in/solar/solar-power
+2025-05-03 12:16:23,314 - root - ERROR - Failed to get https://mnre.gov.in/solar/solar-power: 404 Client Error: Not Found for url: https://mnre.gov.in/solar/solar-power
+2025-05-03 12:16:23,314 - scraper_mnre - INFO - Searching path: https://mnre.gov.in/solar/grid-connected
+2025-05-03 12:16:23,585 - scraper_mnre - INFO - Searching path: https://mnre.gov.in/solar/solar-rpg
+2025-05-03 12:16:34,789 - root - ERROR - Failed to get https://mnre.gov.in/solar/solar-rpg: 404 Client Error: Not Found for url: https://mnre.gov.in/solar/solar-rpg
+2025-05-03 12:16:34,790 - scraper_mnre - INFO - Searching path: https://mnre.gov.in/solar/schemes-and-programs
+2025-05-03 12:16:45,994 - root - ERROR - Failed to get https://mnre.gov.in/solar/schemes-and-programs: 404 Client Error: Not Found for url: https://mnre.gov.in/solar/schemes-and-programs
+2025-05-03 12:16:45,994 - scraper_mnre - INFO - Searching path: https://mnre.gov.in/solar/current-status/solar-energy
+2025-05-03 12:16:57,155 - root - ERROR - Failed to get https://mnre.gov.in/solar/current-status/solar-energy: 404 Client Error: Not Found for url: https://mnre.gov.in/solar/current-status/solar-energy
+2025-05-03 12:16:57,156 - scraper_mnre - INFO - Searching path: https://mnre.gov.in/solar/current-status/solar-power
+2025-05-03 12:17:08,317 - root - ERROR - Failed to get https://mnre.gov.in/solar/current-status/solar-power: 404 Client Error: Not Found for url: https://mnre.gov.in/solar/current-status/solar-power
+2025-05-03 12:17:08,319 - scraper_mnre - INFO - Searching path: https://mnre.gov.in/solar/current-status/grid-connected
+2025-05-03 12:17:19,494 - root - ERROR - Failed to get https://mnre.gov.in/solar/current-status/grid-connected: 404 Client Error: Not Found for url: https://mnre.gov.in/solar/current-status/grid-connected
+2025-05-03 12:17:19,494 - scraper_mnre - INFO - Searching path: https://mnre.gov.in/solar/current-status/solar-rpg
+2025-05-03 12:17:30,707 - root - ERROR - Failed to get https://mnre.gov.in/solar/current-status/solar-rpg: 404 Client Error: Not Found for url: https://mnre.gov.in/solar/current-status/solar-rpg
+2025-05-03 12:17:30,708 - scraper_mnre - INFO - Searching path: https://mnre.gov.in/solar/current-status/schemes-and-programs
+2025-05-03 12:17:42,938 - root - ERROR - Failed to get https://mnre.gov.in/solar/current-status/schemes-and-programs: 404 Client Error: Not Found for url: https://mnre.gov.in/solar/current-status/schemes-and-programs
+2025-05-03 12:17:42,939 - scraper_mnre - INFO - Searching path: https://mnre.gov.in/solar-energy/overview/solar-energy
+2025-05-03 12:17:54,137 - root - ERROR - Failed to get https://mnre.gov.in/solar-energy/overview/solar-energy: 404 Client Error: Not Found for url: https://mnre.gov.in/solar-energy/overview/solar-energy
+2025-05-03 12:17:54,137 - scraper_mnre - INFO - Searching path: https://mnre.gov.in/solar-energy/overview/solar-power
+2025-05-03 12:18:05,268 - root - ERROR - Failed to get https://mnre.gov.in/solar-energy/overview/solar-power: 404 Client Error: Not Found for url: https://mnre.gov.in/solar-energy/overview/solar-power
+2025-05-03 12:18:05,268 - scraper_mnre - INFO - Searching path: https://mnre.gov.in/solar-energy/overview/grid-connected
+2025-05-03 12:18:16,384 - root - ERROR - Failed to get https://mnre.gov.in/solar-energy/overview/grid-connected: 404 Client Error: Not Found for url: https://mnre.gov.in/solar-energy/overview/grid-connected
+2025-05-03 12:18:16,385 - scraper_mnre - INFO - Searching path: https://mnre.gov.in/solar-energy/overview/solar-rpg
+2025-05-03 12:18:27,557 - root - ERROR - Failed to get https://mnre.gov.in/solar-energy/overview/solar-rpg: 404 Client Error: Not Found for url: https://mnre.gov.in/solar-energy/overview/solar-rpg
+2025-05-03 12:18:27,557 - scraper_mnre - INFO - Searching path: https://mnre.gov.in/solar-energy/overview/schemes-and-programs
+2025-05-03 12:36:27,259 - storage.database - INFO - Created database engine for sqlite:///C:\Users\linar\OneDrive\Desktop\SolGrid\data\solar_detective.db
+2025-05-03 12:37:40,670 - main - INFO - Current database version: 2
+2025-05-03 12:38:59,179 - storage.migrations.init_db - INFO - Database initialized with schema and sample data

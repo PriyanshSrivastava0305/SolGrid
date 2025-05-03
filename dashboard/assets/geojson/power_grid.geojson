@@ -1,0 +1,31 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "transmission_line",
+        "voltage": "400kV",
+        "from_substation": "Bhuj",
+        "to_substation": "Banaskantha"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": []
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "substation",
+        "name": "Bhuj PGCIL",
+        "voltage": "765kV",
+        "capacity_mva": 3000
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [69.6692, 23.2420]
+      }
+    }
+  ]
+}

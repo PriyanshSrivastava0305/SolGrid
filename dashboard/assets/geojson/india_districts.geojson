@@ -1,0 +1,29 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "district_name": "Kutch",
+        "state_name": "Gujarat",
+        "district_code": "GJ_KUT"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": []
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district_name": "Jodhpur",
+        "state_name": "Rajasthan",
+        "district_code": "RJ_JOD"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": []
+      }
+    }
+  ]
+}

@@ -1,0 +1,192 @@
+/* map.css - Map-specific styles for Solar Detective Dashboard */
+
+/* Map Container */
+.map-container {
+    height: 70vh;
+    width: 100%;
+    position: relative;
+    border-radius: var(--border-radius-lg);
+    overflow: hidden;
+    box-shadow: var(--shadow-lg);
+  }
+  
+  #map {
+    height: 100%;
+    width: 100%;
+  }
+  
+  /* Map Controls */
+  .map-controls {
+    position: absolute;
+    top: var(--spacing-md);
+    right: var(--spacing-md);
+    z-index: 1000;
+    background-color: rgba(255, 255, 255, 0.9);
+    border-radius: var(--border-radius-md);
+    padding: var(--spacing-sm);
+    box-shadow: var(--shadow-md);
+  }
+  
+  .map-control-item {
+    margin-bottom: var(--spacing-xs);
+  }
+  
+  .map-control-item:last-child {
+    margin-bottom: 0;
+  }
+  
+  /* Map Legend */
+  .map-legend {
+    position: absolute;
+    bottom: var(--spacing-md);
+    right: var(--spacing-md);
+    z-index: 1000;
+    background-color: rgba(255, 255, 255, 0.9);
+    border-radius: var(--border-radius-md);
+    padding: var(--spacing-md);
+    box-shadow: var(--shadow-md);
+    max-width: 300px;
+  }
+  
+  .legend-title {
+    font-weight: 700;
+    margin-bottom: var(--spacing-sm);
+    font-size: 0.9rem;
+  }
+  
+  .legend-item {
+    display: flex;
+    align-items: center;
+    margin-bottom: var(--spacing-xs);
+    font-size: 0.8rem;
+  }
+  
+  .legend-color {
+    width: 16px;
+    height: 16px;
+    border-radius: 50%;
+    margin-right: var(--spacing-xs);
+  }
+  
+  /* Project Markers */
+  .marker-cluster {
+    background-color: rgba(255, 183, 3, 0.6);
+    border: 2px solid var(--primary);
+    border-radius: 50%;
+    text-align: center;
+    color: var(--dark);
+    font-weight: 700;
+  }
+  
+  .marker-utility {
+    background-color: var(--primary);
+  }
+  
+  .marker-rooftop {
+    background-color: var(--secondary);
+  }
+  
+  .marker-floating {
+    background-color: var(--accent);
+  }
+  
+  .marker-hybrid {
+    background-color: var(--primary-dark);
+  }
+  
+  /* Custom Popups */
+  .mapboxgl-popup-content,
+  .leaflet-popup-content-wrapper {
+    border-radius: var(--border-radius-md);
+    padding: 0;
+    overflow: hidden;
+    box-shadow: var(--shadow-lg);
+  }
+  
+  .popup-header {
+    background-color: var(--secondary);
+    color: var(--light);
+    padding: var(--spacing-sm) var(--spacing-md);
+  }
+  
+  .popup-body {
+    padding: var(--spacing-md);
+  }
+  
+  .popup-title {
+    margin: 0;
+    font-size: 1rem;
+  }
+  
+  .popup-subtitle {
+    font-size: 0.8rem;
+    opacity: 0.9;
+    margin-top: var(--spacing-xs);
+  }
+  
+  .popup-content {
+    margin-top: var(--spacing-sm);
+  }
+  
+  .popup-stat {
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: var(--spacing-xs);
+    font-size: 0.9rem;
+  }
+  
+  .popup-stat-label {
+    font-weight: 600;
+  }
+  
+  .popup-footer {
+    padding: var(--spacing-sm) var(--spacing-md);
+    background-color: var(--neutral-200);
+    text-align: right;
+  }
+  
+  /* Heat Map */
+  .heat-map-toggle {
+    position: absolute;
+    top: var(--spacing-md);
+    left: var(--spacing-md);
+    z-index: 1000;
+  }
+  
+  /* Layer Controls */
+  .layer-controls {
+    position: absolute;
+    top: var(--spacing-xl);
+    left: var(--spacing-md);
+    z-index: 1000;
+    background-color: rgba(255, 255, 255, 0.9);
+    border-radius: var(--border-radius-md);
+    padding: var(--spacing-sm);
+    box-shadow: var(--shadow-md);
+  }
+  
+  .layer-control-item {
+    display: flex;
+    align-items: center;
+    margin-bottom: var(--spacing-xs);
+  }
+  
+  .layer-control-item label {
+    margin-left: var(--spacing-xs);
+    font-size: 0.9rem;
+  }
+  
+  /* Responsive Map */
+  @media (max-width: 768px) {
+    .map-container {
+      height: 50vh;
+    }
+    
+    .map-controls,
+    .map-legend,
+    .layer-controls {
+      position: static;
+      margin-top: var(--spacing-md);
+      max-width: 100%;
+    }
+  }

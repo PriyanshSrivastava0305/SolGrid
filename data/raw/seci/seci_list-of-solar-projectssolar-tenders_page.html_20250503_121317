@@ -1,0 +1,450 @@
+
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta charset="utf-8" /><meta name="viewport" content="width=device-width, initial-scale=1" /><meta http-equiv="x-dns-prefetch-control" content="on" /><title>
+	Solar Energy Corporation of India Limited(SECI), A Government of
+        India Enterprise, Under Ministry of New and Renewable Energy
+</title>
+
+    <link rel="SHORTCUT ICON" href="https://seci.co.in/images/favicon.ico">
+    <!-- Bootstrap core CSS -->
+    <link href="https://seci.co.in/css/bootstrap.css" rel="stylesheet">
+    <!-- ICONS CSS -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css" /><link href="https://cdnjs.cloudflare.com/ajax/libs/OwlCarousel2/2.3.4/assets/owl.carousel.min.css" rel="stylesheet" />
+    <link href="https://seci.co.in/css/style.css" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css?family=Rubik:400,500&amp;display=swap" rel="stylesheet" />
+
+    <style>
+        .rptanchorcss:hover {
+            text-decoration: none;
+        }
+
+        section#main .row .col-md-8 div, section#main .row .col-md-8 p {
+            text-align: justify;
+        }
+
+        .nav > li > a {
+            display: inline-block;
+            padding: 10px 0px 10px 0px;
+            margin-right: 0px;
+            transition: 150ms;
+        }
+
+        .mnev li {
+            margin-right: 18px
+        }
+
+        .mnev_hindi li {
+            margin-right: 18px
+        }
+
+            .mnev_hindi li a {
+                font-weight: bold !important;
+            }
+
+            .mnev li:last-child, .mnev_hindi li:last-child {
+                margin-right: 0px
+            }
+
+            .mnev li li, .mnev_hindi li li {
+                margin-right: 0px;
+            }
+
+        @media(min-width:768px) {
+            .mnev .show, .mnev_hindi .show {
+                display: inline-block !important;
+            }
+        }
+
+        @media(max-width:767px) {
+            #srch {
+                display: none;
+            }
+        }
+
+        @media(max-width:991px) {
+            .nav > li > a {
+                display: inline-block;
+                padding: 10px 0px 10px 20px;
+                margin-right: 0px;
+            }
+
+            .pdmob {
+                padding: 8px 10px;
+            }
+        }
+
+        @media(min-width:992px)and (max-width:1199px) {
+            .nav > li > a {
+                padding: 10px 0px 10px 0px;
+                margin-right: 0px;
+            }
+        }
+
+        @media(min-width:1200px) {
+            .mnev, .mnev_hindi {
+                justify-content: space-between;
+                flex: 1;
+                margin: auto !important;
+                display: flex;
+            }
+        }
+
+        p.f-10, .f-10 a {
+            font-size: 10px !important;
+            padding-top: 2px;
+            text-align: right;
+        }
+
+        p.f-10-L, .f-10-L a {
+            font-size: 10px !important;
+            padding-top: 2px;
+            text-align: left;
+        }
+    </style>
+    
+
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+
+</head>
+<body>
+    <form name="aspnetForm" method="post" action="./Error-404.aspx?404%3bhttps%3a%2f%2fwww.seci.co.in%3a443%2fweb-data%2fdocs%2flist-of-solar-projectssolar-tenders" id="aspnetForm">
+<div>
+<input type="hidden" name="__EVENTTARGET" id="__EVENTTARGET" value="" />
+<input type="hidden" name="__EVENTARGUMENT" id="__EVENTARGUMENT" value="" />
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="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" />
+</div>
+
+<script type="text/javascript">
+//<![CDATA[
+var theForm = document.forms['aspnetForm'];
+if (!theForm) {
+    theForm = document.aspnetForm;
+}
+function __doPostBack(eventTarget, eventArgument) {
+    if (!theForm.onsubmit || (theForm.onsubmit() != false)) {
+        theForm.__EVENTTARGET.value = eventTarget;
+        theForm.__EVENTARGUMENT.value = eventArgument;
+        theForm.submit();
+    }
+}
+//]]>
+</script>
+
+
+<div>
+
+	<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="5968C6DA" />
+	<input type="hidden" name="__VIEWSTATEENCRYPTED" id="__VIEWSTATEENCRYPTED" value="" />
+	<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="OylrS4HzFqazsW+qndENJeRA50iKzKop2LI28WOyO6/LCuDFbHxEI57hUl39AUCwHmenYMAc4oeMY6hAqJYCoDNDCq2+p8ojdl9WjvYJ/EPhpZAp7PH0qYsPOF0obKfzdL/Cp4rO19zDgspbj79CGBJUovt7FouYV4lquTfF3r7tkqV/QhMcx5oWoXXJujZiy2bzNi3N9q2MwONG+Ufr56f1onA65E4UWUg5OF5XaX/qrsBrCHpWaVbkzCOapgGNrJCHz6evfY6cRapDOeX6eg==" />
+</div>
+        <div>
+            <header class="banner">
+                <div class="top-bar">
+                    <div class="container">
+                        <div class="row">
+                            <div class="col-md-6 col-sm-4 col-xs-7 no-padding-md">
+                                <div class="tb-link">
+                                    
+                                    <a href="https://www.facebook.com/SeciLimited/" target="_blank" title="Facebook"><i
+                                        class="fa fa-facebook sbtn s-fb"></i></a>
+                                    
+                                    <a href="https://twitter.com/seci_ltd" target="_blank" title="Twitter"><i class="fa fa-twitter sbtn s-tw"></i></a>
+                                    
+                                    <a href="https://www.linkedin.com/company/solar-energy-corporation-of-india" target="_blank" title="Linkedin"><i class="fa fa-linkedin sbtn s-ln"></i></a>
+                                    
+                                    <a href="https://www.youtube.com/channel/UCZG2Q72sTiocplOo8Bdqp6A" target="_blank" title="Youtube"><i class="fa fa-youtube sbtn s-yt"></i></a>
+                                    
+                                    <a href="https://www.bharat-electronictender.com" target="_blank" title="E-Tender"><i class="fa fa-folder sbtn s-fl"></i></a>
+                                    
+                                    <a href="https://email.gov.in/" target="_blank" title="Mail"><i class="fa fa-envelope sbtn s-mail"></i></a>
+                                    
+                                </div>
+                            </div>
+                            <div class="col-md-6 col-sm-8 col-xs-5 no-padding-md">
+                                <div class="pull-right">
+                                    <div class="tb-link hidden-xs">
+                                        <a href="#main"><i class="fa fa-level-down"></i>Skip to main content</a>
+                                    </div>
+                                    <div class="tb-link hidden-xs">
+                                        <a href="#" title="SiteMap"><i class="fa fa-sitemap"></i></a>
+                                    </div>
+                                    <div class="tb-link hidden-xs">
+                                        <a href="javascript:;" id="sizeDown" title="Smaller Font">
+                                            <img src="https://seci.co.in/images/a-min.png" class="size-font" alt="Smaller Font" /></a>
+                                        <a href="javascript:;" id="normal" title="Orignal Font">
+                                            <img src="https://seci.co.in/images/a-nor.png" class="size-font" alt="Orignal Font" /></a>
+                                        <a href="javascript:;" id="sizeUp" title="Larger Font">
+                                            <img src="https://seci.co.in/images/a-max.png" class="size-font" alt="Larger Font" /></a>
+                                    </div>
+                                    <div class="tb-link">
+                                        <span id="theme-dark"></span><span id="theme-default"></span>
+                                    </div>
+                                    <div class="tb-link">
+                                        
+                                                <a onclick="javascript:return _langalert(this.id);" id="ctl00_rptlanguage_ctl00_lnklang" class="rptanchorcss" href="javascript:__doPostBack(&#39;ctl00$rptlanguage$ctl00$lnklang&#39;,&#39;&#39;)">English |</a>
+                                                <input type="hidden" name="ctl00$rptlanguage$ctl00$hdlanid" id="ctl00_rptlanguage_ctl00_hdlanid" value="1" />
+                                                <input type="hidden" name="ctl00$rptlanguage$ctl00$hdlangcode" id="ctl00_rptlanguage_ctl00_hdlangcode" value="en" />
+                                            
+                                                <a onclick="javascript:return _langalert(this.id);" id="ctl00_rptlanguage_ctl01_lnklang" class="rptanchorcss" href="javascript:__doPostBack(&#39;ctl00$rptlanguage$ctl01$lnklang&#39;,&#39;&#39;)">हिंदी |</a>
+                                                <input type="hidden" name="ctl00$rptlanguage$ctl01$hdlanid" id="ctl00_rptlanguage_ctl01_hdlanid" value="2" />
+                                                <input type="hidden" name="ctl00$rptlanguage$ctl01$hdlangcode" id="ctl00_rptlanguage_ctl01_hdlangcode" value="hi" />
+                                            
+                                        
+                                        
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="container">
+                    <div class="row logo-bar">
+                        <div class="col-md-2 col-sm-3 hidden-xs">
+                            
+                        </div>
+                        <div class="col-md-8 col-sm-6 col-xs-12">
+                            <a href="https://seci.co.in/">
+                                <img src="https://seci.co.in/Upload/Main/638606419379092967.jpg" alt="solor_logo"
+                                    class="img-responsive" />
+                            </a>
+                        </div>
+                        <div class="col-md-2 col-sm-3 hidden-xs">
+                            
+                        </div>
+                    </div>
+                </div>
+                <div class="navbar-bg relative">
+                    <div class="container">
+                        <div class="row">
+                            <div class="col-md-12 no-padding">
+                                <!-- nav start -->
+                                <nav class="navbar navbar-default">
+                                    <div class="navbar-header">
+                                        <div class="input-group search hidden-md hidden-lg">
+                                            <input type="search" class="form-control" placeholder="Keyword ...">
+                                            <a href="" class="input-group-addon "><i class="fa fa-search"></i></a>
+                                        </div>
+                                        <button type="button" class="navbar-toggle hidden-sm" data-toggle="collapse" data-target="#myNavbar">
+                                            <span class="icon-bar"></span><span class="icon-bar"></span><span class="icon-bar"></span>
+                                        </button>
+                                    </div>
+                                    <div class="collapse navbar-collapse" id="myNavbar">
+                                        <ul class="nav navbar-nav mnev"><li class="active"><a href="https://seci.co.in/">Home</a></li><li class="dropdown"><a class="dropdown-toggle" role="button" aria-haspopup="true" aria-expanded="false" href="https://seci.co.in/about/introduction">About Us </a><span class="fa fa-caret-down pdmob" data-toggle="dropdown"></span><ul class="dropdown-menu"><li><a href="https://seci.co.in/about/introduction">About SECI</a></li><li><a href="https://seci.co.in/about/vision-and-mission">Vision And Mission</a></li><li><a href="https://seci.co.in/about/board-of-directors">Board of Directors & CVO</a></li><li><a href="https://seci.co.in/about/organizational-structure">Senior Executives</a></li><li><a href="https://seci.co.in/about/senior-executives">Contact Details of Senior Executives</a></li><li><a href="https://seci.co.in/about/code-of-conduct">Code of Conduct</a></li><li><a href="https://seci.co.in/about/csr-and-sustainability-policy-of-seci">SECI CSR</a></li><li><a href="https://seci.co.in/about/committees-of-the-board">Committees of the Board</a></li><li><a href="https://seci.co.in/about/secis-qehs-policy-and-objectives">SECI’s QEHS Policy and Objectives</a></li>  </ul>  </li>   <li class="dropdown"><a class="dropdown-toggle" href="https://seci.co.in/jnnsm/solar">Govt Schemes/Tenders  </a><span class="fa fa-caret-down pdmob" data-toggle="dropdown"></span>   <ul class="dropdown-menu"><li><a href="https://seci.co.in/jnnsm/solar">SOLAR</a></li><li><a href="https://seci.co.in/jnnsm/wind">WIND</a></li><li><a href="https://seci.co.in/jnnsm/hybrid">HYBRID</a></li><li><a href="https://seci.co.in/jnnsm/solar-park">Solar Park</a></li><li><a href="https://seci.co.in/jnnsm/green-hydrogen-and-green-ammonia">Green Hydrogen and Green Ammonia</a></li><li><a href="https://seci.co.in/jnnsm/energy-storage-systems-ess">Energy Storage Systems (ESS)</a></li><li><a href="https://seci.co.in/jnnsm/pli-scheme">PLI SCHEME</a></li><li><a href="https://seci.co.in/jnnsm/standard-bidding-guidelines">Standard Bidding Guidelines</a></li><li><a href="https://seci.co.in/jnnsm/statutory-requirements">Statutory Requirements</a></li><li><a href="https://seci.co.in/jnnsm/mission-document">Mission Document</a></li><li><a href="https://seci.co.in/jnnsm/phase-ii-batch-i">Phase-II, Batch-I</a></li><li><a href="https://seci.co.in/jnnsm/phase-ii-batch-iii">Phase-II, Batch-III</a></li><li><a href="https://seci.co.in/jnnsm/phase-ii-batch-iv">Phase-II, Batch- IV</a></li>  </ul>   </li>   <li class="dropdown"><a class="dropdown-toggle" href="https://seci.co.in/business/solar-thermal">Business   </a><span class="fa fa-caret-down pdmob" data-toggle="dropdown"></span>  <ul class="dropdown-menu"><li><a href="https://seci.co.in/business/power-trading">Power Trading</a></li><li><a href="https://seci.co.in/business/own-projects">Own Projects </a></li><li><a href="https://seci.co.in/business/project-management-consultancy">Project Management Consultancy</a></li><li><a href="https://seci.co.in/business/solar-photovoltaic">Solar Photovoltaic</a></li><li><a href="https://seci.co.in/business/solar-thermal">Solar Thermal</a></li><li><a href="https://seci.co.in/business/solarization-of-ports">Solarization of Ports</a></li><li><a href="https://seci.co.in/business/consultancy-services">Consultancy Services</a></li><li><a href="https://seci.co.in/business/r-and-d">R & D</a></li> </ul> </li>  <li class="dropdown"><a class="dropdown-toggle" href="https://seci.co.in/document/documents-faq">Documents/FAQ  </a><span class="fa fa-caret-down pdmob" data-toggle="dropdown"></span>  <ul class="dropdown-menu"><li><a href="https://seci.co.in/document/documents-faq">Documents/FAQ</a></li><li><a href="https://seci.co.in/document/publications">Publications</a></li><li><a href="https://seci.co.in/document/faq">FAQ</a></li><li><a href="https://seci.co.in/document/mou">MoU</a></li> </ul> </li>  <li class="dropdown"><a class="dropdown-toggle" href="https://seci.co.in/financial/digital-payment-modes">Financials  </a><span class="fa fa-caret-down pdmob" data-toggle="dropdown"></span>  <ul class="dropdown-menu"><li><a href="https://seci.co.in/financial/digital-payment-modes">Payment Modes</a></li><li><a href="https://seci.co.in/financial/monthly-payment">Monthly Payment</a></li><li><a href="https://seci.co.in/financial/annual-reports">Annual/ Periodic Financial Reports</a></li><li><a href="https://seci.co.in/financial/treds">TReDS</a></li><li><a href="https://seci.co.in/financial/tcs-reports">TCS Reports</a></li><li><a href="https://seci.co.in/financial/psm">PSM </a></li><li><a href="https://seci.co.in/financial/annual-return">Annual Return</a></li><li><a href="https://seci.co.in/financial/vendor-portal">Vendor Payment Status</a></li> </ul> </li>  <li><a href="https://seci.co.in/rti/seci_rti/particulars-of-pios">RTI</a></li>  <li class="dropdown"><a class="dropdown-toggle" href="https://seci.co.in/ists/solar">Projects under NSM    </a> <span class="fa fa-caret-down pdmob" data-toggle="dropdown"></span>   <ul class="dropdown-menu">      <li><a href="https://seci.co.in/ists/solar">Solar</a></li>      <li><a href="https://seci.co.in/ists/wind">Wind</a></li>      <li><a href="https://seci.co.in/ists/hybrid">Hybrid</a></li>      <li><a href="https://seci.co.in/ists/drc">DRC</a></li>      <li><a href="https://seci.co.in/ists/others">Others</a></li>  </ul>  </li><li class="dropdown"><a class="dropdown-toggle" role="button" aria-haspopup="true" aria-expanded="false" href="https://seci.co.in/vigilance/vigilance-at-seci">Vigilance</a><span class="fa fa-caret-down pdmob" data-toggle="dropdown"></span><ul class="dropdown-menu"><li><a href="https://seci.co.in/vigilance/vigilance-at-seci">Vigilance at SECI</a></li><li><a href="https://seci.co.in/vigilance/profile-of-cvo-seci">Profile of CVO, SECI</a></li><li><a href="https://seci.co.in/vigilance/contact-details-–-vigilance">Contact Details – Vigilance</a></li><li><a href="https://seci.co.in/vigilance/manuals-and-policies">Manuals & Guidelines </a></li><li><a href="https://seci.co.in/vigilance/intensive-examinations">Intensive Examinations</a></li><li><a href="https://seci.co.in/vigilance/seci-whistle-blower-policy">SECI Whistle Blower Policy</a></li><li><a href="https://seci.co.in/vigilance/pidpi">PIDPI</a></li><li><a href="https://seci.co.in/vigilance/complaint-handling-policy">Complaint Handling Policy</a></li><li><a href="https://seci.co.in/vigilance/vigilance-complaint-form">Vigilance Complaint Form</a></li><li><a href="https://seci.co.in/vigilance/vigilance-journal">Vigilance Journal </a></li><li><a href="https://seci.co.in/vigilance/vigilance-awareness-campaign-2024">Vigilance Awareness Campaign 2024</a></li>  </ul>  </li>  <li class="dropdown"><a class="dropdown-toggle" href="https://seci.co.in/page/careers">Careers    </a> <span class="fa fa-caret-down pdmob" data-toggle="dropdown"></span>   <ul class="dropdown-menu">      <li><a href="https://seci.co.in/page/careers">Jobs at SECI</a></li>      <li><a href="https://seci.co.in/page/seci-internship">SECI Internship</a></li>  </ul>  </li>  <li><a href="https://seci.co.in/contactus">Contact</a></li>  <li><a id="srch" style="padding:10px;"><i class="fa fa-search"></i></a></li></ul>
+                                    </div>
+                                </nav>
+                                <!-- nav end -->
+                            </div>
+                        </div>
+                        <div class="row hidden-xs hidden-sm" id="show-srch">
+                            <div class="col-md-12">
+                                <div class="input-group search">
+                                    <input name="ctl00$txtsearch" type="text" id="ctl00_txtsearch" class="form-control" placeholder="Keyword ..." />
+                                    <a onclick="javascript: _search('txtsearch');" class="input-group-addon"><i class="fa fa-arrow-right"></i></a>
+                                </div>
+                            </div>
+                        </div>
+                        <input type="hidden" name="ctl00$hdurl" id="ctl00_hdurl" value="https://seci.co.in/" />
+                    </div>
+                </div>
+            </header>
+            <div class="marquee_position">
+                <marquee class="marquee_text" behavior="scroll" direction="left" scrolldelay="70" scrollamount="4"
+                    onmouseover="this.stop();" onmouseout="this.start();">
+                    &nbsp;
+                  <i class="fa fa-star"></i> <a color="red"  href="https://www.seci.co.in/financial/digital-payment-modes" target="_blank">Payment Modes</a><i class="fa fa-star"></i> <a color="red"  href="https://pledge.cvc.nic.in/" target="_blank">Integrity Pledge</a><i class="fa fa-star"></i> <a color="red"  href="https://www.seci.co.in/financial/vendor-portal" target="_blank">Vendor Payment Status</a><i class="fa fa-star"></i> <a color="red"  href="/upload/static/files/CVC%20CIRCULAR%20DATED%2001082024.pdf" target="_blank">Vigilance Awareness Week 2024</a><i class="fa fa-star"></i> <a color="red"  href="https://cvc.gov.in/files/vigilance-awareness-week-pdf/VAW-2024-06_Audio.mpeg" target="_blank">Audio Jingles for Vigilance Awareness Week 2024</a><i class="fa fa-star"></i> <a color="red"  href="/upload/static/files/Unique%20Business%20Model%20of%20SECI%20Ltd.pdf" target="_blank">Unique Business Model of SECI Ltd</a>
+
+                </marquee>
+            </div>
+            
+
+    <section class="fullwidth-background">
+        <div class="breadcrumb-wrapper">
+            <div class="container">
+              
+                <img src="https://seci.co.in/images/error-404.jpg" style="Width:100%" />
+            </div>
+        </div>
+    </section>
+
+        </div>
+    </form>
+    <footer class="mt-20">
+        
+        <div class="owl-slider c-sldr">
+            <div id="carousel2" class="owl-carousel">
+                
+                <div class="item">
+                    <a href="https://data.gov.in/" target="_blank">
+                        <img class="owl-lazy" data-src="https://seci.co.in/upload/banner/637209746755983231.png" alt="Government Open Data License - India"></a>
+                </div>
+                
+                <div class="item">
+                    <a href="https://secure.mygov.in/home/blog/" target="_blank">
+                        <img class="owl-lazy" data-src="https://seci.co.in/upload/banner/637209749776206524.png" alt="Blogs Under MyGov"></a>
+                </div>
+                
+                <div class="item">
+                    <a href="https://www.mygov.in/" target="_blank">
+                        <img class="owl-lazy" data-src="https://seci.co.in/upload/banner/637209750424193668.png" alt="My Gov"></a>
+                </div>
+                
+                <div class="item">
+                    <a href="https://www.india.gov.in/" target="_blank">
+                        <img class="owl-lazy" data-src="https://seci.co.in/upload/banner/637209751605467786.png" alt="National Portal of India"></a>
+                </div>
+                
+                <div class="item">
+                    <a href="https://egreetings.gov.in/" target="_blank">
+                        <img class="owl-lazy" data-src="https://seci.co.in/upload/banner/637209752457829424.png" alt="eGreetings"></a>
+                </div>
+                
+                <div class="item">
+                    <a href="http://meity.gov.in/" target="_blank">
+                        <img class="owl-lazy" data-src="https://seci.co.in/upload/banner/637209753361445086.png" alt="Meity Gov"></a>
+                </div>
+                
+                <div class="item">
+                    <a href="https://www.pmindia.gov.in/en/" target="_blank">
+                        <img class="owl-lazy" data-src="https://seci.co.in/upload/banner/637209754704287520.png" alt="Prime Minister's Office"></a>
+                </div>
+                
+                <div class="item">
+                    <a href="http://www.digitalindia.gov.in/" target="_blank">
+                        <img class="owl-lazy" data-src="https://seci.co.in/upload/banner/637209755477116760.png" alt="DIGITAL INDIA"></a>
+                </div>
+                
+                <div class="item">
+                    <a href="https://self4society.mygov.in/" target="_blank">
+                        <img class="owl-lazy" data-src="https://seci.co.in/upload/banner/637209756577764534.png" alt="SELF4SOCIETY"></a>
+                </div>
+                
+                <div class="item">
+                    <a href="https://transformingindia.mygov.in/" target="_blank">
+                        <img class="owl-lazy" data-src="https://seci.co.in/upload/banner/637209757844825207.png" alt="Transforming India"></a>
+                </div>
+                
+                <div class="item">
+                    <a href="https://innovate.mygov.in/" target="_blank">
+                        <img class="owl-lazy" data-src="https://seci.co.in/upload/banner/637209759193919831.png" alt="innovate"></a>
+                </div>
+                
+                <div class="item">
+                    <a href="https://swachhbharat.mygov.in/" target="_blank">
+                        <img class="owl-lazy" data-src="https://seci.co.in/upload/banner/637209761176150524.png" alt="Swachh Bharat"></a>
+                </div>
+                
+                <div class="item">
+                    <a href="https://quiz.mygov.in/" target="_blank">
+                        <img class="owl-lazy" data-src="https://seci.co.in/upload/banner/637209762798843520.png" alt="Quiz mygov"></a>
+                </div>
+                
+            </div>
+        </div>
+        
+        <div class="ft-bg">
+            <div class="container">
+                <div class="row">
+                    <!-- <div class="col-md-12 col-sm-12 col-xs-12 text-right">
+			  <p class="num-visit mb-0 d-inline-block">
+				Number of Visits : 
+			  </p>
+			<div id="sfcjdw8fp4npcejb2uzs7cqb1p957nsclme" class="d-inline-block"></div>
+<script type="text/javascript" src="https://counter7.wheredoyoucomefrom.ovh/private/counter.js?c=jdw8fp4npcejb2uzs7cqb1p957nsclme&down=async" async></script>
+<noscript><a href="https://www.freecounterstat.com" title="free page counter"><img src="https://counter7.wheredoyoucomefrom.ovh/private/freecounterstat.php?c=jdw8fp4npcejb2uzs7cqb1p957nsclme" border="0" title="free page counter" alt="free page counter"></a></noscript>
+
+			  <p class="text-dark mb-0 font-weight-500">
+				Last Updated on : 18/December/2019
+			  </p>
+			</div> -->
+                    <div class="col-md-12 col-xs-12 text-center right-col-body">
+                        <!-- <h4>Quick Links</h4> -->
+                        <p class="font-weight-500 text-dark mb-0 text-center" style="padding-top: 5px;">
+                            
+                            <!-- hitwebcounter -->
+                            Visitors count since
+                            May 3, 2025
+                            :
+                            3188394
+                            <br />
+                            Website last updated :
+                            May 3, 2025
+                            
+                        </p>
+                        <ul class="text-center">
+                            <li><i class="fa fa-star" style="font-size: 14px;"></i><a href="https://seci.co.in/vigilance/vigilance-complaint-form">Lodge Complaint</a> </li>
+
+                            <li><i class="fa fa-star" style="font-size: 14px;"></i><a href="https://seci.co.in/grievance-portal">
+                                Feedback form</a> </li>
+                            <li><i class="fa fa-star" style="font-size: 14px;"></i><a href="https://seci.co.in/site/map">
+                                SiteMap</a> </li>
+                            <li><i class="fa fa-star" style="font-size: 14px;"></i><a href="https://seci.co.in/page/help">
+                                Help</a> </li>
+                            
+                            <li><i class="fa fa-star" style="font-size: 14px;"></i><a href="https://seci.co.in/page/related-links">
+                                Related Links</a> </li>
+                            
+                            <li><i class="fa fa-star" style="font-size: 14px;"></i><a href="https://seci.co.in/page/website-policies-and-disclaimer">
+                                Website Policies and Disclaimer</a> </li>
+                            <li><i class="fa fa-star" style="font-size: 14px;"></i><a href="https://seci.co.in/archives/data_archives">
+                                Archives</a> </li>
+                            <li><i class="fa fa-star" style="font-size: 14px;"></i><a href="http://secicms.pragyaware.com/">Upcoming new website</a> </li>
+                        </ul>
+                    </div>
+                    <div class="col-md-4 col-sm-5 col-xs-12">
+                        
+                        
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="bg-ft">
+            <div class="container">
+                <div class="row">
+                    <div class="col-sm-7">
+                        <p class="mb-0 f-10-L">
+                            Official Website Of Solar Energy Corporation Of India Ltd.
+                            
+                        </p>
+                    </div>
+                    <div class="col-sm-5">
+                        <p class="mb-0 f-10 ">
+                            Design &amp; Developed by <a href="https://www.paramountinfosystem.com" target="_blank">Paramount Infosystem Pvt. Ltd.</a>
+                        </p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </footer>
+    <a id="top-btn"></a>
+    <!--Jquery Library-->
+
+
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.4.1/js/bootstrap.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/OwlCarousel2/2.3.4/owl.carousel.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/jquery.marquee/1.3.1/jquery.marquee.min.js"></script>
+
+    <script src="https://seci.co.in/js/custom.js"></script>
+
+    <script>
+
+        function _search(_id) {
+            if (document.getElementById("ctl00_txtsearch").value.trim() == "") {
+                document.getElementById("ctl00_txtsearch").focus();
+                return false;
+            }
+            var hdeditbigid = document.getElementById("ctl00_txtsearch").value;
+            var _url = document.getElementById("ctl00_hdurl").value;
+            window.location = '' + _url + 'search-content-search/data?val=' + hdeditbigid + '';
+
+
+        }
+    </script>
+    <script> $(".marquee").on("mouseover", function (e) {
+            $(this).marquee("toggle");
+        });</script>
+    
+
+</body>
+</html>
